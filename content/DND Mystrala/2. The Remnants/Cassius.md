@@ -23,10 +23,10 @@ True changeling form is a white/grey blob appearing humanoid
 Feels comfortable in any form they choose to keep, switches between sex/gender and names fluidly
 
 ## Relationships
-- 'Entangled' with [[Dunspero Beaumont]], a relationship that was presumably frowned upon by her father [[Oswald Beaumont]], as he sent Cassius to [[Ironford Prison]] and requested that [[Gunner Ironford]] kill him once he arrive.
+- 'Entangled' with Dunspero Beaumont, a relationship that was presumably frowned upon by her father Oswald Beaumont, as he sent Cassius to [[Ironford Prison]] and requested that [[Gunner Ironford]] kill him once he arrive.
 - Parents, [[Zariah and Anelia Manath]], they are performers, happy to be on the road and spend time together; generally supportive of Cassius and came to [[New Calim]] out of concern for him
-	- His mother expressed disappointment to hear how blithely Cassius mentioned killing [[Oswald Beaumont]] 
-- Adopted sister, Chalice, doesn't really talk to her
+	- His mother expressed disappointment to hear how blithely Cassius mentioned killing Oswald Beaumont 
+- Adopted sister, Chalice, who he doesn't really talk to
 
 
 ## Secrets from the group

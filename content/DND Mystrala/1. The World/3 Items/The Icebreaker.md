@@ -1,4 +1,3 @@
-# `=this.file.name`
 ![[The Icebreaker.png]]
 
 ## Overview

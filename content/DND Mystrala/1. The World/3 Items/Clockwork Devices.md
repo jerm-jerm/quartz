@@ -1,4 +1,3 @@
-# `=this.file.name`
 ## Overview
 - Rudimentary Clockwork Soldiers
 - Clockwork Sentinels 
