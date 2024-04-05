@@ -3,7 +3,7 @@
 > # `Karsus Folly` 
 > ![[Placeholder Image.png|cover hm-sm]]
 > ###### Info
-> Type | Stat |
+> ‎  | ‎  |
 > ---|---|
 > Type | City | 
 > Population | Large | 
