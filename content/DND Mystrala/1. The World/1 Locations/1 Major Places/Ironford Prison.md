@@ -1,35 +1,23 @@
----
-Type: Prison
-Population: Unknown
-Theme: Underground cave prison
-Region: Northern
-MPF:
-  - "[[Gunner Ironford]]"
-  - "[[Church of Le Duegar]]"
-Groups: 
-Special: "Currency: Tickets"
----
-
 > [!infobox]
 > # `Ironford Prison` 
 > ![[Ironford Prison.png]]
 > ###### Info
 >  |
 > ---|---|
-> Type | `=this.type` | 
-> Population | `=this.population` | 
-> Theme | `=this.theme` |
-> Region | `=this.region` |
-> Major Political Figures | `=this.MPF` |
-> Groups | `=this.group` |
-> Special Notes |`=this.special`|
+> Type | Prison  | 
+> Population | Unknown  | 
+> Theme | Underground cave prison |
+> Region | Northern |
+> Major Political Figures | [[Gunner Ironford]], [[Church of Le Duegar]] |
+> Groups |  |
+> Special Notes |Currency: Tickets|
 
  
  ## Notable Locations
 > [!info]- Districts  
-> The Drowned Ward
-> The Depot
-> The Throne Room
+> - The Drowned Ward
+> - The Depot
+> - The Throne Room
 
 ## Notable Characters
 - [[Gunner Ironford]]
