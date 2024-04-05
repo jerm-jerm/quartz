@@ -1,40 +1,22 @@
----
-race: Duergar Dwarf
-sex: Male
-age: 
-condition: Healthy
-Location: Unknown
-class: 
-aliases: 
-knownfamily: 
-knowngroups:
-  - "[[The Savage Seven]]"
-  - "[[Church of Le Duegar]]"
-publish: "true"
----
-
-
-
 > [!infobox]
 > # `Gunner Ironford` 
 > ![[Gunner.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | `=this.race` | 
-> Sex | `=this.sex` | 
-> Age | `=this.age` |
-> Condition | `=this.condition` |
+> Race | Duergar Dwarf| 
+> Sex | Male| 
+> Age | Unknown|
+> Condition | Healthy |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | `=this.Location` |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
+> Current Location | Unknown|
+> Class | Unknown |
+> Alias(es) |  |
 > Known Family | |
-> Known Groups | `=this.knowngroups` |
+> Known Groups | [[The Savage Seven]], [[Church of Le Duegar]] |
  
-# `Gunner Ironford`
 ## History
 
 ### Current Activities
