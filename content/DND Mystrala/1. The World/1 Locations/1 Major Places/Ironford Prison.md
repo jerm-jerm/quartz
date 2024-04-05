@@ -2,7 +2,7 @@
 > # `Ironford Prison` 
 > ![[Ironford Prison.png]]
 > ###### Info
->  |
+>   |   |
 > ---|---|
 > Type | Prison  | 
 > Population | Unknown  | 
