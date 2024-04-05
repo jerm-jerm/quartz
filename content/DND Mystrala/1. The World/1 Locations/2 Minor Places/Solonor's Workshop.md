@@ -1,0 +1,1 @@
+On an island in the Skyshattered Isles outside of [[Valendri]].

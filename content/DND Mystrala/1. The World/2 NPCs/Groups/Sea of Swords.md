@@ -1,0 +1,1 @@
+Sea of Swords and the Paladins of Vigilance. Protect the city of [[New Calim]]. 

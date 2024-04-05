@@ -1,8 +1,8 @@
 > [!infobox]
 > # `Alhadria` 
 > ![[Placeholder Image.png|cover hm-sm]]
-> ###### Info
->  |  |
+> ###### Infomation
+> ‎  | ‎  |
 > ---|---|
 > Type | City | 
 > Population | Unknown | 

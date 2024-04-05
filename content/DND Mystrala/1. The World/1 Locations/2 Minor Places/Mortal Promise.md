@@ -1,1 +1,1 @@
-Valkur the demigod’s ship the “Mortal Promise” who became so powerful he may have ascended to God status themselves).
+Valkur the demigod’s ship the “Mortal Promise” who became so powerful he may have ascended to God status himself. Now the home for the [[Sea of Swords]] 

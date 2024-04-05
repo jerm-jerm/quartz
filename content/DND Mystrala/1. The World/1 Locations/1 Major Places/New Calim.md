@@ -1,8 +1,8 @@
 > [!infobox]
 > # `New Calim` 
 > ![[Placeholder Image.png|cover hm-sm]]
-> ###### Info
->   |  |
+> ###### Information
+>   ‎ | ‎  |
 > ---|---|
 > Type | City | 
 > Population | Large  | 

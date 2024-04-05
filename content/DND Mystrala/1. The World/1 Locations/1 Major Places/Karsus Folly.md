@@ -2,7 +2,7 @@
 > [!infobox]
 > # `Karsus Folly` 
 > ![[Placeholder Image.png|cover hm-sm]]
-> ###### Info
+> ###### Information
 > ‎  | ‎  |
 > ---|---|
 > Type | City | 
