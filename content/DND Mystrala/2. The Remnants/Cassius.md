@@ -1,7 +1,11 @@
+---
+Aliases: Cass, Vale
+---
+
 # Cassius Manath
 >  Character Name | Aliases | Class | Race | Age| Player Name |
 >  -- | -- | -- | -- | -- | --|
-> Cassius Manath | Vale | Bardlock | Changeling |--| Pierce|
+> Cassius Manath | Cass, Vale | Bardlock | Changeling |--| Pierce|
 
 > [!infobox]
 > ![[CasVale.png|cover hm-sm]]
