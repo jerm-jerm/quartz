@@ -1,1 +1,1 @@
-**Malak - Alhadria used to be filled with Far Travellers. Malak (a kid at the time, about 300 years ago), left another continent and brought his people to the desert to be “awakened.” Him and his people massacred the Far Empire and created their own settlement**
+300 years when Malak was essentially a kid he left another continent and brought his people to the [[Delmiri Desert]] to be "awakened." Him and his people massacred the Far Empire travelers that lived there and created their own settlement. 

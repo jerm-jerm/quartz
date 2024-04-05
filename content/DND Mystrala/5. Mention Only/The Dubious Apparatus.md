@@ -1,1 +1,0 @@
-**a Netherese Charm that only sorcerers can use called the Dubious Apparatus. Stolen from a ship that was destroyed by a dragon.**

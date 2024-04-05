@@ -1,26 +1,15 @@
----
-Type: City
-Population: Large
-Theme: 
-Region: Southwest
-MPF:
-  - "[[Oswald Beaumont]]"
-Groups: "[[The Merchant Consortium]]"
-Special:
----
-
 > [!infobox]
 > # `New Calim` 
 > ![[Placeholder Image.png|cover hm-sm]]
 > ###### Info
 >  |
 > ---|---|
-> Type | `=this.type` | 
-> Population | `=this.population` | 
-> Theme | `=this.theme` |
-> Region | `=this.region` |
-> Major Political Figures | `=this.MPF` |
-> Groups | `=this.group` |
+> Type | City | 
+> Population | Large  | 
+> Theme |  |
+> Region | Southwest  |
+> Major Political Figures | [[Oswald Beaumont]] ☠  |
+> Groups | [[The Merchant Consortium]]  |
 
 ## Notable Locations
 > [!info]+ Districts  

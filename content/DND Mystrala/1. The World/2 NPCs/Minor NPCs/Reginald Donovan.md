@@ -1,2 +1,4 @@
-# Reginald "Reggie" Donovan
-owner of gunshop called the hunstmans promise
+---
+aliases: Reggie Donovan
+---
+Owner of gunshop called the Hunstman's Promise in [[New Calim]].

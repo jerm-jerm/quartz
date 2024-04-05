@@ -1,39 +1,26 @@
 ---
-race: 
-sex: Male
-age: 
-condition: Healthy
-Location: "[[Karsus Folly]]"
-class: Wizard
 aliases:
   - Prince Alexi Faraday
-knownfamily: 
-knowngroups:
-  - "[[The Savage Seven]]"
 ---
-
-
-
 > [!infobox]
 > # `Alexi Faraday` 
 > ![[Placeholder Image.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | `=this.race` | 
-> Sex | `=this.sex` | 
-> Age | `=this.age` |
-> Condition | `=this.condition` |
+> Race |  | 
+> Sex | Male | 
+> Age |  |
+> Condition | Healthy |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | `=this.Location` |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
-> Known Family |`=this.knownfamily` |
-> Known Groups | `=this.knowngroups` |
- 
-# `Alexi Faraday`
+> Current Location | [[Karsus Folly]]  |
+> Class | Wizard |
+> Alias(es) | Prince Alexi Faraday |
+> Known Family | |
+> Known Groups | [[The Savage Seven]]  |
+
 ## History
 A part of [[The Savage Seven]] when they destroyed [[The Inevitable]] and make magic items from its corpse. Has some sort of magical contraption as his component.
 

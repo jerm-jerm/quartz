@@ -1,1 +1,1 @@
-**Elhorn - deadly sorcerer that killed Varrick’s family**
+Deadly mage (?sorcerer) that killed [[Varrick]]’s son with a ill used lightning bolt in a tavern.

@@ -14,7 +14,7 @@
 
  
  ## Notable Locations
-> [!info]- Districts  
+> [!info]+ Districts  
 > - The Drowned Ward
 > - The Depot
 > - The Throne Room

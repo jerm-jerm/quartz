@@ -1,2 +1,2 @@
 # Capitan Oliver "Double-Crossed" Bentley
-**Captain Oliver “double-crossed” Bentley - Langston pirate that attacked our ship, we bested him in battle and his ship was destroyed among jagged rocks, he cursed our ship as we left him there**
+A [[Langston Pirates|Langston pirate]] that attacked the group's ship [[The Icebreaker]], the group bested him in battle and his ship was destroyed among jagged rocks, he cursed the ship as the group left him there screaming.

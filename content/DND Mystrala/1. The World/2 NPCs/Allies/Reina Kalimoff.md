@@ -1,39 +1,22 @@
----
-race: 
-sex: Female
-age: 
-condition: Healthy
-Location: "[[New Calim]]"
-class: 
-aliases:
-  - Capitan Reina Kalimoff
-knownfamily: 
-knowngroups:
-  - "[[Sea of Swords]]"
----
-
-
-
 > [!infobox]
 > # `Reina Kalimoff` 
 > ![[Kalimoff.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | `=this.race` | 
-> Sex | `=this.sex` | 
-> Age | `=this.age` |
-> Condition | `=this.condition` |
+> Race | | 
+> Sex | Female  | 
+> Age |  |
+> Condition | Healthy  |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | `=this.Location` |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
-> Known Family |`=this.knownfamily` |
-> Known Groups | `=this.knowngroups` |
+> Current Location | [[New Calim]]  |
+> Class | |
+> Alias(es) | Capitan Reina Kalimoff |
+> Known Family | |
+> Known Groups | [[Sea of Swords]]  |
  
-# `Reina Kalimoff`
 ## History
 
 ### Current Activities

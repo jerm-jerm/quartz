@@ -1,18 +1,3 @@
----
-race: 
-sex: Male
-age: Old
-condition: Healthy
-Location: "[[Karsus Folly]]"
-class: Wizard
-aliases:
-  - Ottoluke Organdorf
-knownfamily: 
-knowngroups:
-  - "[[The Savage Seven]]"
-  - "[[Sea of Swords]]"
----
-
 
 
 > [!infobox]
@@ -21,20 +6,19 @@ knowngroups:
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | `=this.race` | 
-> Sex | `=this.sex` | 
-> Age | `=this.age` |
-> Condition | `=this.condition` |
+> Race | | 
+> Sex | Male | 
+> Age | Old |
+> Condition | Healthy  |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | `=this.Location` |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
-> Known Family |`=this.knownfamily` |
-> Known Groups | `=this.knowngroups` |
- 
-# `Ottoluke Organdorf`
+> Current Location | [[Karsus Folly]]  |
+> Class | Wizard |
+> Alias(es) |  |
+> Known Family | |
+> Known Groups | [[The Savage Seven]], [[Sea of Swords]]  |
+
 ## History
 Originally a member of [[The Savage Seven]], turned his part of [[The Inevitable]] into a book, which he then gambled away for drinking money. Subsequently left the Savage Seven and felt somewhat bad about his actions while a part of the but did not elaborate on things the group did.
 

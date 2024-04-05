@@ -1,25 +1,15 @@
----
-Type: City
-Population: 
-Theme: 
-Region: 
-MPF: 
-Groups: 
-Special:
----
-
 > [!infobox]
 > # `Langston` 
 > ![[Placeholder Image.png|cover hm-sm]]
 > ###### Info
 >  |
 > ---|---|
-> Type | `=this.type` | 
-> Population | `=this.population` | 
-> Theme | `=this.theme` |
-> Region | `=this.region` |
-> Major Political Figures | `=this.MPF` |
-> Groups | `=this.group` |
+> Type | City | 
+> Population | | 
+> Theme |  |
+> Region | Southern |
+> Major Political Figures | |
+> Groups |  |
 
 ## Notable Locations
 > [!info]+ Districts  

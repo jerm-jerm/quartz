@@ -1,13 +1,3 @@
----
-Type: City
-Population: Large
-Theme: Victorian architecture
-Region: Western
-MPF:
-  - "[[Alexi Faraday]]"
-Groups:
-Special:
----
 ![[Karsus Folly.png|banner]] 
 > [!infobox]
 > # `Karsus Folly` 
@@ -15,19 +5,19 @@ Special:
 > ###### Info
 >  |
 > ---|---|
-> Type | `=this.type` | 
-> Population | `=this.population` | 
-> Theme | `=this.theme` |
-> Region | `=this.region` |
-> Major Political Figures | `=this.MPF` |
-> Groups | `=this.group` |
+> Type | City | 
+> Population | Large | 
+> Theme | Victorian |
+> Region | Western  |
+> Major Political Figures | [[Alexi Faraday]] |
+> Groups | |
 
 ## Notable Locations
 > [!info]+ Districts  
-> Arcane Quarter
-> Alchemy Districts
-> The Enclave
-> The Enchanting Ward
+> - Arcane Quarter
+> - Alchemy Districts
+> - The Enclave
+> - The Enchanting Ward
 
 > [!info]+ Other Points of Interest
 > [[Ottoluke's Apartment]] 

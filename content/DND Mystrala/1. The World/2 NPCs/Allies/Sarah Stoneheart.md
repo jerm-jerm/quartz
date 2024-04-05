@@ -1,39 +1,22 @@
----
-race: Goliath
-sex: Female
-age: 
-condition: Healthy
-Location: "[[New Calim]]"
-class: 
-aliases:
-  - Capitan Sarah Stoneheart
-knownfamily: "[[Varrick]]"
-knowngroups:
-  - "[[Sea of Swords]]"
----
-
-
-
 > [!infobox]
 > # `Sarah Stoneheart` 
 > ![[SarahStoneheart.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | `=this.race` | 
-> Sex | `=this.sex` | 
-> Age | `=this.age` |
-> Condition | `=this.condition` |
+> Race | Goliath  | 
+> Sex | Female  | 
+> Age |  |
+> Condition |Healthy  |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | `=this.Location` |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
-> Known Family |`=this.knownfamily` |
-> Known Groups | `=this.knowngroups` |
+> Current Location | [[New Calim]]  |
+> Class | |
+> 	Alias(es) | Capitan Stoneheart |
+> Known Family | [[Varrick]]  |
+> Known Groups | [[Sea of Swords]] |
  
-# `Sarah Stoneheart`
 ## History
 
 ### Current Activities

@@ -1,19 +1,9 @@
 ---
-race: Human
-sex: Male
-age: 
-condition: Deceased
-Location: 
-class: Bard
 aliases:
   - The Duke
-knownfamily: "[[Dunspero Beaumont]]"
-knowngroups:
-  - "[[The Savage Seven]]"
-  - "[[The Merchant Consortium]]"
 ---
 
-# Duke Oswald Beaumont
+# Lord Oswald Beaumont
 
 
 
@@ -24,20 +14,19 @@ knowngroups:
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | `=this.race` | 
-> Sex | `=this.sex` | 
-> Age | `=this.age` |
-> Condition | `=this.condition` |
+> Race | Human  | 
+> Sex | Male | 
+> Age |  |
+> Condition |Deceased |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | `=this.Location` |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
-> Known Family |`=this.knownfamily` |
-> Known Groups | `=this.knowngroups` |
+> Current Location |  |
+> Class |Bard |
+> Alias(es) | The Duke |
+> Known Family |[[Dunspero Beaumont]]  |
+> Known Groups | [[The Savage Seven]] [[The Merchant Consortium]]  |
  
-# `Oswald Beaumont`
 ## History
 Has previously aligned with the Queen of Brightwater and conducts hostile corporate takeovers. Conducted one on the college that Cassius's family owned. Tarnishing the Manath name in order to take control of the failing college. 
 

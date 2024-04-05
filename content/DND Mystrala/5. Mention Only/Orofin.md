@@ -1,1 +1,0 @@
-**Orofin: adult red dragon or people going missing**
