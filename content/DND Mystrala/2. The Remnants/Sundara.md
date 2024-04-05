@@ -21,9 +21,10 @@ Can be hesitant to act when a straightforward, 'correct' course of action isn't 
 - [[Varrick]], has made efforts to protect Sundara since they were in [[Ironford Prison]] together. Sometimes she is put off or nervous about how well he seems to 'handle' magic users. But, outside of him being cursed or possessed, she trusts Varrick with her life.
 
 ## Secrets from the group
-- She has talked with Solonor in her dreams and had recent interactions with him in the Clockwork Void
+- She has always downplayed or skirted around discussing her feelings about Solonor
+	- She has talked with Solonor in her dreams and had recent interactions with him in the Clockwork Void
 - She is of [[Mechanus]] and possibly immortal
-- 
+- She detected something unusual when banishing [[Cassius]] to [[Mechanus]] 
 ``` custom-frames
 frame: DNDBeyond Sundara
 ```
