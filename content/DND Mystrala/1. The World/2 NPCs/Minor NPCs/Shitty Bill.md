@@ -1,0 +1,1 @@
+ **black Tabaxi with greasy yellow eyes, affiliated with the Undertavern - previously) who stole a Solonor clockwork machine from Karsus Folly and was supposed to bring it back to the Gilded Glave but sold it off after getting paid**

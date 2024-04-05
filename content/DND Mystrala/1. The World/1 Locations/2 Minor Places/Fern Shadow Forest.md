@@ -1,0 +1,3 @@
+**Fern Shadow Forest (forest outside of New Calim) - home to a young green dragon and it’s druid servant who make the forest the dragon's domain and have caused a blight on the living beings there.**
+
+**Young Green Dragon of the Forest - Forest being consumed by blight. Battled with a young green dragon named ***. He hinted towards an alliance since we were powerful enough to not immediately die. “I spit on this forrest and make it my domain”**

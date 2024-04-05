@@ -1,0 +1,1 @@
+Valkur the demigod’s ship the “Mortal Promise” who became so powerful he may have ascended to God status themselves).

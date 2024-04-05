@@ -1,0 +1,1 @@
+Used to be the base player of the group, stabbed Varrick at one point. Likes explosives.
