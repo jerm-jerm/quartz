@@ -20,8 +20,8 @@
 > - The Enchanting Ward
 
 > [!info]+ Other Points of Interest
-> [[The Shattered Spire]]
-> [[Ottoluke's Apartment]] 
+> - [[The Shattered Spire]]
+> - [[Ottoluke's Apartment]] 
 
 ## Notable Characters
 - Prince [[Alexi Faraday]]
