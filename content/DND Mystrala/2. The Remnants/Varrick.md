@@ -13,6 +13,9 @@ He was sent to [[Ironford Prison]] along with [[Cassius]] and [[Japheth]] after 
 
 Recently learned that his ex-wife Sarah Stoneheart hid their child (5 year old daughter named, ???) from him because he was too unstable.
 
+## Current Events
+Recently sacrificed being remembered as a husband and a father for more power. Only he remembers being married and being the father to his late son and living daughter.
+
 ### Description and Characteristics
 Large imposing goliath, shaved head, and beard. Wears full armor most often. Has multiple tattoos.
 

@@ -21,10 +21,10 @@
 Model citizen and star child of the Elisthorn Family. She was skeptic of [[Sundara]]'s decision to leave Valendri and thought she was putting off her responsibility to their people. Elowen talked among their people that Sundara become Unbound. This severely damaged the sisters relationship before Sundara left.
 
 ### Current Activities
-Left [[Valendri]] and is currently in [[Karsus Folly]] working as a representative for the Valendri people with Prince [[Alexi Faraday]] as her patron.
+Left [[Valendri]] searching for Sundara who was under the [[Ironford Prison]] tattoo curse. She is currently in [[Karsus Folly]] working as a representative for the Valendri people with Prince [[Alexi Faraday]], who she is also romantically involved in.
 
 ### Personality Traits
-Confident and boisterous
+Confident and boisterous. Feels she bears the entire burden of the Valendri people on her shouldrs.
 
 ### Relation to The Remnants 
 - Older sister to [[Sundara]]

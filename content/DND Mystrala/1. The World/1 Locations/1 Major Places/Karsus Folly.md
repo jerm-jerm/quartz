@@ -40,16 +40,4 @@ A magician named Igor, who we met in the [[Delmiri Desert]], lost his position i
 
 The unknown clockwork apparatus that opened a portal destroying the [[Voidwing Sisterhood]] originated in Karsus Folly.
 
-```leaflet 
-id: Mystrala
-image: [[Mystrala.png]] 
-height: 500px 
-width: 75%
-lat: 50
-long: 50
-minZoom: 1 
-maxZoom: 10 
-defaultZoom: 9
-unit: meters 
-scale: 1
-darkMode: true ```
+![[Mystrala.png]] 

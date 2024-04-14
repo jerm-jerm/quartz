@@ -4,11 +4,11 @@ aliases:
 ---
 > [!infobox]
 > # `Alexi Faraday` 
-> ![[Placeholder Image.png]]
+> ![[Alexi Faraday.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race |  | 
+> Race | Human | 
 > Sex | Male | 
 > Age |  |
 > Condition | Healthy |
@@ -22,19 +22,22 @@ aliases:
 > Known Groups | [[The Savage Seven]]  |
 
 ## History
-A part of [[The Savage Seven]] when they destroyed [[The Inevitable]] and make magic items from its corpse. Has some sort of magical contraption as his component.
+His ancestors from Drakemire fought alongside the Netherese against the [[Phaerimm]].
 
-Has a wizard tower in [[Karsus Folly]]. Previously had a scribe, [[Kazak]] Ninefingers, that worked for him. He imprisoned this scribe after he studied some of Faraday's secret scrolls. 
+A part of [[The Savage Seven]] when they destroyed [[The Inevitable]] and made magic items from its corpse. Has a wizard tower in [[Karsus Folly]]. Previously had a scribe, [[Kazak]] Ninefingers, that worked for him. He imprisoned this scribe after he studied some of Faraday's secret scrolls. In his tower he has the gavel of [[The Inevitable]] on display in one of the many halls.
 
 Created a device, supposedly, for the [[Voidwing Sisterhood]] to open a portal to Shadowfell to have a closer connection to the Raven Queen.
 
 ### Current Activities
 Working in some capacity with [[Solonor]] to create magic devices that have a component of both clockwork and magical runes.
 
+Believes magic should be freely given, that limitations are a bastardization of magic, and it should be like it was before the Spellplague.
+
 ### Personality Traits
+Comes off as charismatic and charming, tries to defuse tense situations with jokes and really nice alcohol.
 
 ### Relation to The Remnants 
-- Is the patron to [[Elowen Elisthorn]]
+- Is in a romantic relationship with [[Sundara|Sundara Elisthorn's]] sister [[Elowen Elisthorn]]
 
 ## Known Stats
 Graviturgy Wizard

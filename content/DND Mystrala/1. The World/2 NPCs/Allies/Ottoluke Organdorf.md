@@ -28,7 +28,7 @@ Subsequently, worked with Capitan [[Reina Kalimoff]] as a [[Sea of Swords]] arch
 Was recently studying a stack of books looking into demons, demigorgons, The Oberith, The Tinari, and Pizzuz.
 
 ### Personality Traits
-Eccentric, bad vice for gambling for drinking money, goes commando
+Eccentric, will gamble pretty much anything away for drinking money, goes commando
 
 ### Relation to The Remnants 
 - Tied to the group as a part of their [[Sea of Swords]] contract

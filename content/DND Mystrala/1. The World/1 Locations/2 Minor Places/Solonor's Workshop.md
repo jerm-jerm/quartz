@@ -1,1 +1,1 @@
-On an island in the Skyshattered Isles outside of [[Valendri]].
+On/inside of an island in the Skyshattered Isles outside of [[Valendri]].

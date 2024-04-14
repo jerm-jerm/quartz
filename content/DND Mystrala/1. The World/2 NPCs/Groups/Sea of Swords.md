@@ -1,1 +1,1 @@
-Sea of Swords and the Paladins of Vigilance. Protect the city of [[New Calim]]. 
+Sea of Swords combined with the Paladins of Vigilance. Role is to protect the city of [[New Calim]]. 

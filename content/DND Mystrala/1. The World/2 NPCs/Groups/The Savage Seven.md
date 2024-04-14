@@ -19,8 +19,8 @@ Unknown
 > Member |  Piece | Location|
 > ---|---|---|
 > Solonor | Unknown | Unknown |
-> Alexi Faraday | Magical contraption | Unknown
-> Oswald Beaumont | [[Harmonic Resonator]] Chimes | The Remnants 
+> Alexi Faraday | [[Pieces of The Inevitable|Gavel of the Judge]] | [[Karsus Folly]] 
+> Oswald Beaumont | [[Pieces of The Inevitable|Harmonic Resonator]] Chimes | The Remnants 
 > Gunner Ironford | Hammer | Unknown, suspect out East
 > Ironheart | Unknown | Unknown, suspect in The [[Delmiri Desert]]
 > Miradark | Mace | Unknown, suspect near the Serpentlord Shrine 

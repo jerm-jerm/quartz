@@ -4,8 +4,11 @@
 - Clockwork Trolls
 
 Some require [[Spark]] to function. Multiple iterations of them, some more rudimentary than others. Many connect to a 'collective.' 
+
+With enough effort [[Sundara]] can destroy them magically or disconnect them from the collective and have them follow her commands.
+
 ### Location
-Large collection location in [[New Calim]].
+Large collection located in [[New Calim]].
 
 ### Capabilities
 More advanced Clockwork Sentinels speak with a mechanical version of Solonor’s voice. 

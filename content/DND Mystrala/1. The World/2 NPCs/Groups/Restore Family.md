@@ -3,4 +3,4 @@ aliases:
   - The Undertavern
 ---
 
-Restore - old man and leader of the Undertavern. Do not like [[The Merchant Consortium]].
+Restore himself is old man and leader of the Undertavern. Do not like [[The Merchant Consortium]]. Has other members such as [[Uncle Jackie]].

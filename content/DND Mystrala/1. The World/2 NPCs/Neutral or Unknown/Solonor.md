@@ -34,10 +34,10 @@ Is known through Karsus as The Shipbuilder, a creator of various magical [[Clock
 Unknown
 
 ### Personality Traits
-Exacting. Views the subject of missing souls, or the souls themselves, as insignificant. Creating complex [[Clockwork Devices]] is a type of art.
+Exacting. Views the subject of missing souls, or the souls themselves, as insignificant. Believes creating complex [[Clockwork Devices]] is a type of art.
 
 ## Associates
-- Previously associated with [[The Savage Seven]] 
+- Associated with [[The Savage Seven]] 
 - [[Sea of Swords]] - called his work a blight on the ocean
 
 ### Relation to The Remnants 

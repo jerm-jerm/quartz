@@ -7,7 +7,7 @@ The group placed an enchanting lectern from the Delmiri Desert in the lower leve
 
 [[Sundara]] utilized the Shipstarting scrolls to learn how to operate The Icebreaker when [[Kazak]] left the group.
 
-The ship was destroyed by [[Briggs]], when the group was confronted by [[Gunner Ironford]] in the bay of [[New Calim]] and [[Sundara]] refused to give [[Gunner Ironford]] the remaining Shipstarting Scrolls, instead burning them in front of him. He attacked the group and [[Briggs]] blew up the ship engine during the escape. 
+The ship was destroyed by [[Briggs]], when the group was confronted by [[Gunner Ironford]] in the bay of [[New Calim]] and [[Sundara]] refused to give [[Gunner Ironford]] the remaining Shipstarting Scrolls, instead burning them in front of him. He attacked the group and Briggs blew up the ship engine during the escape. 
 
 ### Location
 - Currently unknown, presumably being repaired by [[Solonor]] 
