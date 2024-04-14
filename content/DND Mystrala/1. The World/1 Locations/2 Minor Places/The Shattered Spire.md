@@ -2,7 +2,7 @@
 > # `The Shattered Spire` 
 > ![[The Shattered Spire.png|cover hm-sm]]
 > ###### Info
->  |  |
+> ‎  | ‎  |
 > ---|---|
 > Type | Wizard Tower | 
 > Location | [[Karsus Folly]]  |
