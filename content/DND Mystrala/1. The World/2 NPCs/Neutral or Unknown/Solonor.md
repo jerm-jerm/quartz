@@ -19,7 +19,7 @@ aliases:
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | Skyshattered Isles (presumed) |
+> Current Location | Unknown |
 > Class | Sorcerer |
 > Alias(es) | The Shipmaker, Solonor The Disgraced |
 > Known Family | |

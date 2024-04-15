@@ -32,7 +32,10 @@ Tends to act first and ask questions later.
 - [[Sundara]], Varrick believes something special is going on with Sundara and his instinct is to stay close and protect her
 
 ## Secrets from the group
+- He traded memories for power and made a warlock pact with an unknown patron
 
+
+-
 ``` custom-frames
 frame: DNDBeyond Stack
 ```

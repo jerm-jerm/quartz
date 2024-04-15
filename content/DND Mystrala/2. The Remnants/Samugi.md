@@ -27,8 +27,10 @@ Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversatio
 ## Relationships
 - .
 ## Secrets from the group
-- .
+- Carrying around a giant clockwork tube
 
+
+-
 ``` custom-frames
 frame: DNDBeyond Samugi
 ```

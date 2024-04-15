@@ -15,18 +15,18 @@ Unknown
 - Miradark - a death cleric who has recently been near the Serpentlord Shrine
 - Previously [[Ottoluke Organdorf]] 
 
-#### Pieces of The Inevitable
+#### [[Pieces of The Inevitable]]
 > Member |  Piece | Location|
 > ---|---|---|
-> Solonor | Unknown | Unknown |
-> Alexi Faraday | [[Pieces of The Inevitable|Gavel of the Judge]] | [[Karsus Folly]] 
-> Oswald Beaumont | [[Pieces of The Inevitable|Harmonic Resonator]] Chimes | The Remnants 
-> Gunner Ironford | Hammer | Unknown, suspect out East
-> Ironheart | Unknown | Unknown, suspect in The [[Delmiri Desert]]
-> Miradark | Mace | Unknown, suspect near the Serpentlord Shrine 
-> Ottoluke | Book | Unknown, last gambled away in [[Langston]] 
+> Solonor | The Eyes/Unknown | Unknown |
+> Alexi Faraday | Gavel of the Judge | [[Karsus Folly]] |
+> Oswald Beaumont | Harmonic Resonator Chimes | The Remnants |
+> Gunner Ironford | Hammer | Unknown, suspect out East |
+> Ironheart | Unknown | Unknown, suspect in The [[Delmiri Desert]] |
+> Miradark | Mace | Unknown, suspect near the Serpentlord Shrine |
+> Ottoluke | Book | Unknown, last gambled away in [[Langston]] |
 
 ### Relation to The Remnants 
-- The Remnants have been tasked with obtaining the pieces of [[The Inevitable]]
+- The Remnants have been tasked with obtaining the [[Pieces of The Inevitable]]
 - Cassius and Oswald and Gunner
 - Solonor and Sundara

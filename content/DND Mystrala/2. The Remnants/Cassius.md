@@ -38,7 +38,7 @@ Feels comfortable in any form they choose to keep, switches between sex/gender a
 - Knows that [[Oswald Beaumont]] is dead and that his daughter [[Dunspero Beaumont]] is pretending to be him
 
 
-
+-
 ``` custom-frames
 frame: DNDBeyond Cass
 ```
