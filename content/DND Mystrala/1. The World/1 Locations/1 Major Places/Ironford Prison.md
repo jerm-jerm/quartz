@@ -8,7 +8,7 @@
 > Population | Unknown  | 
 > Theme | Underground cave prison |
 > Region | Northern |
-> Major Political Figures | [[Gunner Ironford]], [[Church of Le Duegar]] |
+> Major Political Figures | [[Gunner Ironford]], [[Church of Laduguer]] |
 > Groups |  |
 > Special Notes |Currency: Tickets|
 

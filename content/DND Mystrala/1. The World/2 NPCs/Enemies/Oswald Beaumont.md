@@ -11,7 +11,7 @@ aliases:
 
 > [!infobox]
 > # `Oswald Beaumont` 
-> ![[Placeholder Image.png]]
+> ![[DOB.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
@@ -27,6 +27,7 @@ aliases:
 > Alias(es) | The Duke |
 > Known Family |[[Dunspero Beaumont]]  |
 > Known Groups | [[The Savage Seven]] [[The Merchant Consortium]]  |
+
  
 ## History
 Has previously aligned with the Queen of Brightwater and conducts hostile corporate takeovers. Conducted one on the college that Cassius's family owned. Tarnishing the Manath name in order to take control of the failing college. 

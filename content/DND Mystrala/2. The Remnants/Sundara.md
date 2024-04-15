@@ -10,6 +10,12 @@
 Grew up in the city of Valendri atop the [[Valendri|Skyshattered Isles]]. Left her family and home and learned magic from [[Solonor]], but was sent to [[Ironford Prison]] by him when she began to explore more about the magic he was hiding. She is trying to discover more about her magic and find ways to help her people, while grappling the the complicated feeling around Solonor and helping those that have helped her along the way.
 
 ## Current Events
+Refused to give [[Gunner Ironford]] the Shipstarting Scrolls for [[The Icebreaker]] resulting in the death of [[Billy the Boatswain]] (Sessions [[22 - 02182024|22]] and [[23 - 02232024|23]]).
+
+Learns from Solonor that she is not Valendrian, instead is from Mechanus ([[24 - 03032024|Session 24]]).
+
+Reunites with her sister Elowen at a charity ball hosted by [[Alexi Faraday]] ([[29 - 04052024|Session 29]]).
+
 Trying to learn more about [[Mechanus]] and her relationship to the plane.
 
 ### Description and Characteristics

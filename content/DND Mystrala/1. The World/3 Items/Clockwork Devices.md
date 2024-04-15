@@ -3,7 +3,7 @@
 - Clockwork Sentinels 
 - Clockwork Trolls
 
-Some require [[Spark]] to function. Multiple iterations of them, some more rudimentary than others. Many connect to a 'collective.' 
+Some require [[Spark]] to function. Multiple iterations of them, some more rudimentary than others. Many connect to a 'collective.' First seen in a widespread force invading [[New Calim]] with [[Oswald Beaumont]] ([[16 - 01092024|Session 16]]). They are assembeled in a factory primarily run by gnomes from the Engineering Consortium, an 'engineer' is responsible to putting the [[Spark]] tincture in them as part of the final step of assembly ([[21 - 02102024|Session 21]]).
 
 With enough effort [[Sundara]] can destroy them magically or disconnect them from the collective and have them follow her commands.
 
