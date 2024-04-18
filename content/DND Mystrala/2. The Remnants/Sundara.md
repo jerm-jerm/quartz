@@ -25,7 +25,7 @@ Can be hesitant to act when a straightforward, 'correct' course of action isn't 
 ## Relationships
 ![[SundaraFamily.png|left|200]] 
 - Solonor, strained push/pull dynamic. Sundara has many strong feelings for him including admiration, anger, and attraction. Recent visions of losing him pull at her heart.
-- Her sister, [[Elowen]], and her have a strained relationship. Elowen feels she bears the burden of her people alone. She also knows about Sundara and Solonor and thinks Solonor is some type of leech on Valendri itself.
+- Her sister, [[Elowen Elisthorn|Elowen]], and her have a strained relationship. Elowen feels she bears the burden of her people alone. She also knows about Sundara and Solonor and thinks Solonor is some type of leech on Valendri itself.
 - [[Varrick]], has made efforts to protect Sundara since they were in [[Ironford Prison]] together. Sometimes she is put off or nervous about how well he seems to 'handle' magic users. But, outside of him being cursed or possessed, she trusts Varrick with her life.
 
 ## Secrets from the group

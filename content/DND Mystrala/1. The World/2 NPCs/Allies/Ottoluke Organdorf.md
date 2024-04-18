@@ -20,12 +20,12 @@
 > Known Groups | [[The Savage Seven]], [[Sea of Swords]]  |
 
 ## History
-Originally a member of [[The Savage Seven]], turned his part of [[The Inevitable]] into a book, which he then gambled away for drinking money. Subsequently left the Savage Seven and felt somewhat bad about his actions while a part of the but did not elaborate on things the group did.
+Originally a member of [[The Savage Seven]], turned his part of [[The Inevitable]] into a book, which he then gambled away for drinking money. Subsequently left the Savage Seven and felt somewhat bad about his actions while a part of the group but did not elaborate on things the group did.
 
-Subsequently, worked with Capitan [[Reina Kalimoff]] as a [[Sea of Swords]] archivist. Part of the responding force of the day [[New Calim]] was attacked by [[Gunner Ironford]]. In a meeting with the higher members of the Sea of Swords information was revealed regarding Ottoluke's past relation with the Savage Seven and he was stripped of his title as archivist. He was offered a position as a Crusader if the group monitored him.
+Subsequently, worked with Capitan [[Reina Kalimoff]] as a [[Sea of Swords]] archivist. 
 
 ### Current Activities
-Was recently studying a stack of books looking into demons, demigorgons, The Oberith, The Tinari, and Pizzuz ([[24 - 03032024|Session 24]]).
+Part of the responding force of the day [[New Calim]] was attacked by [[Gunner Ironford]]. In a meeting with the higher members of the Sea of Swords information was revealed regarding Ottoluke's past relation with the Savage Seven and he was stripped of his title as archivist. He was offered a position as a Crusader if the group monitored him. Was also noted to be studying a stack of books looking into demons, demigorgons, The Oberith, The Tinari, and Pizzuz ([[24 - 03032024|Session 24]]).
 
 ### Personality Traits
 Eccentric, will gamble pretty much anything away for drinking money, goes commando.

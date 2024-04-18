@@ -12,7 +12,7 @@ Special:
 > # `{{title}}` 
 > ![[Placeholder Image.png|cover hm-sm]]
 > ###### Info
->  |  |
+> ‎  |‎   |
 > ---|---|
 > Type | `=this.type` | 
 > Population | `=this.population` | 

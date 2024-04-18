@@ -30,7 +30,7 @@ Pale, sallow appearing, jet black eyes, various colored hair (black, violet, gre
 - .
 
 ## Secrets from the group
-- .
+- Saw the markings on the hands of [[Dunspero Beaumont]] marking her a member of The [[Circle of Ruin and Thistle]] 
 
 
 -

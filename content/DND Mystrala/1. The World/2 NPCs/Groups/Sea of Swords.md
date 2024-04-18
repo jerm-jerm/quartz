@@ -1,1 +1,1 @@
-Sea of Swords combined with the Paladins of Vigilance. Role is to protect the city of [[New Calim]]. 
+Sea of Swords combined with the Paladins of Vigilance. Role is to protect the city of [[New Calim]]. Requested the group retrieve The [[Pieces of The Inevitable]] to prevent the destruction of the world if the heart of [[Karsus]] was recreated.

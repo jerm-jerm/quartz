@@ -1,0 +1,1 @@
+Close friend of [[Varrick]], knows about his dark past, and works with [[Sarah Stoneheart]]. 

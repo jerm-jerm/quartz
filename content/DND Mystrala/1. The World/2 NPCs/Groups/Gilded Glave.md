@@ -1,1 +1,1 @@
-Thomas Malone, task master operating out of the Jaded Jackal
+Thomas Malone, task master operating out of the Jaded Jackal. Was disbanded after the takeover of the city by Duke [[Oswald Beaumont]].

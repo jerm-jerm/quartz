@@ -1,0 +1,3 @@
+Apartment in [[New Calim]], rented out to the group under a local landlord named Hank. A few members signed a lease with fake names, [[Samugi]] signed the lease (which was a fey contract) with his real name.
+
+A massive rat lived in the apartment and demanded [[Cassius]] bring him fresh meat. The rat implied that they killed the previous tenant and would not hesitate to kill us as well. It was not in a necessarily nice area of the city. The group never cleaned or decorated the apartment so it was a pretty miserable place to stay.

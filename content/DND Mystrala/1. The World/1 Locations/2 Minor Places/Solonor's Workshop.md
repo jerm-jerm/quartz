@@ -1,1 +1,1 @@
-On/inside of an island in the Skyshattered Isles outside of [[Valendri]].
+On/inside of an island in the Skyshattered Isles outside of [[Valendri]]. Previously where [[Solonor]] lived. [[Sundara]] lived with Solonor in this workshop for a few months where she began formally studying her magic abilities. 

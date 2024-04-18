@@ -1,13 +1,5 @@
 ---
-race: 
-sex: 
-age: 
-condition: 
-Location: 
-class: 
 aliases: 
-knownfamily: 
-knowngroups:
 ---
 
 
@@ -31,7 +23,7 @@ knowngroups:
 > Known Family |`=this.knownfamily` |
 > Known Groups | `=this.knowngroups` |
  
-# `{{title}}`
+
 ## History
 
 ### Current Activities

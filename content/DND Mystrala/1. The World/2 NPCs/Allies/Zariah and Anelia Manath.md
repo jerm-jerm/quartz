@@ -1,1 +1,1 @@
-Zariah and Anelia Manuth tell [[Cassius]] that they came to the city out of concern for them, not for Cas to be worried about his parents. His mom looks unimpressed and almost disappointed when Cas casually mentions that he killed DOB
+Zariah and Anelia Manuth tell [[Cassius]] that they came to the city out of concern for them, not for Cas to be worried about his parents. His mom looks unimpressed and almost disappointed when Cas casually mentions that he killed DOB ([[23 - 02232024|Session 23]]).
