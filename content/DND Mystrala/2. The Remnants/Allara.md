@@ -5,7 +5,7 @@ aliases:
 
 >  Character Name | Aliases | Class | Race | Age| Player Name |
 >  -- | -- | -- | -- | -- |--|
-> Allara | Alice Thorne | Life Domain Cleric | Elf|--|Eddie|
+> Allara | Alice Thorne | Life Domain Cleric | Shadar Kai Elf|--|Eddie|
 
 > [!infobox]
 > ![[Allara.png|cover hm-sm]]
@@ -21,16 +21,19 @@ Allara originally worked for the [[Gilded Glave]] transporting goods. She was tr
 ## Current Events
 Lost many of her sisters in the raid by [[Circle of Ruin and Thistle]] ([[15 - 01012024|Session 15]]).
 
-Jumps from a 150ft tower, severely and permanently injuring her leg. The group takes her to an artificer who crafts a [[Clockwork Devices|clockwork]] leg for her (Sessions [[27 - 03242024|27]] and [[28 - 03302024|28]]). 
+Jumped from a 150ft tower, severely and permanently injuring her leg. The group takes her to an artificer who crafts a [[Clockwork Devices|clockwork]] leg for her (Sessions [[27 - 03242024|27]] and [[28 - 03302024|28]]). 
+
+Met with her brother before leaving [[Karsus Folly]]. His contract was given to Xander to conduct occult investigations near Serpent Lord Shrine. He say that life in The Far Empire is not as bad as Allara thinks it is. He tells her that [[The Savage Seven|Mira]] knows all about Allara and would like to talk to her about working for her.
 
 ### Description and Characteristics
 Pale, sallow appearing, jet black eyes, various colored hair (black, violet, grey). Can transform into a poisonous form with long talon like nails and crying black ichor. 
 
 ## Relationships
-- .
+- Brother, unknown name, appear close to each other
 
 ## Secrets from the group
 - Saw the markings on the hands of [[Dunspero Beaumont]] marking her a member of The [[Circle of Ruin and Thistle]] 
+- Mira (likely from [[The Savage Seven]]?) would like to talk to Allara about working for her and Allara would be owed a few years wages and would probably be paid what she is owed if she worked with her
 
 
 -

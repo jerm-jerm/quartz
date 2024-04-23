@@ -22,6 +22,7 @@
 > [!info]+ Other Points of Interest
 > - [[The Shattered Spire]]
 > - Ottoluke's Apartment 
+> - Artist's Shop
 
 ## Notable Characters
 - Prince [[Alexi Faraday]]

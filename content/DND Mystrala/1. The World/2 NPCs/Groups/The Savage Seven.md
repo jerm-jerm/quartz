@@ -28,5 +28,6 @@ Unknown
 
 ### Relation to The Remnants 
 - The Remnants have been tasked with obtaining the [[Pieces of The Inevitable]]
-- Cassius and Oswald and Gunner
-- Solonor and Sundara
+- [[Cassius]] and Oswald and Gunner
+- Solonor and [[Sundara]] 
+- Mira is interested in [[Allara]] 

@@ -1,1 +1,0 @@
-Male goliath druid that is a part of The [[Circle of Ruin and Thistle]]. Was brought back from the dead by Melania. Battled with Varrick in a duel during Alexi Faraday's party. Looks similar to [[Varrick]].

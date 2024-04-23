@@ -24,7 +24,7 @@
 - [[Thomas Malone]] 
 
 ## History
-Previously under the "protection" of a pirate clan, but the [[Sea of Swords]] hosted at The [[Mortal Promise]] took over and were considered protectors of the area. [[The Merchant Consortium]] hosted at the Golden Quill seems to be a contentious entity in the city, making some people rather wealthy but despised by the [[Restore Family|Undertavern]]. 
+Previously under the "protection" of a pirate clan, but the [[Sea of Swords]] hosted at The [[Mortal Promise]] took over and were considered protectors of the area. [[The Merchant Consortium]] hosted at the Golden Quill seems to be a contentious entity in the city, making some people rather wealthy but despised by the [[Restore Family|Undertavern]]. Overall the city has been attacked multiple times in the last few years.
 
 The [[Voidwing Sisterhood]] was destroyed by a portal to the elemental plane of fire and with the city under attack, Lord [[Oswald Beaumont]] and his army of Clockwork Sentinels took over the city. The Clockwork Consortium, the only engineer guild in the city, hires primarily gnomes and were in charge of creating more [[Clockwork Devices|Clockwork Sentinels]] at a factory in the industrial district. The city was tense for some time under the strict rule of Oswald Beaumont, The Remnants tried inciting rebellion unsuccessfully a couple of time.
 

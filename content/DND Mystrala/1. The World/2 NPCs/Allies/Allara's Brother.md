@@ -1,0 +1,3 @@
+[[Allara]] and her brother appear to have a close relationship. He is under a FETC contract and is currently working under Xander. He notes he cannot simply leave with Allara because breaking his contract would mean repo men are sent after him. He says life in the Far Empire isnt as bad as it seems. He tells Allara, "This life would have been yours if you stayed." But Allara says she would have been traded and sacrificed, "He would have sold me to some cult."
+
+His contact is Mira ([[The Savage Seven]]?) and she knows all about Allara and has been asking about her. 
