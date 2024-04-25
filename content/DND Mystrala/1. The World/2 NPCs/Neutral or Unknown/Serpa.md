@@ -12,15 +12,15 @@ aliases:
 > ---|---|
 > Race | Goliath  | 
 > Sex | Male | 
-> Age | `=this.age` |
+> Age | - |
 > Condition | Healthy |
 > ######  Information
 > Type |  Stat |
 > ---|---|
 > Current Location | Camp outside of [[Karsus Folly]]  |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
-> Known Family |`=this.knownfamily` |
+> Class | - |
+> Alias(es) | - |
+> Known Family |- |
 > Known Groups | [[Circle of Ruin and Thistle]] |
  
 
