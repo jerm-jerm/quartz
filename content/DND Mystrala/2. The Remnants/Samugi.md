@@ -19,15 +19,16 @@ Spent one night working at the [[Clockwork Devices|Clockwork Factory]] where the
 
 Samugi spent time in battle tinkering with a Clockwork troll and starts to have a higher understanding of clockwork devices built by Solonor ([[26 - 03172024|Session 26]]).
 
-Carrying around a large metal tube, the remainder of the group does not currently know what it does.
+Carrying around a large metal tube, that carries his clockwork soul companion.
 
 ### Description and Characteristics
 Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversations with wise people. Very adept at tinkering.
 
 ## Relationships
 - .
+
 ## Secrets from the group
-- Carrying around a giant clockwork tube
+- .
 
 
 -

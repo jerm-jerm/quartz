@@ -23,7 +23,9 @@ Lost many of her sisters in the raid by [[Circle of Ruin and Thistle]] ([[15 - 0
 
 Jumped from a 150ft tower, severely and permanently injuring her leg. The group takes her to an artificer who crafts a [[Clockwork Devices|clockwork]] leg for her (Sessions [[27 - 03242024|27]] and [[28 - 03302024|28]]). 
 
-Met with her brother before leaving [[Karsus Folly]]. His contract was given to Xander to conduct occult investigations near Serpent Lord Shrine. He say that life in The Far Empire is not as bad as Allara thinks it is. He tells her that [[The Savage Seven|Mira]] knows all about Allara and would like to talk to her about working for her.
+Met with her brother before leaving [[Karsus Folly]]. His contract was given to Xander to conduct occult investigations near Serpent Lord Shrine. He say that life in The Far Empire is not as bad as Allara thinks it is. He tells her that [[The Savage Seven|Mira]] knows all about Allara and would like to talk to her about working for her ([[31 - 04212024|Session 31]]).
+
+Tried and was unable to save Varrick from death during the groups battle with [[Fern Shadow Forest|Rotgasp]] ([[32 - 04282024|Session 32]]).
 
 ### Description and Characteristics
 Pale, sallow appearing, jet black eyes, various colored hair (black, violet, grey). Can transform into a poisonous form with long talon like nails and crying black ichor. 

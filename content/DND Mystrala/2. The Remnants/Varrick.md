@@ -20,6 +20,8 @@ Was briefly cursed and attacked Sundara in a rage against all magic users ([[25 
 
 Recently sacrificed being remembered as a husband and a father for more power. Only he remembers being married and being the father to his late son and living daughter. ([[29 - 04052024|Session 29]]). He does this so that the powerful enemies they make along they way can't target Sarah and Natasha, although he didn't know that he was specifically joining the suspicious circle. He was subsequently initiated into The [[Circle of Ruin and Thistle]] in a battle to the death against [[Serpa]] ([[30 - 04142024|Session 30]]), and after his death he was revived. The Circle states that this process of being reborn through The World Tree connects them all. There appears to be some connection between joining the Circle, The Harbinger, and possibly The World Tree, but that is unknown currently.
 
+Fought toe-to-toe with a young green dragon and held his own but was ultimately killed after being dropped 190ft ([[32 - 04282024|Session 32]]).
+
 ### Description and Characteristics
 Large imposing goliath, shaved head, and beard. Wears full armor most often. Has multiple tattoos.
 

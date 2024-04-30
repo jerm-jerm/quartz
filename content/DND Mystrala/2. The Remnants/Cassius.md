@@ -13,7 +13,7 @@ Aliases: Cass, Vale
 ## Backstory
 His gift/curse of being a changeling was given to him by The Traveler.
 
-Raised as a noble in a castle. His family owned a college in ?[[Brightwater]]? The college was taken over by Duke [[Oswald Beaumont]], who smeared the Manath family name and destroyed the institution. 
+Raised as a noble in a castle. His family owned a college in [[Brightwater]]. The college was taken over by Duke [[Oswald Beaumont]], who smeared the Manath family name and destroyed the institution. 
 
 At some point Cassius become 'entangled' with [[Dunspero Beaumont]] and has maybe even considered marrying her. After breaking into the Beaumont manor with [[Varrick]] and [[Japheth]], Cassius was sent to [[Ironford Prison]].
 
@@ -37,7 +37,7 @@ Feels comfortable in any form they choose to keep, switches between sex/gender a
 
 
 ## Secrets from the group
-- .
+- Contacted [[Alexi Faraday]] after the death of Varrick to exchange the [[Pieces of The Inevitable|Harmonic Resonator]] for help
 
 
 -

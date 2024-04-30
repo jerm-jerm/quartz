@@ -22,7 +22,7 @@ aliases:
 > Known Groups | [[The Savage Seven]]  |
 
 ## History
-His ancestors from Drakemire fought alongside the Netherese against the [[Phaerimm]].
+His ancestors from Drakemire fought alongside the Netherese against the [[Phaerimm]]. Faraday commissioned a ship to escape and when the captain of that ship found a secret of his, he allegedly had the entire crew killed. This led to [[Vitaly]] Draganovic on a quest of revenge.
 
 A part of [[The Savage Seven]] when they destroyed [[The Inevitable]] and made magic items from its corpse. Has a wizard tower in [[Karsus Folly]]. Previously had a scribe, [[Kazak]] Ninefingers, that worked for him. He imprisoned this scribe after he studied some of Faraday's secret scrolls. In his tower he has the gavel of [[The Inevitable]] on display in one of the many halls.
 
@@ -38,6 +38,7 @@ Comes off as charismatic and charming, tries to defuse tense situations with jok
 
 ### Relation to The Remnants 
 - Is in a romantic relationship with [[Elowen Elisthorn]]
+- [[Vitaly]] is determined to prevent Faraday from obtaining the pieces of The Inevitable
 
 ## Known Stats
 Graviturgy Wizard
