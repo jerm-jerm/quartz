@@ -1,8 +1,5 @@
----
-title: In a world where cities soar and magic flows, our adventures begin...
----
 ![[HomeBanner.png|banner]]
-
+# In a world where cities soar and magic flows, our adventures begin... 
 ## This is a chronicle of the journey of the members of the adventuring group, **The Remnants**, as they explore the mysteries, struggles, and triumphs of the world of Mystrala.
 
 The World
@@ -26,5 +23,6 @@ The World
 [Session Notes](https://jerm-jerm.github.io/quartz/DND-Mystrala/3.-Session-Notes/ )
 The Harbor Ghost (Blades in the Dark)
 
-![[Mystrala.png]]This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[Mystrala.png]]
+
+
