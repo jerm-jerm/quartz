@@ -22,7 +22,7 @@ Samugi spent time in battle tinkering with a Clockwork troll and starts to have 
 Carrying around a large metal tube, that carries his clockwork soul companion.
 
 ### Description and Characteristics
-Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversations with wise people. Very adept at tinkering.
+![[IconMonk.png|right|150]] Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversations with wise people. Very adept at tinkering. 
 
 ## Relationships
 - .

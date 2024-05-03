@@ -23,7 +23,7 @@ Helped in the battle of The Remnants vs Oswald Beaumont, stated he didn't want t
 Met The Traveler after having a Spark drink and identifying an object from ?another reality. While there he learned how to use his powers that are "in tune with creation." There he saw a young red tiefling wearing his face before witnessing the end of the world at the hand of The [[Phaerimm]] ([[29 - 04052024|Session 29]]). During that same event he finally revealed to the group that they had truly killed Duke Oswald Beaumont.
 
 Cassius expressed concern that his sister Chalice might have gotten into some trouble as she hadn't been seen in quite awhile and divination magic was not working on her ([[31 - 04212024|Session 31]]).
-
+![[IconBard.png|right|150]]
 ### Description and Characteristics
 True changeling form is a white/grey blob appearing humanoid
 Feels comfortable in any form they choose to keep, switches between sex/gender and names fluidly

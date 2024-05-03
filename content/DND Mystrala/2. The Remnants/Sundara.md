@@ -15,6 +15,7 @@ Refused to give [[Gunner Ironford]] the Shipstarting Scrolls for [[The Icebreake
 Learns from Solonor that she is not Valendrian, instead is of Mechanus and immortal ([[24 - 03032024|Session 24]]).
 
 Reunites with her sister [[Elowen Elisthorn]] at a charity ball hosted by [[Alexi Faraday]] and after some tension the sisters exchange kind words. Sundara telling Elowen that she is happy for her and only wants to make sure she is safe. Elowen telling Sundara that when she was missing it was hard on the family, but she is proud of her and sometimes jealous of her magic (Sessions [[29 - 04052024|29]] and [[30 - 04142024|30]]).
+![[IconSorcerer.png|right|150]]
 
 
 ### Description and Characteristics
