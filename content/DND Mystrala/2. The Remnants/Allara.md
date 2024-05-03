@@ -32,6 +32,7 @@ Pale, sallow appearing, jet black eyes, various colored hair (black, violet, gre
 
 ## Relationships
 - Brother, unknown name, appear close to each other
+- Was upset when [[Varrick]] decided to join The Circle of Ruin and Thistle. Varrick used his dying breath to apologize to Allara while she tried to heal him.
 
 ## Secrets from the group
 - Saw the markings on the hands of [[Dunspero Beaumont]] marking her a member of The [[Circle of Ruin and Thistle]] 
