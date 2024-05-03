@@ -2,7 +2,7 @@
 title: The Mystrala Almanac
 ---
 ![[HomeBanner.png|banner]]
-# In a world where cities soar and magic flows, our adventures begin
+# In a world where cities soar and magic flows, our adventures begin...
 
 ### A chronicle from the journey of the adventuring group, **The Remnants**, as they explore the mysteries, struggles, and triumphs of the world of Mystrala.
 [Session Notes](https://jerm-jerm.github.io/quartz/DND-Mystrala/3.-Session-Notes/ )
