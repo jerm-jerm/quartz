@@ -2,9 +2,9 @@
 title: The Mystrala Almanac
 ---
 ![[HomeBanner.png|banner]]
-# In a world where cities soar and magic flows, our adventure begin...
+# In a world where cities soar and magic flows, our adventure begins...
 
-### This journal chronicles the adventures of **The Remnants** as they explore the world of Mystrala.
+### This journal chronicles **The Remnants** as they explore the world of Mystrala.
 📔[Session Notes](https://jerm-jerm.github.io/quartz/DND-Mystrala/3.-Session-Notes/ )
 
 🧑‍🤝‍🧑[The Remnants](https://jerm-jerm.github.io/quartz/DND-Mystrala/2.-The-Remnants/)
