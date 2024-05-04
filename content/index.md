@@ -4,7 +4,7 @@ title: The Mystrala Almanac
 ![[HomeBanner.png|banner]]
 # In a world where cities soar and magic flows, our adventure begins...
 
-### This journal chronicles **The Remnants** as they explore the world of Mystrala.
+### Embark on a journey through the enchanting but perilous world of Mystrala alongside The Remnants.
 📔[Session Notes](https://jerm-jerm.github.io/quartz/DND-Mystrala/3.-Session-Notes/ )
 
 🧑‍🤝‍🧑[The Remnants](https://jerm-jerm.github.io/quartz/DND-Mystrala/2.-The-Remnants/)
