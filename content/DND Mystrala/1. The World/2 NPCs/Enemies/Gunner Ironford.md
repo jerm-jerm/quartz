@@ -25,7 +25,7 @@ Was the ruler of [[Ironford Prison]], during this time he was also a paladin of 
 Gunner told Cassius that he was no longer a Paladin of the Church of Laduguer.
 
 ### Current Activities
-Stole back The Icebreaker in New Calim because he had some business out East. The ship was destroyed in the battle, so he is presumably working to get it repaired.
+Stole back The Icebreaker in New Calim because he had some business out East. The ship was destroyed in the battle, so he is presumably working to get it repaired (Session [[22 - 02182024|22]] and [[23 - 02232024|23]]).
 
 ### Personality Traits
 Strongly dislikes charismatic talkative types. Expects for people to listen to him and do as he says without hesitation.

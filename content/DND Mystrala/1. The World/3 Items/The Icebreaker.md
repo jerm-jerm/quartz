@@ -5,9 +5,9 @@ Arcane ship created by [[Solonor]], The Shipmaker. Combination of mechanical clo
 
 The group placed an enchanting lectern from the Delmiri Desert in the lower levels of the ship.
 
-[[Sundara]] utilized the Shipstarting scrolls to learn how to operate The Icebreaker when [[Kazak]] left the group.
+Sundara utilized the Shipstarting scrolls and her Clockwork Magic to learn how to operate The Icebreaker when [[Kazak]] left the group.
 
-The ship was destroyed by [[Briggs]], when the group was confronted by [[Gunner Ironford]] in the bay of [[New Calim]] and [[Sundara]] refused to give [[Gunner Ironford]] the remaining Shipstarting Scrolls, instead burning them in front of him. He attacked the group and Briggs blew up the ship engine during the escape. 
+The ship was destroyed by [[Briggs]], when the group was confronted by [[Gunner Ironford]] in the bay of [[New Calim]] and [[Sundara]] refused to give Gunner the remaining Shipstarting Scrolls, instead burning them in his face. He attacked the group and Briggs blew up the ship engine during the escape (Session [[22 - 02182024|22]] and [[23 - 02232024|23]]). 
 
 ### Location
 - Currently unknown, presumably being repaired by [[Solonor]] 
