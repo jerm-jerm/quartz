@@ -25,7 +25,7 @@ Was the ruler of [[Ironford Prison]], during this time he was also a paladin of 
 Gunner told Cassius that he was no longer a Paladin of the Church of Laduguer.
 
 ### Current Activities
-Stole back The Icebreaker in New Calim because he had some business out East. The ship was destroyed in the battle, so he is presumably working to get it repaired (Session [[22 - 02182024|22]] and [[23 - 02232024|23]]).
+Stole back The Icebreaker in New Calim because he had some business out East. The ship was destroyed in the battle (Session [[22 - 02182024|22]] and [[23 - 02232024|23]]). Solonor explained that he repaired the ship for Gunner in exchange for gold, resources, and [[Spark]].
 
 ### Personality Traits
 Strongly dislikes charismatic talkative types. Expects for people to listen to him and do as he says without hesitation.
@@ -34,7 +34,7 @@ Strongly dislikes charismatic talkative types. Expects for people to listen to h
 
 ### Relation to The Remnants 
 - Failed to follow instructions from two members of The Savage Seven relating to two members of The Remnants
-- Has a strong dislike of Cassius and has threatened the Manath family if he keeps causing trouble.
+- Has a strong dislike of Cassius and has threatened the [[Zariah and Anelia Manath|Manath]] family if he keeps causing trouble.
 
 ## Known Stats
 High charisma saving throw

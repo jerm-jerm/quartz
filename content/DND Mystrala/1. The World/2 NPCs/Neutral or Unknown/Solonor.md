@@ -31,7 +31,7 @@ A sorcerer of legends, some say he is a lich, others that he has been alive sinc
 Is known through Karsus as The Shipbuilder, a creator of various magical [[Clockwork Devices]], such as the elevator in [[Ironford Prison]], [[The Icebreaker]], and the Clockwork Sentinels in [[New Calim]].
 
 ### Current Activities
-Unknown
+Is aware that Faraday is hunting him for his piece of [[The Inevitable]]. Otherwise unknown.
 
 ### Personality Traits
 Exacting. Views the subject of missing souls, or the souls themselves, as insignificant. Believes creating complex [[Clockwork Devices]] is a type of art.
@@ -41,7 +41,7 @@ Exacting. Views the subject of missing souls, or the souls themselves, as insign
 - [[Sea of Swords]] - called his work a blight on the ocean
 
 ### Relation to The Remnants 
-- Closely tied to [[Sundara]] 
+- Closely tied to [[Sundara]] - believes that their magical means that they are responsible for bringing order to the world
 
 ## Known Stats
 Spell save DC 22

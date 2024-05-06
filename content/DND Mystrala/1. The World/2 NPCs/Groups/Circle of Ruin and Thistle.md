@@ -20,8 +20,8 @@ State that all members have been forsaken by the current form of civilization. T
 ### Current Activities
 
 ### Known Members
+- Melana - the witch responsible for recruiting Varrick
 - [[Dunspero Beaumont]] 
 - [[Serpa]] 
-- Melania
 - Verdana (the female druid first encountered in the mountains north of [[New Calim]])
 - [[Varrick]] 

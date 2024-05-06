@@ -20,5 +20,5 @@
 ## History
 
 ## Other General Notes
-
+- [[Vitaly]] says he left evidence of [[Alexi Faraday]]'s wrongdoings here
 ![[Mystrala.png]] 

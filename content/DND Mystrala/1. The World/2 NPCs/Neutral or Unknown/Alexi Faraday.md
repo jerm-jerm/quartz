@@ -28,10 +28,14 @@ A part of [[The Savage Seven]] when they destroyed [[The Inevitable]] and made m
 
 Created a device, supposedly, for the [[Voidwing Sisterhood]] to open a portal to Shadowfell to have a closer connection to the Raven Queen.
 
+Faraday states he was once wronged by a man with power and understands how it feels. He has deviated from his moral code in the past, doing things that have kept him up at night.
+
 ### Current Activities
 Working in some capacity with [[Solonor]] to create magic devices that have a component of both clockwork and magical runes.
 
 Believes magic should be freely given, that limitations are a bastardization of magic, and it should be like it was before the Spellplague. At his charity ball event cast a High Magic spell, "All Mage" giving him the knowledge of lifetimes of magic in one moment. He then met with the group and told them he wished to give this power to all people. He has collected most of the [[Pieces of The Inevitable]] and requested the Harmonic Resonator so that he could confront Solonor and recreate [[The Inevitable]] ([[30 - 04142024|Session 30]]).
+
+Solonor thinks that Faraday is rebuilding The Inevitable to recreate Karsus Avatar.
 
 ### Personality Traits
 Comes off as charismatic and charming, tries to defuse tense situations with jokes and really nice alcohol. Hints of ungovernable ambition in his eyes when he talks about his goals.

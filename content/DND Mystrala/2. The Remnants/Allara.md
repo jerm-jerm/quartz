@@ -13,6 +13,8 @@ aliases:
 
 
 ## Backstory
+Ran away from her adopted father, believing he would sacrifice her to some cult.
+
 She serves the Raven Queen as a part of the [[Voidwing Sisterhood]]. The sisterhood creates potions and work at the Soulshard Apothecary.
 
 Allara originally worked for the [[Gilded Glave]] transporting goods. She was transporting good in the [[Delmiri Desert]] when her entire group was wiped out. She blames herself for their deaths and works hard to ensure that the group she is currently travelling with doesn't meet the same demise.

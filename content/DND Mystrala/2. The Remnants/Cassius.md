@@ -26,20 +26,22 @@ Met The Traveler after having a Spark drink and identifying an object from ?anot
 
 Cassius expressed concern that his sister Chalice might have gotten into some trouble as she hadn't been seen in quite awhile and divination magic was not working on her ([[31 - 04212024|Session 31]]).
 
+On the death of his friend [[Varrick]], Cassius reaches out to [[Alexi Faraday]] offering [[Pieces of The Inevitable|Harmonic Resonator]] in exchange for help. After reviving Varrick, Faraday takes Cassius to [[The Shattered Spire]] and lets him take an artifact for a fair trade. Cassius takes the interdimensional twisted gun he examined earlier at the charity ball. Although the object feels inert he has the feeling that in another world it would have been an extremely powerful weapon, he decides to attune to the item  over a long rest ([[33 - 05052024|Session 33]]).
+
 ### Description and Characteristics
 True changeling form is a white/grey blob appearing humanoid
 Feels comfortable in any form they choose to keep, switches between sex/gender and names fluidly
 
 ## Relationships
 - 'Entangled' with Dunspero Beaumont, a relationship that was presumably frowned upon by her father Oswald Beaumont, as he sent Cassius to [[Ironford Prison]] and requested that [[Gunner Ironford]] kill him once he arrive.
-	- She currently seems very upset regarding the connection Cassius has to the death of her father
+	- She was upset regarding the connection Cassius had to the death of her father, but reconciled this and her own disdain for her father
 - Parents, [[Zariah and Anelia Manath]], they are performers, happy to be on the road and spend time together; generally supportive of Cassius and came to [[New Calim]] out of concern for him
 	- His mother expressed disappointment to hear how blithely Cassius mentioned killing Oswald Beaumont 
-- Adopted sister, Chalice, who he doesn't really talk to
+- Adopted sister, [[Chalice Manath]], who he doesn't really talk to
 
 
 ## Secrets from the group
-- Contacted [[Alexi Faraday]] after the death of Varrick to exchange the [[Pieces of The Inevitable|Harmonic Resonator]] for help
+- .
 
 
 -

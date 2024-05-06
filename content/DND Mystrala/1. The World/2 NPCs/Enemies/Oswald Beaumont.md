@@ -3,12 +3,6 @@ aliases:
   - The Duke
   - Lord Oswald Beaumont
 ---
-
-# Duke Oswald Beaumont
-
-
-
-
 > [!infobox]
 > # `Oswald Beaumont` 
 > ![[DOB.png]]
