@@ -34,7 +34,7 @@ const defaultOptions = {
     }
   },
   filterFn: (node) => node.name !== "tags",
-  order: ["filter", "map", "sort"],
+  order: ["sort", "filter", "map"],
 } satisfies Options
 
 export default ((userOpts?: Partial<Options>) => {
