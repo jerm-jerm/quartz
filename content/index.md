@@ -29,3 +29,5 @@ title: The Mystrala Almanac
 
 Coming Soon: The Harbor Ghost (Blades in the Dark)
 
+![[Mystrala.png]]
+
