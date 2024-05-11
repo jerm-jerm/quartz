@@ -41,7 +41,7 @@ Exacting. Views the subject of missing souls, or the souls themselves, as insign
 - [[Sea of Swords]] - called his work a blight on the ocean
 
 ### Relation to The Remnants 
-- Closely tied to [[Sundara]] - believes that their magical means that they are responsible for bringing order to the world
+- Closely tied to [[Sundara]] - believes that their magical origin means that they are responsible for bringing order to the world
 
 ## Known Stats
 Spell save DC 22
