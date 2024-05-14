@@ -13,7 +13,7 @@
 > ---|---|
 > Current Location | [[New Calim]]  |
 > Class | |
-> 	Alias(es) | Capitan Stoneheart |
+> 	Alias(es) | Commander Stoneheart |
 > Known Family | [[Varrick]]  |
 > Known Groups | [[Sea of Swords]] |
  
@@ -25,15 +25,14 @@ Sundara first encounters her investigating the remains of The [[Circle of Ruin a
 
 She later notes that the Order of Vigilance and [[Sea of Swords]] have merged into one entity and offers the group a position in the Sea of Swords ([[23 - 02232024|Session 23]]).
 
-Unbeknownst to her she has lost all memory of being married to Varrick or him being the father of their children ([[29 - 04052024|Session 29]]).
-
+Unbeknownst to her she has lost all memory of being married to Varrick or him being the father of their children ([[29 - 04052024|Session 29]]). Possibly in a relationship with Garrick, also of the Sea of Swords.
 
 ### Personality Traits
 Imposing, blunt, and straight to the point. Can be fiery with her responses, both verbal and physical. 
 
 ### Relation to The Remnants 
 - [[Varrick]]'s ex-wife and mother to his two children (she now has no recollection that he is her ex-husband and the father to her children)
-- Capitan with the [[Sea of Swords]],  part of the group that commissioned The Remnants to obtain all the pieces of [[The Inevitable]]
+- Commander with the [[Sea of Swords]],  part of the group that commissioned The Remnants to obtain all the pieces of [[The Inevitable]]
 - [[Sundara]]'s role model 😍
 
 ## Known Stats

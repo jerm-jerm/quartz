@@ -2,3 +2,5 @@
 aliases: Reggie Donovan
 ---
 Owner of gunshop called the Hunstman's Promise in [[New Calim]].
+
+Cas takes his twisted, extraplanar gun to The Huntsman's Promise and says he has never seen anything like it, "Don't know what the f*** this is." 

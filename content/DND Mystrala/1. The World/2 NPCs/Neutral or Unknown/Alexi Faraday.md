@@ -35,7 +35,7 @@ Working in some capacity with [[Solonor]] to create magic devices that have a co
 
 Believes magic should be freely given, that limitations are a bastardization of magic, and it should be like it was before the Spellplague. At his charity ball event cast a High Magic spell, "All Mage" giving him the knowledge of lifetimes of magic in one moment. He then met with the group and told them he wished to give this power to all people. He has collected most of the [[Pieces of The Inevitable]] and requested the Harmonic Resonator so that he could confront Solonor and recreate [[The Inevitable]] ([[30 - 04142024|Session 30]]).
 
-Solonor thinks that Faraday is rebuilding The Inevitable to recreate Karsus Avatar.
+Solonor thinks that Faraday is rebuilding The Inevitable. When discussing with the group, they considered that he is trying to use The Inevitable's identity to access something only it is able to, such as the heart of [[Karsus]].
 
 ### Personality Traits
 Comes off as charismatic and charming, tries to defuse tense situations with jokes and really nice alcohol. Hints of ungovernable ambition in his eyes when he talks about his goals.

@@ -9,7 +9,7 @@ Sundara utilized the Shipstarting scrolls and her Clockwork Magic to learn how t
 
 The ship was destroyed by [[Briggs]], when the group was confronted by Gunner in the bay of [[New Calim]] and [[Sundara]] refused to give Gunner the remaining Shipstarting Scrolls, instead burning them in his face. He attacked the group and Briggs blew up the ship engine during the escape (Session [[22 - 02182024|22]] and [[23 - 02232024|23]]). 
 
-Repaired by Solonor and is back in order, [[Gunner Ironford]] has it in some undisclosed location.
+Repaired by Solonor and is back in order, [[Gunner Ironford]] has it presumably in Ironford. 
 
 ### Location
 - Currently unknown

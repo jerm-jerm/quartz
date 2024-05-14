@@ -22,6 +22,11 @@ Recently sacrificed being remembered as a husband and a father for more power. O
 
 Fought toe-to-toe with a young green dragon and held his own but was ultimately killed after being dropped 190ft ([[32 - 04282024|Session 32]]). While in the afterlife, Melana, The Queen of Rot, dug around in his chest before being banished by a champion of The Raven Queen. That champion turned out to be Varrick's son, who knighted Varrick into The Raven Queen's order ([[33 - 05052024|Session 33]]).
 
+> [!quote]- Quote  
+> "I wish for the wheel of fates to continue to turn." - Varrick
+> "What if this means that your enemy, the man who murdered your son, is to live while someone like your companion, Sundara, is destined to die? Will you honor fate then?" - Skulk and Shadow of the [[Voidwing Sisterhood]] 
+> "If it is her will then it will happen." - Varrick
+
 ### Description and Characteristics
 Large imposing goliath, shaved head, and beard. Wears full armor most often. Has multiple tattoos.
 
@@ -33,10 +38,10 @@ Tends to act first and ask questions later.
 - [[Briggs]], previously in a group together, but suspect some animosity as Briggs crawled up Varrick's back and stabbed him the first time they reunited in prison
 - [[Sundara]], Varrick believes something special is going on with Sundara and his instinct is to stay close and protect her
 
+
+
 ## Secrets from the group
 - He traded memories for power and made a warlock pact with an unknown patron. He has only told Cassius about the existence of his wife, daughter, and son
-	- Met his son in the afterlife
-
 
 -
 ``` custom-frames

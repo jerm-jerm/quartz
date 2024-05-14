@@ -1,0 +1,1 @@
+Leviathans are harvested at Bloodgulch Meatworks where much if not all of [[Spark]] originates from. This Spark is smuggled out to various cities.

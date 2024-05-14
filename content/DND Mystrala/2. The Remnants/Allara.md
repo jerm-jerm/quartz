@@ -29,6 +29,8 @@ Met with her brother before leaving [[Karsus Folly]]. His contract was given to 
 
 Tried and was unable to save Varrick from death during the groups battle with [[Fern Shadow Forest|Rotgasp]] ([[32 - 04282024|Session 32]]).
 
+Was tasked by her sisterhood to lead The Circle of the Fated Promise ([[34 - 05122024|Session 34]]).
+
 ### Description and Characteristics
 Pale, sallow appearing, jet black eyes, various colored hair (black, violet, grey). Can transform into a poisonous form with long talon like nails and crying black ichor. 
 
