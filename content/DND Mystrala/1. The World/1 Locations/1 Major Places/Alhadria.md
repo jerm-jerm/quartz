@@ -7,7 +7,8 @@
 > Type | City | 
 > Population | Unknown | 
 > Theme | |
-> Region | |
+> Region | Northish |
+> Major Language | Delmiri |
 > Major Political Figures | The Prophet? |
 > Groups |  |
 

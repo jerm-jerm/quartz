@@ -2,8 +2,8 @@
 > ---|---|---|
 > [[Solonor]] | Unknown | Unknown |
 > [[Alexi Faraday]]  | Gavel of the Judge | [[Karsus Folly]] 
-> [[Oswald Beaumont]] | Harmonic Resonator Chimes | presumed [[Karsus Folly]] 
-> [[Gunner Ironford]]  | Hammer | Unknown, suspect Ironford
+> [[Oswald Beaumont]] | Harmonic Resonator Chimes | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]] 
+> [[Gunner Ironford]]  | The Pelt of the Moon Warden | [[Ironford Prison]] 
 > Ironheart | Unknown | Unknown, suspect in The [[Delmiri Desert]]
 > Miradark | Mace | Unknown, suspect near the Serpentlord Shrine 
 > [[Ottoluke Organdorf]]  | Book | Unknown, last gambled away in [[Langston]], possibly in possession by [[The Bone King]]  
@@ -16,8 +16,8 @@ Massive pure white battle hammer, overall impractical for use in it's design. Wa
 ## The Harmonic Resonator
 Originally one of Duke Oswald Beaumont's weapons. Was taken by the group after killing him outside of the Whispering Tower in New Calim. Identifying this object allowed the group to find out more of the history regarding [[The Savage Seven]]. The group held on to this object until willingly giving it to Faraday in exchange for Varrick's resurrection. 
 
-## Gunner's Hammer 
-Not much is currently known about this hammer. It has a [[Clockwork Devices]] imprinted at the head of the hammer. It was able to disintegrate [[Billy the Boatswain]] with one hit.
+## The Pelt of the Moon Warden
+A pale, white-ish stone-like armor currently being worn by Gunner
 
 ## Ottoluke's Book
 Ottoluke gambled away his piece of The Inevitable for drinking money years ago while in Langston.

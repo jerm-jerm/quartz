@@ -27,6 +27,8 @@ Subsequently, worked with Capitan [[Reina Kalimoff]] as a [[Sea of Swords]] arch
 ### Current Activities
 Part of the responding force of the day [[New Calim]] was attacked by [[Gunner Ironford]]. In a meeting with the higher members of the Sea of Swords information was revealed regarding Ottoluke's past relation with the Savage Seven and he was stripped of his title as archivist. He was offered a position as a Crusader if the group monitored him. Was also noted to be studying a stack of books looking into demons, demigorgons, The Oberith, The Tinari, and Pizzuz ([[24 - 03032024|Session 24]]).
 
+Tells the group that he feels they are friends, and was sad they would probably die fighting [[Gunner Ironford]]. Has a ranking of his favorite members of The Remnants; Varrick asked if he was at the bottom of the list and Ottoluke changed the subject. 
+
 ### Personality Traits
 Eccentric, will gamble pretty much anything away for drinking money, goes commando.
 

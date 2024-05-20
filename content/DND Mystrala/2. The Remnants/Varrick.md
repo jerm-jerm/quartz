@@ -27,6 +27,8 @@ Fought toe-to-toe with a young green dragon and held his own but was ultimately 
 > "What if this means that your enemy, the man who murdered your son, is to live while someone like your companion, Sundara, is destined to die? Will you honor fate then?" - Skulk and Shadow of the [[Voidwing Sisterhood]] 
 > "If it is her will then it will happen." - Varrick
 
+Revealed to the group that he has an ex-wife and children. Allara and Samugi continued to not believe him due to the magic that was used to change their memories. 
+
 ### Description and Characteristics
 Large imposing goliath, shaved head, and beard. Wears full armor most often. Has multiple tattoos.
 
@@ -34,14 +36,14 @@ Tends to act first and ask questions later.
 
 ## Relationships
 - [[Sarah Stoneheart]], his ex-wife, but becoming close again after reuniting in [[New Calim]], has yet to introduce Varrick to their daughter, Natasha; she now is unaware of Varrick's existence or their past relationship
-- [[Barrel Back Bill]] and him appear to have a close friendship
+- [[Barrel Back Bill]] and him appear to have a close friendship; when Ottoluke asked for final messages if the group died in battle, Varrick told Ottoluke to tell Barrel Back Bill that his is, "a cool guy"
 - [[Briggs]], previously in a group together, but suspect some animosity as Briggs crawled up Varrick's back and stabbed him the first time they reunited in prison
 - [[Sundara]], Varrick believes something special is going on with Sundara and his instinct is to stay close and protect her
 
 
 
 ## Secrets from the group
-- He traded memories for power and made a warlock pact with an unknown patron. He has only told Cassius about the existence of his wife, daughter, and son
+- He traded memories for power and made a warlock pact with an unknown patron. He has told the group about the existence of his wife, daughter, and son, but Allara and Samugi's memories have not returned and do not believe him. 
 
 -
 ``` custom-frames
