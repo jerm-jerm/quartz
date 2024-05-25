@@ -15,7 +15,7 @@ From an area north of Kozah, Hangul Dynasty specifically. Knew a Demon [[Oni]] p
 ## Current Events
 The demon Oni that Samugi knew attacked him in the [[Delmiri Desert]] and told Samugi that he would take away what he found most precious. (Session [[06 - 10292023|06]] and [[07- 11052023|07]]).
 
-Signed a lease for a shitty apartment in [[New Calim]] ([[13 - 12162023|Session 13]]).
+Signed a lease for a shitty apartment in [[New Calim]] on Fey Paper ([[13 - 12162023|Session 13]]).
 
 Spent one night working at the [[Clockwork Devices|Clockwork Factory]] where the sentinels were made ([[21 - 02102024|Session 21]]).
 
@@ -27,7 +27,7 @@ Carrying around a large metal tube that carries his clockwork soul astral defend
 Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversations with wise people. Very adept at tinkering. 
 
 ## Relationships
-- .
+- The group [[Allara]] was previously travelling with was killed by the Demon Oni that is also after Samugi.
 
 ## Secrets from the group
 - .

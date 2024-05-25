@@ -22,10 +22,12 @@ A member of [[The Savage Seven]] during the destruction of [[The Inevitable]], h
 
 Was the ruler of [[Ironford Prison]], during this time he was also a paladin of the [[Church of Laduguer]]. While ruling Ironford Prison he was given instruction by Lord [[Oswald Beaumont]] to murder [[Cassius]] Manath once he arrived. He was also given instruction by [[Solonor]] to monitor [[Sundara]] and keep her from having a cursed tattoo placed on her. The Arch Bishop of the Church moved against Gunner and attacked him at Ironford Prison, this distraction gave The Remnants a chance to escape from prison, stealing the advanced ship, [[The Icebreaker]], that was given to Gunner by Solonor.
 
-Gunner told Cassius that he was no longer a Paladin of the Church of Laduguer.
+Gunner told Cassius that he was no longer a Paladin of the Church of Laduguer. Solonor told Sundara that he broke his oath to the Church.
 
 ### Current Activities
 Stole back The Icebreaker in New Calim because he had some business out East. The ship was destroyed in the battle (Session [[22 - 02182024|22]] and [[23 - 02232024|23]]). Solonor explained that he repaired the ship for Gunner in exchange for gold, resources, and [[Spark]].
+
+Had [[Chalice Manath]] chained in the captain's quarter of the Icebreaker when Sundara magically looked at the ship.   
 
 ### Personality Traits
 Strongly dislikes charismatic talkative types. Expects for people to listen to him and do as he says without hesitation.

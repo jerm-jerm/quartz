@@ -20,8 +20,8 @@ Unknown
 > ---|---|---|
 > Solonor | The Eyes/Unknown | Unknown |
 > Alexi Faraday | Gavel of the Judge | [[Karsus Folly]] |
-> Oswald Beaumont | Harmonic Resonator Chimes | The Remnants |
-> Gunner Ironford | Hammer | Unknown, suspect out East |
+> Oswald Beaumont | Harmonic Resonator Chimes | [[Alexi Faraday]]/[[Karsus Folly]] |
+> Gunner Ironford | The Pelt of the Moon Warden | [[Ironford Prison]]  |
 > Ironheart | Unknown | Unknown, suspect in The [[Delmiri Desert]] |
 > Miradark | Mace | Unknown, suspect near the Serpentlord Shrine |
 > Ottoluke | Book | Unknown, last gambled away in [[Langston]] |

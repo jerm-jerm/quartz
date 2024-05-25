@@ -32,7 +32,7 @@ Somehow had previously caused trouble for [[Oswald Beaumont]], but he did not tu
 ### Current Activities
 Cassius and the group were unable to send Chalice a message or scry on her when on their way out of Karsus Folly ([[31 - 04212024|Session 31]]).
 
-Was seen as a prisoner of [[Gunner Ironford]] with a cursed tattoo in place ([[34 - 05122024|Session 34]]). She revealed that she had been a prisoner of the Beaumont's for months, before Dunspero got tired of having a prisoner.
+Was seen as a prisoner of [[Gunner Ironford]] with a cursed tattoo in place ([[34 - 05122024|Session 34]]). She revealed that she had been a prisoner of the Beaumont's for months before Dunspero got tired of having a prisoner.
 
 ### Description and Personality Traits
 Strikingly beautiful with short curly red hair and freckles.

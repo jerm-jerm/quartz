@@ -9,3 +9,5 @@ There was an unnamed Demon Oni that [[Samugi]] knew personally and says that he 
 
 The Legend of the Oni. They were initially created as a spiritual being to destroy civilization and culture, specifically to wipe out the non-dokkaebi people. Vaprack, the destroyer, had two sons on that rebelled against him and another that did not. The rebels wanted to be more benevolent and work synergistically with people of the world, as punishment for their rebellion their god cursed them to be wandering spirits. Curse placed on them to wander the plane as feeble old men, always at war with each other.
 
+Encountered Wajid while staying in a hotel in [[New Calim]] who said that [[Cassius]] had a magical item on him that was too delicious to resist.
+

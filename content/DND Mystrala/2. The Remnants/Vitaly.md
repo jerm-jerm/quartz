@@ -1,12 +1,14 @@
 
 >  Character Name | Aliases | Class | Race |Age |Player Name |
 >  -- | -- | -- | -- | -- |--|
-> Vitaly Draganovic |--|Rogue|Dragonborne|--|Mike|
+> Vitaly Draganovic |--|Rogue|Dragonborn|--|Mike|
 
 > [!infobox]
 > ![[VitalyPic.png]]
 ## Backstory
 Him and his family are from Drakemire. His father and his ship were commissioned by [[Alexi Faraday]] who was trying to escape war in the region. His father found out something about Faraday that he didn't want known and he had the entire crew killed. Vitaly has evidence of this in [[Langston]] and is working to make sure that Faraday does not get any additional [[Pieces of The Inevitable]].
+
+![[IconRogue2.png|right|150]]
 
 ### Description and Characteristics
 

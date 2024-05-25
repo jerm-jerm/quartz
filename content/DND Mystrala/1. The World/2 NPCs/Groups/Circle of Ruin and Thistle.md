@@ -18,6 +18,7 @@ A nihilist group hoping to return the world to the elemental primordial state to
 State that all members have been forsaken by the current form of civilization. The have a belief in rebirth through The World Tree and some members have the ability to 'hop between branches.' The group has some connection to The Harbinger, possibly their 'mistress'? and they are also marked by a growing form of lichen somewhere on their person.
 
 ### Current Activities
+Have a camp in the [[Fern Shadow Forest]] 
 
 ### Known Members
 - Melana - the witch responsible for recruiting Varrick

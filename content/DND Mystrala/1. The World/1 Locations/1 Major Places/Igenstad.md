@@ -22,6 +22,7 @@ aliases: Ironford
 
 ## Notable Characters
 - High Priestess Helga Frag
+- [[Gunner Ironford]] 
 ## History
 
 ## Other General Notes

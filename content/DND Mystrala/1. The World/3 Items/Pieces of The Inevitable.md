@@ -1,3 +1,8 @@
+---
+aliases:
+  - Vestiges of the Moon King
+---
+
 > Member |  Piece | Location|
 > ---|---|---|
 > [[Solonor]] | Unknown | Unknown |
@@ -14,7 +19,7 @@ Also known as Vestiges of the Moon King
 Massive pure white battle hammer, overall impractical for use in it's design. Was the weapon of The Inevitable. Currently sitting in [[The Shattered Spire]] in [[Karsus Folly]] inside the ?Chamber of Dreamers as part of Prince Alexi Faraday's magical collection.
 
 ## The Harmonic Resonator
-Originally one of Duke Oswald Beaumont's weapons. Was taken by the group after killing him outside of the Whispering Tower in New Calim. Identifying this object allowed the group to find out more of the history regarding [[The Savage Seven]]. The group held on to this object until willingly giving it to Faraday in exchange for Varrick's resurrection. 
+Originally one of Duke Oswald Beaumont's weapons. Was taken by the group after killing him outside of the Whispering Tower in New Calim. Identifying this object allowed the group to find out more of the history regarding [[The Savage Seven]]. The group held on to this object until willingly giving it to Faraday in exchange for [[Varrick]]'s resurrection. 
 
 ## The Pelt of the Moon Warden
 A pale, white-ish stone-like armor currently being worn by Gunner

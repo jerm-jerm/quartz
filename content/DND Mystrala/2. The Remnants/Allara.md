@@ -17,13 +17,13 @@ Ran away from her adopted father, believing he would sacrifice her to some cult.
 
 She serves the Raven Queen as a part of the [[Voidwing Sisterhood]]. The sisterhood creates potions and work at the Soulshard Apothecary.
 
-Allara originally worked for the [[Gilded Glave]] transporting goods. She was transporting good in the [[Delmiri Desert]] when her entire group was wiped out. She blames herself for their deaths and works hard to ensure that the group she is currently travelling with doesn't meet the same demise.
+Allara originally worked for the [[Gilded Glave]] transporting goods. She was transporting goods in the [[Delmiri Desert]] when her entire group was wiped out. She blames herself for their deaths and works hard to ensure that the group she is currently travelling with doesn't meet the same demise.
 
 ![[IconCleric.png|right|150]]
 ## Current Events
 Lost many of her sisters in the raid by [[Circle of Ruin and Thistle]] ([[15 - 01012024|Session 15]]).
 
-Jumped from a 150ft tower, severely and permanently injuring her leg. The group takes her to an artificer who crafts a [[Clockwork Devices|clockwork]] leg for her (Sessions [[27 - 03242024|27]] and [[28 - 03302024|28]]). 
+Jumped from a 150ft tower, severely and permanently injuring her leg. The group took her to an artificer who crafted a [[Clockwork Devices|clockwork]] leg for her (Sessions [[27 - 03242024|27]] and [[28 - 03302024|28]]). 
 
 Met with her brother before leaving [[Karsus Folly]]. His contract was given to Xander to conduct occult investigations near Serpent Lord Shrine. He say that life in The Far Empire is not as bad as Allara thinks it is. He tells her that [[The Savage Seven|Mira]] knows all about Allara and would like to talk to her about working for her ([[31 - 04212024|Session 31]]).
 
@@ -35,11 +35,11 @@ Was tasked by her sisterhood to lead The Circle of the Fated Promise ([[34 - 051
 Pale, sallow appearing, jet black eyes, various colored hair (black, violet, grey). Can transform into a poisonous form with long talon like nails and crying black ichor. 
 
 ## Relationships
-- Brother, unknown name, appear close to each other
-- Was upset when [[Varrick]] decided to join The Circle of Ruin and Thistle. Varrick used his dying breath to apologize to Allara while she tried to heal him.
+- [[Lucian Thorne]], her brother, is close with her and offered to help set her up with a contact, Mira
+- Was upset when [[Varrick]] decided to join The Circle of Ruin and Thistle. Varrick used his dying breath to apologize to Allara while she tried to heal him. After is resurrection, they reconciled and Varrick became a follower of The [[Raven Queen]] 
 
 ## Secrets from the group
-- Saw the markings on the hands of [[Dunspero Beaumont]] marking her a member of The [[Circle of Ruin and Thistle]] 
+- Saw the markings on the hands of [[Dunspero Beaumont]] demonstrating that she was a member of The [[Circle of Ruin and Thistle]] 
 - Mira (likely from [[The Savage Seven]]?) would like to talk to Allara about working for her and Allara would be owed a few years wages and would probably be paid what she is owed if she worked with her
 
 

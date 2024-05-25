@@ -22,7 +22,7 @@ At some point Cassius become 'entangled' with [[Dunspero Beaumont]] and has mayb
 ## Current Events
 Helped in the battle of The Remnants vs Oswald Beaumont, stated he didn't want to kill him, but wasn't going to help him. Noticed Dunspero in the window of The Whispering Tower watching as Varrick dealt the killing blow ([[21 - 02102024|Session 21]]).
 
-Met The Traveler after having a Spark drink and identifying an object from ?another reality. While there he learned how to use his powers that are "in tune with creation." There he saw a young red tiefling wearing his face before witnessing the end of the world at the hand of The [[Phaerimm]] ([[29 - 04052024|Session 29]]). During that same event he finally revealed to the group that they had truly killed Duke Oswald Beaumont.
+Met The Traveler after having a Spark drink and identifying an object, a twisted gun shaped weapon, from ?another reality. While there he learned how to use his powers that are "in tune with creation." There he saw a young red tiefling wearing his face before witnessing the end of the world at the hand of The [[Phaerimm]] ([[29 - 04052024|Session 29]]). During that same event he finally revealed to the group that they had truly killed Duke Oswald Beaumont.
 
 Cassius expressed concern that his sister Chalice might have gotten into some trouble as she hadn't been seen in quite awhile and divination magic was not working on her ([[31 - 04212024|Session 31]]).
 

@@ -6,4 +6,4 @@ They don't like it when you murder their high ranking members, that's for sure.
 
 [[Allara]]'s brother also notes how weak the counsel are and how they have allowed the city to be attacked multiple times.
 
-Plans for Duchess Dunspero to have unilateral powers to make decisions soon.
+Plans for Duchess Dunspero to have unilateral power to make decisions soon ([[34 - 05122024|Session 34]]).

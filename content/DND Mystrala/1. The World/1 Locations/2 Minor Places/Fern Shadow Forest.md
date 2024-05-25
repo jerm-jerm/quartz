@@ -4,6 +4,6 @@ Fern Shadow Forest (forest between [[Karsus Folly]] and [[New Calim]]) - home to
 > “I spit on this forrest and make it my domain” 
 > - Rotgasp
 
-The [[Circle of Ruin and Thistle]] stays they tolerate the dragon living in the same forest and have no preference whether it lived or died. Deciding to finish what they started, the group continues through the forest to hunt him down.
+The [[Circle of Ruin and Thistle]] states they tolerate the dragon living in the same forest and have no preference whether it lived or died. Deciding to finish what they started, the group continues through the forest and hunted the dragon down.
 
 The young green dragon, Rotgasp, has a cabin in the forest and a grouping of followers. During the battle [[Varrick]] viciously attacked the dragon, grappled it, and was flown 190ft in the air before being magically thrown off, killing him. Rotgasp was subsequently killed by the remaining members of the group (Session [[32 - 04282024|32]]).

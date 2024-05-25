@@ -1,13 +1,16 @@
 ## Overview
+- Underground Secret Elevator
+- Giant Chimera Trap
 - Rudimentary Clockwork Soldiers
 - Clockwork Sentinels 
 - Clockwork Trolls
+- [[Allara]]'s Prosthetic Leg
 
-Some require [[Spark]] to function. Multiple iterations of them, some more rudimentary than others. Many connect to a 'collective.' First seen in a widespread force invading [[New Calim]] with [[Oswald Beaumont]] ([[16 - 01092024|Session 16]]). These were originally created in some part by [[Solonor]], who viewed them as a type of art. They are assembled in a factory primarily run by gnomes from the Engineering Consortium, an 'engineer' is responsible to putting the [[Spark|tincture]]  in them as part of the final step of assembly ([[21 - 02102024|Session 21]]).
+The more complex "living" clockwork devices require [[Spark]] to function. Multiple iterations of these, some more rudimentary than others. Many connect to a 'collective.' First seen in a widespread force invading [[New Calim]] with [[Oswald Beaumont]] ([[16 - 01092024|Session 16]]). These were originally created by [[Solonor]], who viewed their creation as a type of art. They are assembled in a factory primarily run by gnomes from the Engineering Consortium, an 'engineer' (possibly a [[Valendri|Valendrian elf]]) is responsible to putting the [[Spark|tincture]] in them as part of the final step of assembly ([[21 - 02102024|Session 21]]). With enough effort [[Sundara]] can destroy them magically or disconnect them from the collective and have them follow her commands. [[Samugi]] has spent time learning how these devices work. He has a higher chance of disabling devices created by Solonor and is able to use his tinkering skills to make his own. 
 
-With enough effort [[Sundara]] can destroy them magically or disconnect them from the collective and have them follow her commands.
+Other clockwork devices include those made by Samugi's tinkering or Sundara's clockwork magic or a combination. They have also purchased clockwork devices such as Allara's prosthetic leg.
 
-[[Samugi]] has spent time learning how these devices work. He has a higher chance of disabling devices created by Solonor and is able to use his tinkering skills to make his own. 
+[[The Icebreaker]] is a complex clockwork device, made up of a clockwork/arcane engine that powers a lightweight but armored ship.
 
 ### Location
 Large collection located in [[New Calim]].

@@ -34,6 +34,7 @@ Notes that all members of The Circle were once forsaken by the current civilizat
 ### Personality Traits
 
 ### Relation to The Remnants 
+- Suspected but unknown connection to [[Varrick]] ([[Sundara]] thinks)
 
 ## Known Stats
-
+Bested Varrick in one-on-one battle

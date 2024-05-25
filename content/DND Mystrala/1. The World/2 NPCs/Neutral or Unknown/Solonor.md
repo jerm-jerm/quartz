@@ -26,12 +26,12 @@ aliases:
 > Known Groups | [[The Savage Seven]]  |
  
 ## History
-A sorcerer of legends, some say he is a lich, others that he has been alive since the survival of the fall of Nethero. Solonor says that he is of [[Mechanus]] and therefore immortal. He has an obsession with the plane of Mechanus and the hierarchy of the automatons there. Imagines replicating their perfect society. Long ago he tried to save ?Valendrians, but they chose Karsus instead. He has lived for millennia, has seen the weave itself. Time does not pass for him like it does for others. He is well versed in Netherese magic and monstrosities of Karsus. 
+A sorcerer of legends, some say he is a lich, others that he has been alive since the survival of the fall of Nethero. Solonor says that he is of [[Mechanus]] and therefore immortal. He has an obsession with the plane of Mechanus and the hierarchy of the automatons there. Imagines replicating their perfect society. Long ago he tried to save ?Valendrians, but they chose [[Karsus]] instead. He has lived for millennia, has seen the weave itself. Time does not pass for him like it does for others. He is well versed in Netherese magic and the monstrosities of Karsus. 
 
 Is known through Karsus as The Shipbuilder, a creator of various magical [[Clockwork Devices]], such as the elevator in [[Ironford Prison]], [[The Icebreaker]], and the Clockwork Sentinels in [[New Calim]].
 
 ### Current Activities
-Is aware that Faraday is hunting him for his piece of [[The Inevitable]]. Otherwise unknown.
+Is aware that Faraday is hunting him for his piece of [[The Inevitable]]. Has purchased supplies from [[Gunner Ironford]] including [[Spark]], but sees him as a brute. Otherwise unknown.
 
 ### Personality Traits
 Exacting. Views the subject of missing souls, or the souls themselves, as insignificant. Believes creating complex [[Clockwork Devices]] is a type of art.
@@ -45,3 +45,4 @@ Exacting. Views the subject of missing souls, or the souls themselves, as insign
 
 ## Known Stats
 Spell save DC 22
+Clockwork sorcerer?
