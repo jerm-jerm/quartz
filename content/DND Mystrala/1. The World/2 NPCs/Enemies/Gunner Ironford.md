@@ -29,14 +29,17 @@ Stole back The Icebreaker in New Calim because he had some business out East. Th
 
 Had [[Chalice Manath]] chained in the captain's quarter of the Icebreaker when Sundara magically looked at the ship.   
 
+Although he broke his oath to the Church he was still Laduguer the goddesses champion. Died at the hands of The Remnants ([[36 - 05272024|Session 36]]).
+
 ### Personality Traits
 Strongly dislikes charismatic talkative types. Expects for people to listen to him and do as he says without hesitation.
 
 ## Associates
+Was in a relationship, presumably romantic, with a bard who was at his side when the group attacked him In Ironford Prison the second time.
 
 ### Relation to The Remnants 
 - Failed to follow instructions from two members of The Savage Seven relating to two members of The Remnants
 - Has a strong dislike of Cassius and has threatened the [[Zariah and Anelia Manath|Manath]] family if he keeps causing trouble.
 
 ## Known Stats
-High charisma saving throw
+High charisma saving throw (+14)

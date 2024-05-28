@@ -6,7 +6,7 @@ aliases:
 
 > [!infobox]
 > # `Chalice Manath` 
-> ![[Placeholder Image.png]]
+> ![[ChalicePrison.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
@@ -17,8 +17,8 @@ aliases:
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | Unknown |
-> Class | `=this.class` |
+> Current Location | [[The Icebreaker]] |
+> Class | Bard |
 > Alias(es) | `=this.aliases` |
 > Known Family | [[Cassius]] - adopted brother brother; [[Zariah and Anelia Manath]] - adopted parents  |
 > Known Groups | `=this.knowngroups` |
@@ -34,6 +34,8 @@ Cassius and the group were unable to send Chalice a message or scry on her when 
 
 Was seen as a prisoner of [[Gunner Ironford]] with a cursed tattoo in place ([[34 - 05122024|Session 34]]). She revealed that she had been a prisoner of the Beaumont's for months before Dunspero got tired of having a prisoner.
 
+Recently freed from [[Ironford Prison]] and is aboard The Icebreaker with the group.
+
 ### Description and Personality Traits
 Strikingly beautiful with short curly red hair and freckles.
 
@@ -44,3 +46,5 @@ Tends to be well behaved and not rebellious. Would not just disappear without te
 
 ## Known Stats
 Is not a changeling
+Bard
+	Able to counterspell

@@ -7,13 +7,16 @@
 ### Places 
 
 
-## Players Present
+## Character Presence 
+### Present
 - [[Sundara]] 
 - [[Cassius]] 
 - [[Varrick]] 
 - [[Allara]] 
 - [[Samugi]] 
 - [[Vitaly]] 
+### Absent
+
 
 ### Recap Video
 Insert Link Here

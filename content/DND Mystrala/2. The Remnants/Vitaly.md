@@ -10,6 +10,9 @@ Him and his family are from Drakemire. His father and his ship were commissioned
 
 ![[IconRogue2.png|right|150]]
 
+## Current Events
+Handed over the Pelt of the Moon Warden to [[Cassius]] as a show of good faith.
+
 ### Description and Characteristics
 
 
