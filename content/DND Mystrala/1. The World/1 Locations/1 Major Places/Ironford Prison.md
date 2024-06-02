@@ -1,3 +1,9 @@
+---
+aliases:
+  - Underhoard Reformatory
+---
+
+ 
 > [!infobox]
 > # `Ironford Prison` 
 > ![[Ironford Prison.png]]
@@ -5,6 +11,7 @@
 >  ‎  | ‎   |
 > ---|---|
 > Type | Prison  | 
+> AKA | Underhoard Reformatory |
 > Population | Unknown  | 
 > Theme | Underground cave prison |
 > Region | Northern |
