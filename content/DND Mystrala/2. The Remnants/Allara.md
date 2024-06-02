@@ -13,9 +13,7 @@ aliases:
 
 
 ## Backstory
-Ran away from her adopted father, believing he would sacrifice her to some cult.
-
-She serves the Raven Queen as a part of the [[Voidwing Sisterhood]]. The sisterhood creates potions and work at the Soulshard Apothecary.
+Allara and her brother [[Lucian Thorne]] were taken away from their home and adopted by Mortimer Fitzroy. While living under him they had a nice life. Her brother was in training to become Mortimer's bodyguard while Allara was taught manner and how to act in polite society, but otherwise was left to herself. At one point she overheard that she was going to be sacrificed to a cult. There was some ritual that failed and possibly talk about [[Mira]] the Death Cleric. With the help of her brother ran away by hiding in a corpse that was thrown off of a cliff. That is when she first met the [[Raven Queen]] and was led to the apothecary of the [[Voidwing Sisterhood]]. The sisterhood creates potions and work at the Soulshard Apothecary.
 
 Allara originally worked for the [[Gilded Glave]] transporting goods. She was transporting goods in the [[Delmiri Desert]] when her entire group was wiped out. She blames herself for their deaths and works hard to ensure that the group she is currently travelling with doesn't meet the same demise.
 
@@ -40,7 +38,7 @@ Pale, sallow appearing, jet black eyes, various colored hair (black, violet, gre
 
 ## Secrets from the group
 - Saw the markings on the hands of [[Dunspero Beaumont]] demonstrating that she was a member of The [[Circle of Ruin and Thistle]] 
-- Mira (likely from [[The Savage Seven]]?) would like to talk to Allara about working for her and Allara would be owed a few years wages and would probably be paid what she is owed if she worked with her
+- [[Mira]] of [[The Savage Seven]] would like to talk to Allara about working for her and Allara would be owed a few years wages and would probably be paid what she is owed if she worked with her
 
 
 -

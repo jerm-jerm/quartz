@@ -32,7 +32,7 @@ Imposing, blunt, and straight to the point. Can be fiery with her responses, bot
 
 ### Relation to The Remnants 
 - [[Varrick]]'s ex-wife and mother to his two children (she now has no recollection that he is her ex-husband and the father to her children)
-- Commander with the [[Sea of Swords]],  part of the group that commissioned The Remnants to obtain all the pieces of [[The Inevitable]]
+- Commander with the [[Sea of Swords]],  part of the group that commissioned The Remnants to obtain all the pieces of [[Aurunat, The Inevitable]]
 - [[Sundara]]'s role model 😍
 
 ## Known Stats

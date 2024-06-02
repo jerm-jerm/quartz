@@ -10,7 +10,7 @@ aliases:
 > [[Oswald Beaumont]] | Harmonic Resonator Chimes | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]] 
 > [[Gunner Ironford]]  | The Pelt of the Moon Warden | The Remnants
 > Ironheart | Unknown | Unknown, suspect in The [[Delmiri Desert]]
-> Miradark | Mace | Unknown, suspect near the Serpentlord Shrine 
+> [[Mira]] | Mace | Unknown, suspect near the Serpentlord Shrine 
 > [[Ottoluke Organdorf]]  | Book | Unknown, last gambled away in [[Langston]], possibly in possession by [[The Bone King]]  
 
 Also known as Vestiges of the Moon King

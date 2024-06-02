@@ -24,6 +24,6 @@
 ### Personality Traits
 No nonsense 
 ### Relation to The Remnants 
-- Works for the [[Sea of Swords]] and was part of the group that commissioned The Remnants to obtain all the pieces of [[The Inevitable]]
+- Works for the [[Sea of Swords]] and was part of the group that commissioned The Remnants to obtain all the pieces of [[Aurunat, The Inevitable]]
 ## Known Stats
 Has a Cloak of Billowing

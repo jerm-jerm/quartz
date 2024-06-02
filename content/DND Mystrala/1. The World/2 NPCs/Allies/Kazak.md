@@ -1,2 +1,0 @@
-# Kazak Ninefingers
-Wizard that trained with [[Alexi Faraday]] in [[Karsus Folly]]. Was sent to [[Ironford Prison]] for 'only looking' at a secret [[Netherese Magic]] scroll. Escaped prison with the rest of the group, learning to steer [[The Icebreaker]] from the Shipstarting Scrolls. [[Sundara]] at one point confronted him regarding his reckless and disorderly use of magic.

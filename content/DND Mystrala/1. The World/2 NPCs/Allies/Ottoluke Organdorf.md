@@ -20,7 +20,7 @@
 > Known Groups | [[The Savage Seven]], [[Sea of Swords]]  |
 
 ## History
-Originally a member of [[The Savage Seven]], turned his part of [[The Inevitable]] into a book, which he then gambled away for drinking money. Subsequently left the Savage Seven and felt somewhat bad about his actions while a part of the group but did not elaborate on things the group did.
+Originally a member of [[The Savage Seven]], turned his part of [[Aurunat, The Inevitable]] into a book, which he then gambled away for drinking money. Subsequently left the Savage Seven and felt somewhat bad about his actions while a part of the group but did not elaborate on things the group did.
 
 Subsequently, worked with Capitan [[Reina Kalimoff]] as a [[Sea of Swords]] archivist. 
 
@@ -34,7 +34,7 @@ Eccentric, will gamble pretty much anything away for drinking money, goes comman
 
 ### Relation to The Remnants 
 - Tied to the group as a part of their [[Sea of Swords]] contract
-- Was a previous member of [[The Savage Seven]] and had a piece of [[The Inevitable]] which the group is trying to obtain
+- Was a previous member of [[The Savage Seven]] and had a piece of [[Aurunat, The Inevitable]] which the group is trying to obtain
 - Might actually like the group
 
 ## Known Stats

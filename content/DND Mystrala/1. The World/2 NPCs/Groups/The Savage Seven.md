@@ -1,5 +1,5 @@
 ## History
-Brainchild of Solonor, but led by the charismatic Oswald Beaumont. Originally a collection of friends going on random adventures. Somehow the Savage Seven breached the gate of creation thus committing a cosmic crime. Aurunat, [[The Inevitable]], was dispatched to correct this and was destroyed. They took pieces of Aurunat's body as trophies and created powerful magical items. The [[Sea of Swords]] believe the actions of The Savage Seven put the world at considerable risk.
+Brainchild of Solonor, but led by the charismatic Oswald Beaumont. Originally a collection of friends going on random adventures. Somehow the Savage Seven breached the gate of creation thus committing a cosmic crime. [[Aurunat, The Inevitable]], was dispatched to correct this and was destroyed. They took pieces of Aurunat's body as trophies and created powerful magical items. The [[Sea of Swords]] believe the actions of The Savage Seven put the world at considerable risk.
 
 ### Current Activities/Goals
 Unknown
@@ -12,7 +12,7 @@ Unknown
 - Ironheart - a warforged monk wandering the [[Delmiri Desert]]
 	- Would often mutter about how something, "foiled the design of [[Mechanus]]"
 	- Ottoluke believes he may be willing to part with his piece of the Inevitable
-- Miradark - a death cleric who has recently been near the Serpentlord Shrine
+- [[Mira]] - a death cleric who has recently been near the Serpentlord Shrine
 - Previously [[Ottoluke Organdorf]] 
 
 #### [[Pieces of The Inevitable]]
@@ -23,7 +23,7 @@ Unknown
 > Oswald Beaumont | Harmonic Resonator Chimes | [[Alexi Faraday]]/[[Karsus Folly]] |
 > Gunner Ironford | The Pelt of the Moon Warden | [[Ironford Prison]]  |
 > Ironheart | Unknown | Unknown, suspect in The [[Delmiri Desert]] |
-> Miradark | Mace | Unknown, suspect near the Serpentlord Shrine |
+> Mira | Mace | Unknown, suspect near the Serpentlord Shrine |
 > Ottoluke | Book | Unknown, last gambled away in [[Langston]] |
 
 ### Relation to The Remnants 

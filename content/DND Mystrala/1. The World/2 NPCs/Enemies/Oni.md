@@ -11,3 +11,4 @@ The Legend of the Oni. They were initially created as a spiritual being to destr
 
 Encountered Wajid while staying in a hotel in [[New Calim]] who said that [[Cassius]] had a magical item on him that was too delicious to resist.
 
+When Samugi sees the face of the Oni from the oasis, he recalls some sort of cosmetically important lineage there, but can't quite put his finger on it. 

@@ -8,7 +8,7 @@
 
 
 ## Backstory
-From an area north of Kozah, Hangul Dynasty specifically. Knew a Demon [[Oni]] personally. Befriended it and then noticed he was becoming a reflection of the demon itself. 
+From an area north of Kozah, part of the Hangul Dynasty specifically. His family has been dead for centuries. Knew a Demon [[Oni]] personally. Befriended it and then noticed he was becoming a reflection of the demon itself. Lived in isolation for a long period of time, possibly as part of a monastery. He tried to murder the demon and was framed for the death of a man, he was then sent to [[Ironford Prison]].
 
 ![[IconMonk.png|right|150]] 
 
@@ -21,7 +21,7 @@ Spent one night working at the [[Clockwork Devices|Clockwork Factory]] where the
 
 Samugi spent time in battle tinkering with a Clockwork troll and starts to have a higher understanding of clockwork devices built by Solonor ([[26 - 03172024|Session 26]]).
 
-Carrying around a large metal tube that carries his clockwork soul astral defender.
+Carrying around a large metal tube that carries his clockwork soul astral defender. Feels he is being haunted by a faceless presence that follows him wherever he goes.
 
 ### Description and Characteristics
 Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversations with wise people. Very adept at tinkering. 

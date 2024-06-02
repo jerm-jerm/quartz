@@ -1,0 +1,3 @@
+[[Sundara]] and [[Elowen Elisthorn|Elowen's]] parents. Alaris, their mother, is an elf appearing to be in her 20s, but possibly over 1,000 years old. Nyths, their father, has a compassionate presence. Her parents are loving and nurturing and emphasized the importance of the Valendri way of life to their children. 
+
+Her parents showed nothing but support for Sundara's decision to leave [[Valendri]] and saw her off on her journey with love and hope.
