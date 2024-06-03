@@ -27,9 +27,11 @@ aliases:
 ## History
 
 ### Current Activities
+Suspected to work with (or be) an unknown Yuan Ti sorceress or with [[Mira]]. 
 
 ### Personality Traits
 
 ### Relation to The Remnants 
 
 ## Known Stats
+Was able to use a Gate Spell to take and immediately kill a prisoner from The Icebreaker

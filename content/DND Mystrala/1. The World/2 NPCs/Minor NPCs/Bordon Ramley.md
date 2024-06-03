@@ -6,7 +6,7 @@ aliases:
 
 > [!infobox]
 > # `Bordon Ramley` 
->![[Pasted image 20240602124558.png]]
+>![[Chef.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|

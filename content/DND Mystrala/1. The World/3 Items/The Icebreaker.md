@@ -3,8 +3,7 @@ aliases:
   - Mech-Bev
 ---
  
-
-![[The Icebreaker.png]]
+![[Icebreaker2.png]]
 
 ## Overview
 Arcane ship created by [[Solonor]], The Shipmaker. Combination of mechanical clockwork and arcane sigils that allows the ship to move faster than most despite it's heavy plating. The engine is comprised of a glass globe on the deck. A wizard utilizing either Shipstarting Scrolls or a magic user who learns can control the ship and direct it magically. 
@@ -43,10 +42,11 @@ The group stole the ship back after killing Gunner ([[36 - 05272024|Session 36]]
 - Defenses - dark iron plating than can detach and reattach
 - Transpiration - fast for a ship of its size, can also fly (using specialized magic? or removing it's dark iron plating)
 - Teleportation - customizable teleportation circle, can be deactivated, required codex to use
+- Enchanting - a divine and arcane enchanting lectern 
 - Food - high end chef on board that can make gourmet meals that imbue special properties depending on the ingredients 
 
 #### Food Menu
-![[Pasted image 20240602124343.png]]
-![[Pasted image 20240602124354.png]]
-![[Pasted image 20240602124402.png]]
-![[Pasted image 20240602124415.png]]
+![[BreakfastMenu.png]]
+![[LunchMenu.png]]
+![[DinnerMenu.png]]
+![[FeastCost.png]]
