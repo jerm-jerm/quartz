@@ -38,11 +38,11 @@ The group stole the ship back after killing Gunner ([[36 - 05272024|Session 36]]
 
 ### Capabilities
 - Parking - can batten down the hatches and park the ship underwater
-- Weaponry - multiple arcane cannons on each side, eldritch lance at the bow of the ship 
+- Weaponry - multiple arcane cannons on each side, eldritch lance? at the bow of the ship 
 - Defenses - dark iron plating than can detach and reattach
 - Transpiration - fast for a ship of its size, can also fly (using specialized magic? or removing it's dark iron plating)
-- Teleportation - customizable teleportation circle, can be deactivated, required codex to use
-- Enchanting - a divine and arcane enchanting lectern 
+- Teleportation - customizable teleportation circle, can be deactivated, requires codex to use
+- Enchanting - divine and arcane enchanting lectern 
 - Food - high end chef on board that can make gourmet meals that imbue special properties depending on the ingredients 
 
 #### Food Menu
