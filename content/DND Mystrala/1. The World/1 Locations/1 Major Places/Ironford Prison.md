@@ -32,7 +32,7 @@ aliases:
 - Deckard ☠
 
 ## History
-[[Gunner Ironford]] is (was?) the self-proclaimed ruler.
+[[Gunner Ironford]] was the self-proclaimed ruler.
 
 Prisoners are dropped of by ship on the North End. Overall self regulating since there is no escape. 
 

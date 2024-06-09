@@ -28,6 +28,7 @@ aliases:
 Famous and legendary chef from Orofin. Was in [[Ironford Prison]] and made an agreement with [[Gunner Ironford]]. Planned to perform dinner service in various towns when docked. To do this he requested exotic ingredients.
 
 ### Current Activities
+Very likely stabbed by Natasha Stoneheart when she stowed away on the ship
 
 ### Personality Traits
 Is not a fan of lobster mash in the slightest. 

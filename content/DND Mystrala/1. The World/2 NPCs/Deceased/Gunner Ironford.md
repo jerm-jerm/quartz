@@ -24,6 +24,8 @@ Was the ruler of [[Ironford Prison]], during this time he was also a paladin of 
 
 Gunner told Cassius that he was no longer a Paladin of the Church of Laduguer. Solonor told Sundara that he broke his oath to the Church.
 
+Apparently attacked and pirated many FETC ships and had a large debt to the FETC.
+
 ### Current Activities
 Stole back The Icebreaker in New Calim because he had some business out East. The ship was destroyed in the battle (Session [[22 - 02182024|22]] and [[23 - 02232024|23]]). Solonor explained that he repaired the ship for Gunner in exchange for gold, resources, and [[Spark]].
 
@@ -31,11 +33,15 @@ Had [[Chalice Manath]] chained in the captain's quarter of the Icebreaker when S
 
 Although he broke his oath to the Church he was still Laduguer the goddesses champion. Died at the hands of The Remnants ([[36 - 05272024|Session 36]]), they were not able to trap his soul in the soul cage. Had a Kingslayer Clause in his last will and testament that bequeathed many items to Cassius, who he anticipated may be someone who killed him. Even writing a letter mentioning, "Cassius Manath although it may seem that you had no spine, it seems you do. I am proud."
 
+During the reading of his last will and testament he had kind things to say about almost everyone including some of his enemies.
+
 ### Personality Traits
 Strongly dislikes charismatic talkative types. Expects for people to listen to him and do as he says without hesitation.
 
 ## Associates
-Was in a relationship, presumably romantic, with a bard who was at his side when the group attacked him In Ironford Prison the second time.
+Was in a relationship, presumably romantic, with a wizrd/bard who was at his side when the group attacked him In Ironford Prison the second time. Gunner left him a ship in his will.
+
+His mother Freya Yarnsin was present at the reading of his Last Will and Testament, in a letter Gunner asked for forgiveness from her.
 
 ### Relation to The Remnants 
 - Failed to follow instructions from two members of The Savage Seven relating to two members of The Remnants

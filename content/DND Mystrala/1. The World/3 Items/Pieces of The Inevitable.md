@@ -5,15 +5,15 @@ aliases:
 
 > Member |  Piece | Location|
 > ---|---|---|
-> [[Solonor]] | Unknown piece of eyes and body | Unknown |
+> [[Solonor]] | Heart of the Fated Moon | Unknown |
 > [[Alexi Faraday]]  | Gavel of the Judge | [[Karsus Folly]] 
 > [[Oswald Beaumont]] | Harmonic Resonator Chimes | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]] 
-> [[Gunner Ironford]]  | The Pelt of the Moon Warden | The Remnants
-> Ironheart | Unknown | Unknown, suspect in The [[Delmiri Desert]]
-> [[Mira]] | Mace | Unknown, suspect near the Serpentlord Shrine 
-> [[Ottoluke Organdorf]]  | Book | Unknown, last gambled away in [[Langston]], possibly in possession by [[The Bone King]]  
+> [[Gunner Ironford]]  | The Pelt of the Moonwarden | The Remnants
+> Ironheart | Silks of the Moonwarden | Unknown, suspect in The [[Delmiri Desert]]
+> [[Mira]] | Veil of the Moon | Unknown, suspect near the Serpentlord Shrine 
+> [[Ottoluke Organdorf]]  | Legend of the Moonwarden | Unknown, last gambled away in [[Langston]], possibly in possession by [[The Bone King]]  
 
-Also known as Vestiges of the Moon King
+Also known as Vestiges of the Moon King. Created by [[The Savage Seven]] after killing [[Aurunat, The Inevitable]] 
 
 ## Gavel of the Judge 
 Massive pure white battle hammer, overall impractical for use in it's design. Was the weapon of The Inevitable. Currently sitting in [[The Shattered Spire]] in [[Karsus Folly]] inside the ?Chamber of Dreamers as part of Prince Alexi Faraday's magical collection. Ottoluke notes that it makes cool sounds in use and is impossibly light. It would essentially dissolve enemies into pink bloody mist.
@@ -24,5 +24,5 @@ Originally one of Duke Oswald Beaumont's weapons. Was taken by the group after k
 ## The Pelt of the Moon Warden
 A pale, white-ish stone-like armor currently being worn by Gunner. Was created from the skin of Aurunat. 
 
-## Ottoluke's Book
+## Legend of the Moonwarden
 Ottoluke gambled away his piece of The Inevitable for drinking money years ago while in Langston.

@@ -8,8 +8,8 @@
 > Population | Large  | 
 > Theme |  |
 > Region | Southwest  |
-> Major Political Figures | [[Oswald Beaumont]] ☠  |
-> Groups | [[The Merchant Consortium]]  |
+> Major Political Figures | [[Oswald Beaumont]] ☠ [[Dunspero Beaumont]] |
+> Groups | [[The Merchant Consortium]], [[Sea of Swords]]  |
 
 ## Notable Locations
 > [!info]+ Districts  
@@ -17,7 +17,8 @@
 
 ## Notable Characters
 - Capitan [[Reina Kalimoff]] 
-- Capitan [[Sarah Stoneheart]] 
+- Commander [[Sarah Stoneheart]] 
+- Natasha Stoneheart
 - [[Oswald Beaumont]] ☠
 - [[Dunspero Beaumont]] 
 - [[Serpa]] 
@@ -28,7 +29,7 @@ Previously under the "protection" of a pirate clan, but the [[Sea of Swords]] ho
 
 The [[Voidwing Sisterhood]] was destroyed by a portal to the elemental plane of fire and with the city under attack, Lord [[Oswald Beaumont]] and his army of Clockwork Sentinels took over the city. The Clockwork Consortium, the only engineer guild in the city, hires primarily gnomes and were in charge of creating more [[Clockwork Devices|Clockwork Sentinels]] at a factory in the industrial district. The city was tense for some time under the strict rule of Oswald Beaumont, The Remnants tried inciting rebellion unsuccessfully a couple of time.
 
-Rule of New Calim was secretly transferred from [[Oswald Beaumont]] to [[Dunspero Beaumont]] after The Remnants killed Oswald Beaumont outside of his home The Whispering Tower. [[Gunner Ironford]] sailed to New Calim with an armada of ships and destroyed the city with powerful cannon attacks. The Remnants, the [[Sea of Swords]], and the Clockwork Sentinels fought back and drove Gunner and his fleet away.
+Rule of New Calim was secretly transferred from [[Oswald Beaumont]] to [[Dunspero Beaumont]] after The Remnants killed Oswald Beaumont outside of his home The Whispering Tower. [[Gunner Ironford]] sailed to New Calim with an armada of ships and destroyed the city with powerful cannon attacks. The Remnants, the [[Sea of Swords]], and the Clockwork Sentinels fought back and drove Gunner and his fleet away. Dunspero's power continues to grow as [[The Merchant Consortium]] is in the process of placing her in a role to make unilateral decisions for the city.
 
 ## Other General Notes
 

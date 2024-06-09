@@ -9,7 +9,7 @@ aliases:
 > Type |  Stat |
 > ---|---|
 > Current Location | [[Valendri]] |
-> Health Status |Unknown, presumed healthy |
+> Health Status |Alive, presumed healthy, terrifying |
 
 ## History
 Part of the reason that Karsus cast the spell Karsus Avatar. Thought to be extinct since The Spellplague. 
@@ -19,3 +19,4 @@ Now reappearing in [[Valendri|The Skyshattered Isles]] and feeding off of the we
 
 ## Known Stats
 The more powerful the magical being fighting against the Phaerimm the more powerful the creature itself.
+Able to ?dissolve spells

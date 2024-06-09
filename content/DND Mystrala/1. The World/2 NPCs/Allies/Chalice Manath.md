@@ -1,6 +1,5 @@
 ---
-aliases: 
-Type: dip
+aliases:
 ---
 
 
@@ -35,7 +34,7 @@ Cassius and the group were unable to send Chalice a message or scry on her when 
 
 Was seen as a prisoner of [[Gunner Ironford]] with a cursed tattoo in place ([[34 - 05122024|Session 34]]). She revealed that she had been a prisoner of the Beaumont's for months before Dunspero got tired of having a prisoner.
 
-Freed from [[Ironford Prison]] and is aboard The Icebreaker with the group.
+Freed from [[Ironford Prison]] and was aboard The Icebreaker with the group for some time before parting ways.
 
 ### Description and Personality Traits
 Strikingly beautiful with short curly red hair and freckles.
@@ -46,6 +45,7 @@ Loves life and tries to live in the moment (feels many elves take time for grant
 
 ### Relation to The Remnants 
 - Sister of [[Cassius]] 
+- Flirty relationship with [[Sundara]] 
 
 ## Known Stats
 Is not a changeling

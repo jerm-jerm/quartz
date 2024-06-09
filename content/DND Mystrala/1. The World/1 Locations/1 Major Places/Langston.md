@@ -17,6 +17,8 @@
 
 ## Notable Characters
 - [[Varrick]] is from Langston
+- [[The Bone King]] 
+
 ## History
 
 ## Other General Notes

@@ -21,20 +21,21 @@ The group stole the ship back after killing Gunner ([[36 - 05272024|Session 36]]
 [[Samugi]] and Sundara created a relay to attach the [[Clockwork Devices|Clockwork Sentinel]] to the ship. The engine room transformed from a blue light to a warm golden glow. The soul living in the sentinel, Beverly Waverly, regained her sentience and is able to control the ships functions including steering, weapons, and flying. She particularly enjoys flying ([[37 - 06012024|Session 37]]).
 
 ### Crew
-- Ship and Head of Security - Mech-Bev
+- Ship's Consciousness - Mech-Bev
 - Captains - The Remnants
 - First Mate - [[Leland]] 
 - Head Chef - [[Bordon Ramley]] 
 	- 5 other kitchen staff
 	- Maître d' - Jean Paul
-- Banker - Carter Abbyman 
+- Banker - Carter Sterling Abbyman 
 - Explosives Expert - [[Briggs]] 
 - Main Cannoneer - Dannyboy 
 - Nick
 - Mr Radler
 
 ### Location
-- [[New Calim]] 
+- The Open Skies
+- Dark Iron Plating in the bay outside of [[New Calim]] 
 
 ### Capabilities
 - Parking - can batten down the hatches and park the ship underwater

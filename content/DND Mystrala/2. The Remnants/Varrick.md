@@ -29,7 +29,7 @@ Fought toe-to-toe with a young green dragon and held his own but was ultimately 
 > "What if this means that your enemy, the man who murdered your son, is to live while someone like your companion, Sundara, is destined to die? Will you honor fate then?" - Skulk and Shadow of the [[Voidwing Sisterhood]] 
 > "If it is her will then it will happen." - Varrick
 
-Revealed to the group that he has an ex-wife and children. Allara and Samugi continued to not believe him due to the magic that was used to change their memories. 
+Revealed to the group that he has an ex-wife and children. Later went on to tell Sarah directly, during this reveal to her he heard a voice in his head telling him, "this isn't how this works." His warlock markings began to bleed and he felt poorly for the rest of the day. Sarah expressed that she was furious at him and was going to destroy the entire Circle of Ruin and Thistle.
 
 ### Description and Characteristics
 Large imposing goliath, shaved head, and beard. Wears full armor most often. Has multiple tattoos.
@@ -37,8 +37,9 @@ Large imposing goliath, shaved head, and beard. Wears full armor most often. Has
 Tends to act first and ask questions later. Protective. Not a fan of being told what to do or corrected on the way he is acting.
 
 ## Relationships
-- [[Sarah Stoneheart]], his ex-wife, but becoming close again after reuniting in [[New Calim]], has yet to introduce Varrick to their daughter, Natasha; she now is unaware of Varrick's existence or their past relationship
-	- Varrick met Natasha who was adventurous and reckless and asked him questions about his armor
+- [[Sarah Stoneheart]], his ex-wife, she is angry at him after learning about his pact the The Circle of Ruin and Thistle that altered her memories
+	- Varrick started forming a relationship with Natasha who realized he was her dad; she tends to be adventurous but a little reckless 
+	- Began following The [[Raven Queen]] after his son Atlas was present during his resurrection
 - [[Barrel Back Bill]] and him appear to have a close friendship; when Ottoluke asked for final messages if the group died in battle, Varrick told Ottoluke to tell Barrel Back Bill that his is, "a cool guy"
 - [[Briggs]], previously in a group together, but suspect some animosity as Briggs crawled up Varrick's back and stabbed him the first time they reunited in prison
 - [[Sundara]], Varrick believes something special is going on with Sundara and his instinct is to stay close and protect her
@@ -46,7 +47,7 @@ Tends to act first and ask questions later. Protective. Not a fan of being told 
 
 
 ## Secrets from the group
-- He traded memories for power and made a warlock pact with an unknown patron. He has told the group about the existence of his wife, daughter, and son, but Allara and Samugi's memories have not returned and they do not believe him. 
+- 
 
 -
 ``` custom-frames

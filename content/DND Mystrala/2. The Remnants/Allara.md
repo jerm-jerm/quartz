@@ -38,7 +38,6 @@ Pale, sallow appearing, jet black eyes, various colored hair (black, violet, gre
 
 ## Secrets from the group
 - Saw the markings on the hands of [[Dunspero Beaumont]] demonstrating that she was a member of The [[Circle of Ruin and Thistle]] 
-- [[Mira]] of [[The Savage Seven]] would like to talk to Allara about working for her and Allara would be owed a few years wages and would probably be paid what she is owed if she worked with her
 
 
 -

@@ -11,7 +11,7 @@ Aliases: Cass, Vale
 
 
 ## Backstory
-His gift/curse of being a changeling was given to him by The Traveler.
+His parents prayed to the The Traveler during a time on struggle and were gifted Cassius a changeling child. He otherwise was presumed to be an orphan prior to becoming their child.
 
 Raised as a noble in a castle. His family owned a college in [[Brightwater]]. The college was taken over by Duke [[Oswald Beaumont]], who smeared the Manath family name and destroyed the institution. 
 
@@ -28,6 +28,8 @@ Cassius expressed concern that his sister Chalice might have gotten into some tr
 
 On the death of his friend [[Varrick]], Cassius reaches out to [[Alexi Faraday]] offering [[Pieces of The Inevitable|Harmonic Resonator]] in exchange for help. After reviving Varrick, Faraday takes Cassius to [[The Shattered Spire]] and lets him take an artifact for a fair trade. Cassius takes the interdimensional twisted gun he examined earlier at the charity ball. Although the object feels inert he has the feeling that in another world it would have been an extremely powerful weapon, he decides to attune to the item  over a long rest ([[33 - 05052024|Session 33]]).
 
+He meets up with Dunspero while the group is in New Calim, reuniting the Manath family. During the visit Dunspero initially seems cold and distant but warms to Cassius and kisses him. While dancing in the foyer of The Whispering Tower, Cassius hides his stone-cold face and then leaves without saying, "I love you" ([[38 - 06082024|Session 38]]).
+
 ### Description and Characteristics
 True changeling form is a white/grey blob appearing humanoid
 Feels comfortable in any form they choose to keep, switches between sex/gender and names fluidly
@@ -35,9 +37,9 @@ Feels comfortable in any form they choose to keep, switches between sex/gender a
 ## Relationships
 - 'Entangled' with Dunspero Beaumont, a relationship that was presumably frowned upon by her father Oswald Beaumont, as he sent Cassius to [[Ironford Prison]] and requested that [[Gunner Ironford]] kill him once he arrive.
 	- She was upset regarding the connection Cassius had to the death of her father, but reconciled this and her own disdain for her father
+	- Despite reaching out to Dunspero recently, Cassius appears to have conflicted feelings about her
 - Parents, [[Zariah and Anelia Manath]], they are performers, happy to be on the road and spend time together; generally supportive of Cassius and came to [[New Calim]] out of concern for him
-	- His mother expressed disappointment to hear how blithely Cassius mentioned killing Oswald Beaumont 
-- Adopted sister, [[Chalice Manath]], who he doesn't really talk to
+- Adopted sister, [[Chalice Manath]]
 
 
 ## Secrets from the group

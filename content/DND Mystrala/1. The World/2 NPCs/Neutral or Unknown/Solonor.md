@@ -33,6 +33,8 @@ Is known through Karsus as The Shipbuilder, a creator of various magical [[Clock
 ### Current Activities
 Is aware that Faraday is hunting him for his piece of [[Aurunat, The Inevitable]]. Has purchased supplies from [[Gunner Ironford]] including [[Spark]], but sees him as a brute. Otherwise unknown.
 
+Bequeathed a large deposit of dark iron by Gunner on his death.
+
 ### Personality Traits
 Exacting. Views the subject of missing souls, or the souls themselves, as insignificant. Believes creating complex [[Clockwork Devices]] is a type of art.
 

@@ -5,7 +5,7 @@
 > ###### Info
 > ‎  | ‎  |
 > ---|---|
-> Type | `=this.type` | 
+> Type | Floating City | 
 > Population | Unknown | 
 > Theme | `=this.theme` |
 > Region | East |
@@ -19,6 +19,7 @@
 ## Notable Characters
 - [[Sundara|Sundara Elisthorn]] 
 - [[Elowen Elisthorn]] 
+- [[Alaris and Nyths Elisthorn]] 
 - [[Solonor]] 
 ## History
 Secretive city of elves atop the Skyshattered Isles that were previously thought to be unpopulated. The last vestige of  those who had survived the Spellplague.

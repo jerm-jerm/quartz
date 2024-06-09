@@ -12,10 +12,10 @@ There is evidence that the souls used to make Spark are retained even once place
 
 Other clockwork devices include those made by Samugi's tinkering or Sundara's clockwork magic or a combination. They have also purchased clockwork devices such as Allara's prosthetic leg.
 
-[[The Icebreaker]] is a complex clockwork device, made up of a clockwork/arcane engine that powers a lightweight but armored ship.
+[[The Icebreaker]] is an immensely complex clockwork device, made up of a clockwork/arcane engine that powers a lightweight but armored ship.
 
 ### Location
-Large collection located in [[New Calim]].
+Large collection of sentinels located in [[New Calim]].
 
 ### Capabilities
 More advanced Clockwork Sentinels speak with a mechanical version of Solonor’s voice. 
