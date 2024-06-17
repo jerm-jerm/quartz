@@ -19,7 +19,7 @@
 ## Notable Characters
 - [[Sundara|Sundara Elisthorn]] 
 - [[Elowen Elisthorn]] 
-- [[Alaris and Nyths Elisthorn]] 
+- [[Solara and Cyndir Elisthorn]] 
 - [[Solonor]] 
 ## History
 Secretive city of elves atop the Skyshattered Isles that were previously thought to be unpopulated. The last vestige of  those who had survived the Spellplague.
