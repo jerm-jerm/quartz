@@ -37,6 +37,8 @@ Believes magic should be freely given, that limitations are a bastardization of 
 
 Solonor thinks that Faraday is rebuilding The Inevitable. When discussing with the group, they considered that he is trying to use The Inevitable's identity to access something only it is able to, such as the heart of [[Karsus]]. In his will, [[Gunner Ironford]] later confirms that Faraday is on a journey to awake the heart of Karsus.
 
+Has been supplying [[psionic weapons]] to the [[Valendri]] people to aid in their battle against The [[Phaerimm]]. 
+
 ### Personality Traits
 Comes off as charismatic and charming, tries to defuse tense situations with jokes and really nice alcohol. Hints of ungovernable ambition in his eyes when he talks about his goals. Made a fair trade with The Remnants when he clearly had the upper hand.
 

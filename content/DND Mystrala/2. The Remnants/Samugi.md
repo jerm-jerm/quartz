@@ -23,6 +23,8 @@ Samugi spent time in battle tinkering with a Clockwork troll and starts to have 
 
 Carrying around a large metal tube that carries his clockwork soul astral defender. Feels he is being haunted by a faceless presence that follows him wherever he goes.
 
+His power was pivotal in the battle against the [[Phaerimm]] on the groups travel to Valendri. Upon grabbing the Staff of Rivers and Wind, he had a vision of defeating [[Aurunat, The Inevitable]] and then confronting [[Ironheart]] in a cave in the desert ([[39 - 06162024|Session 39]]).
+
 ### Description and Characteristics
 Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversations with wise people. Very adept at tinkering. 
 

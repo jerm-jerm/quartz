@@ -9,7 +9,7 @@ aliases:
 > [[Alexi Faraday]]  | Gavel of the Judge | [[Karsus Folly]] 
 > [[Oswald Beaumont]] | Harmonic Resonator Chimes | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]] 
 > [[Gunner Ironford]]  | The Pelt of the Moonwarden | The Remnants
-> Ironheart | Silks of the Moonwarden | Unknown, suspect in The [[Delmiri Desert]]
+> [[Ironheart]] | Silks of the Moonwarden | Unknown, suspect in The [[Delmiri Desert]]
 > [[Mira]] | Veil of the Moon | Unknown, suspect near the Serpentlord Shrine 
 > [[Ottoluke Organdorf]]  | Legend of the Moonwarden | Unknown, last gambled away in [[Langston]], possibly in possession by [[The Bone King]]  
 
