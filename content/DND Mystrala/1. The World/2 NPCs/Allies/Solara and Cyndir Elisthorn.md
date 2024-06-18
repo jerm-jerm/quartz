@@ -2,7 +2,7 @@
 
 Her parents showed nothing but support for Sundara's decision to leave [[Valendri]] and saw her off on her journey with love and hope.
 
-Solara is the daughter of [[Karsus|Valender]], but she chose to have the specific memories of the end of his life taken away and is not aware that his is also Karsus and was responsible for the fall of the rest of the floating islands in the past. 
+Solara is the daughter of [[Karsus|Valender]], but she chose to have the specific memories of the end of his life taken away and is not aware that he is also Karsus and was responsible for the fall of the rest of the floating islands in the past. 
 
 Cyndir was lost fighting the Phaerimm and has been missing for 2 weeks now. 
 
