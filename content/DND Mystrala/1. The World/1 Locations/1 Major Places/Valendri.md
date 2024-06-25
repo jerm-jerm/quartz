@@ -15,6 +15,7 @@
 ## Notable Locations
 > [!info]- Districts  
 > - Starfall District
+> - Etherium District
 
 ## Notable Characters
 - [[Sundara|Sundara Elisthorn]] 

@@ -30,6 +30,8 @@ On the death of his friend [[Varrick]], Cassius reaches out to [[Alexi Faraday]]
 
 He meets up with Dunspero while the group is in New Calim, reuniting the Manath family. During the visit Dunspero initially seems cold and distant but warms to Cassius and kisses him. While dancing in the foyer of The Whispering Tower, Cassius hides his stone-cold face and then leaves without saying, "I love you" ([[38 - 06082024|Session 38]]).
 
+While exploring [[Valendri]] he learned that his magic items, his polylute and precursor gun, felt 'more at home.'
+
 ### Description and Characteristics
 True changeling form is a white/grey blob appearing humanoid
 Feels comfortable in any form they choose to keep, switches between sex/gender and names fluidly
