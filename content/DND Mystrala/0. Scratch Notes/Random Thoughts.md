@@ -19,5 +19,3 @@ Running Mission List (in no particular order)
 > 	2. Wall of force (5) + clairvoyance (3) in the engine room
 > 	3. Shatter (2) x3 various points 
 > 	4. Sundara's personal message glyphs
-
-test
