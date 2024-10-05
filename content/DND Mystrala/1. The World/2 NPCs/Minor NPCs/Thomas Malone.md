@@ -1,0 +1,1 @@
+Task master of the [[Gilded Glave]] operating out of the Jaded Jackal. Was attacked by [[Oswald Beaumont]]'s people at one point for not paying for protection as he was opposed to the take over of [[New Calim]]. Still owns and works at the Jaded Jackal.

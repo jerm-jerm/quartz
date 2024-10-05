@@ -1,0 +1,1 @@
+Below of an island in the Skyshattered Isles outside of [[Valendri]]. Previously where [[Solonor]] lived. [[Sundara]] lived with Solonor in this workshop for months where she began formally studying her magic abilities. There are clockwork scraps for building prototypes and devices, large open areas for practicing magic, and a study with a sitting area and books.

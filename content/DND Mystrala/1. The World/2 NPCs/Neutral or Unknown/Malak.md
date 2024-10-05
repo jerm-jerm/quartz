@@ -1,0 +1,1 @@
+300 years when Malak was essentially a kid he left another continent and brought his people to the [[Delmiri Desert]] to be "awakened." Him and his people massacred the Far Empire travelers that lived there and created their own settlement. 

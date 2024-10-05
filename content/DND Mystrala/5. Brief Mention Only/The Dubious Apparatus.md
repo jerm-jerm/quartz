@@ -1,0 +1,1 @@
+A Netherese Charm that only sorcerers can use. Stolen from a ship that was destroyed by a dragon. Appears similar in someway to the unknown device by [[Solonor]] and [[Alexi Faraday|Faraday]].
