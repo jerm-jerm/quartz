@@ -1,7 +1,5 @@
 Oberith -> Tinari -> Exarts
 
-test before update
-
 Varrick ask Ollie Silver for the bones, Ollie says they normally sell it to the sea witch an elf with caramel skin and burning eyes and dark hair that walks the waves. Possibly the person varrick talked to in his vision. 
 
 Karken pieces are being loaded up into a warehouse to [[Bloodgulch Meatworks]]. Ollie Silver gives them blank stationary with a rune on the bottom (glowing stamp). And if you ever need assistance from the Rust Alley Whalers and prefer to be paid in a favor. 
