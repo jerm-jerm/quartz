@@ -3,15 +3,15 @@ aliases:
   - Vestiges of the Moon King
 ---
 
-> Member |  Piece | Location|
-> ---|---|---|
-> [[Solonor]] | Heart of the Fated Moon | Unknown |
-> [[Alexi Faraday]]  | Gavel of the Judge | [[Karsus Folly]] 
-> [[Oswald Beaumont]] | Harmonic Resonator Chimes | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]] 
-> [[Gunner Ironford]]  | The Pelt of the Moonwarden | The Remnants
-> [[Ironsoul]] | Silks of the Moonwarden | The Remnants
-> [[Mira]] | Veil of the Moon | Unknown, suspect near the Serpentlord Shrine 
-> [[Ottoluke Organdorf]]  | Legend of the Moonwarden | Unknown, last gambled away in [[Langston]], in possession by [[The Bone King]]  
+> Member |  Part | Name | Location|
+> ---|---|---|---|
+> [[Solonor]] | Heart| Heart of the Fated Moon | Unknown |
+> [[Alexi Faraday]]  | Eyes| Gavel of the Judge | [[Karsus Folly]] 
+> [[Oswald Beaumont]] | Chimes| Harmonic Resonator  | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]] 
+> [[Gunner Ironford]]  | Skin| The Pelt of the Moonwarden | The Remnants
+> [[Ironsoul]] | Clothes |Silks of the Moonwarden | The Remnants
+> [[Mira]] | Veil |Veil of the Moon | Unknown, suspect near the Serpentlord Shrine 
+> [[Ottoluke Organdorf]]  | Leger |Legend of the Moonwarden | In possession by [[The Bone King]]  
 
 Also known as Vestiges of the Moon King. Created by [[The Savage Seven]] after killing [[Aurunat, The Inevitable]] 
 

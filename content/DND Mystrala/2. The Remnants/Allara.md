@@ -18,6 +18,8 @@ Allara and her brother [[Lucian Thorne]] were taken away from their home and ado
 Allara originally worked for the [[Gilded Glave]] transporting goods. She was transporting goods in the [[Delmiri Desert]] when her entire group was wiped out. She blames herself for their deaths and works hard to ensure that the group she is currently travelling with doesn't meet the same demise.
 
 ![[IconCleric.png|right|150]]
+## Prior Events
+
 ## Current Events
 Lost many of her sisters in the raid by [[Circle of Ruin and Thistle]] ([[15 - 01012024|Session 15]]).
 
@@ -37,10 +39,4 @@ Pale, sallow appearing, jet black eyes, various colored hair (black, violet, gre
 - Was upset when [[Varrick]] decided to join The Circle of Ruin and Thistle. Varrick used his dying breath to apologize to Allara while she tried to heal him. After is resurrection, they reconciled and Varrick became a follower of The [[Raven Queen]] 
 
 ## Secrets from the group
-- Saw the markings on the hands of [[Dunspero Beaumont]] demonstrating that she was a member of The [[Circle of Ruin and Thistle]] 
-
-
--
-``` custom-frames
-frame: DNDBeyond Allara
-```
+- 

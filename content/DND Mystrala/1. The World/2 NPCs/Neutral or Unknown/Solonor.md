@@ -12,7 +12,7 @@ aliases:
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race |  | 
+> Race | Elf | 
 > Sex | Male | 
 > Age | Immortal |
 > Condition | Healthy |
@@ -37,6 +37,7 @@ Bequeathed a large deposit of dark iron by Gunner on his death, was not present 
 
 ### Personality Traits
 Exacting. Views the subject of missing souls, or the souls themselves, as insignificant. Believes creating complex [[Clockwork Devices]] is a type of art.
+Cold, calculating, quick to judge.
 
 ## Associates
 - Associated with [[The Savage Seven]] 

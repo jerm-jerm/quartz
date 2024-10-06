@@ -15,7 +15,7 @@ aliases: Elhorn
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | presumed [[Langston]]|
+> Current Location | [[Langston]]|
 > Class | Storm Sorcerer|
 > Alias(es) | Elhorn |
 > Known Family | Unknown |
@@ -29,7 +29,7 @@ Working out of [[Langston]]. Has one of the largest crews, known as the Bone Hun
 
 His rule over Langston comes primarily from gold which he earns through tincture production and leviathan hunting.
 
-Keeps a zombified Cresnic One Eye as a prisoner on his ship. This was the previous the captain of the ship.
+Keeps a zombified Cresnic One Eye as a prisoner on his ship. This was the previous the captain of the ship who had a cursed sword that Elhorn now has driven through his body pinning him to the deck of the ship.
 
 ### Current Activities
 Wants to sell his and The Remants' [[Pieces of The Inevitable]] to [[Alexi Faraday]]

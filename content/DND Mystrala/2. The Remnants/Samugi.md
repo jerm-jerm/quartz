@@ -11,6 +11,7 @@
 From an area north of Kozah, part of the Hangul Dynasty specifically. His family has been dead for centuries and he lost contact with any remaining members, "many moons ago". Knew a Demon [[Oni]] personally. Befriended it and then noticed he was becoming a reflection of the demon itself. When he initially obtained his powers he thought it was related to a curse. Lived in isolation for a long period of time, as part of a monastery/fellowship of monks. He tried to murder the demon and was framed for the death of a man, he was then sent to [[Ironford Prison]].
 
 ![[IconMonk.png|right|150]] 
+## Prior Events
 
 ## Current Events
 The demon Oni that Samugi knew attacked him in the [[Delmiri Desert]] and told Samugi that he would take away what he found most precious. (Session [[06 - 10292023|06]] and [[07- 11052023|07]]).
@@ -32,10 +33,4 @@ Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversatio
 - The group [[Allara]] was previously travelling with was killed by the Demon Oni that is also after Samugi.
 
 ## Secrets from the group
-- .
-
-
--
-``` custom-frames
-frame: DNDBeyond Samugi
-```
+- 
