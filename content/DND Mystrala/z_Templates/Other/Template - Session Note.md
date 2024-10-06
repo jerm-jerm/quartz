@@ -1,3 +1,6 @@
+---
+date: YYYY-MM-DD
+---
 |← Previous session]] <span style="float: right;">Next session →]]</span>
 
 ## Events
