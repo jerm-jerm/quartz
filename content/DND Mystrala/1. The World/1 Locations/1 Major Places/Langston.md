@@ -15,7 +15,7 @@
 ![[Langston Map.png]]
 
 ## Notable Characters
-- [[Varrick]] is from Langston
+- [[Varrick]] lived in Langston for quite some time
 - [[The Bone King]] 
 
 ### Factions

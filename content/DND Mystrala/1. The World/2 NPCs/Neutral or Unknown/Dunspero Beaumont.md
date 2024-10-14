@@ -2,6 +2,7 @@
 aliases:
   - The Duchess
   - Duchess Dunspero Beaumont
+  - High Chancellor
 ---
 
 

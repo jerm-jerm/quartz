@@ -1,1 +1,1 @@
-Cold and up North. Has ruthless pirates and giants?
+Cold and up North. Has ruthless pirates and giants. [[Sarah Stoneheart]] and [[Samugi]] are originally from this region.

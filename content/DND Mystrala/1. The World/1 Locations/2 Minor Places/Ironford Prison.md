@@ -27,7 +27,7 @@ aliases:
 > - The Throne Room
 
 ## Notable Characters
-- [[Gunner Ironford]]
+- [[Gunner Ironford]] ☠
 - Bacon Jack and Pudding ☠
 - Deckard ☠
 

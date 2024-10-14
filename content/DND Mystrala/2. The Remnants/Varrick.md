@@ -37,6 +37,8 @@ Revealed to the group that he has an ex-wife and children. Later went on to tell
 
 Was chosen as a champion by Dagen after dealing the killing blow to the Kraken ([[50 - 09012024|Session 50]]) and pulling a magical trident of its eye. Dagen told Varrick his opinion (or possibly the truth) about The Raven Queen which Varrick chose to reject. The kraken, speaking through the trident requested taht Varrick build a shrine to him at the bottom of the ocean. 
 
+After talking with Sarah, decided that sometime soon he will part from the group and settle down in New Calim.
+
 ### Description and Characteristics
 Large imposing goliath, shaved head, and beard. Wears full armor most often. Has multiple tattoos, markings on his hand, and now snakes across his arms and body.
 

@@ -1,3 +1,3 @@
 In Coalridge area of [[Langston]]. Where 60% of [[The Bone King]]'s [[spark|tincture]] is produced from either 'volunteers' or prisoners. This Spark is smuggled out to various cities. The front for the business is that it is where leviathan's are processed. The area is guarded by some amount of clockwork sentinels. Probably has some wards in place to prevent people from sneaking in.
 
-Rust Alley Whalers sends in Krakens they collect to be processed and get payment.
+Rust Alley Whalers sends in Krakens they collect to be processed and get payment via mechanized carts.

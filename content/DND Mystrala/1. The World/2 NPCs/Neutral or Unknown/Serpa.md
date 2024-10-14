@@ -13,12 +13,12 @@ aliases:
 > Race | Goliath  | 
 > Sex | Male | 
 > Age | - |
-> Condition | Healthy |
+> Condition | Deceased |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | Camp outside of [[Karsus Folly]]  |
-> Class | - |
+> Current Location | Died in The Etheral Plane outside of Barrowmoor Manor  |
+> Class | Druid? |
 > Alias(es) | - |
 > Known Family |- |
 > Known Groups | [[Circle of Ruin and Thistle]] |
@@ -31,6 +31,8 @@ Male goliath druid that is a part of The [[Circle of Ruin and Thistle]]. Was bro
 
 Notes that all members of The Circle were once forsaken by the current civilization. Since he was a child he was under contract by the FETC and forced to do hard labor. He believes that everyone is either the boot or has one pressed to their neck. Has fungal moss-like lichen growing out of where his heart is. It is an identical pattern and species that is on Varrick's hammer.
 
+Was given the role of executioner in the The Circle's hunting of Varrick after he broke his pact. Varrick was responsible for dealing the killing blow, to which Serpa appeared to simply accept. 
+
 ### Personality Traits
 
 ### Relation to The Remnants 
@@ -38,3 +40,4 @@ Notes that all members of The Circle were once forsaken by the current civilizat
 
 ## Known Stats
 Bested Varrick in one-on-one battle
+Varrick killed him

@@ -17,7 +17,7 @@ aliases:
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | [[The Icebreaker]] |
+> Current Location | [[New Calim]] |
 > Class | Bard |
 > Alias(es) | `=this.aliases` |
 > Known Family | [[Cassius]] - adopted brother brother; [[Zariah and Anelia Manath]] - adopted parents  |

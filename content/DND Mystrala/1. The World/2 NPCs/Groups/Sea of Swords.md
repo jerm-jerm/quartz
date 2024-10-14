@@ -3,7 +3,7 @@ Sea of Swords combined with the Paladins of Vigilance. Hosted within the [[Morta
 Members:
 - [[Sarah Stoneheart]] 
 - [[Barrel Back Bill]]
-- Garak
+- Garrick
 - [[Ottoluke Organdorf]] 
 - The Remnants
 - Valkur (previous holder of the trident)
