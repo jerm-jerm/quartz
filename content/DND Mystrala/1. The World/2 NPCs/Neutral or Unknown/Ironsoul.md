@@ -27,10 +27,11 @@ aliases:
 ## History
 He was brought back from [[Mechanus]] by [[Solonor]] and [[Karsus|Valender]] long ago. 
 
-Previously a member of [[The Savage Seven]] and responsible for the fall of [[Aurunat, The Inevitable]].
+Previously a member of [[The Savage Seven]] and responsible for the fall of [[Aurunat, The Inevitable]]. Solonor once told Sundara that he felt that Ironsoul was one of the few members of their group that felt remorse about his role in that.
 
 ### Current Activities
 The group battled him and after defeating him, he gave them The Silks of the Moonwarden ([[43 - 07152024|Session 43]]).
+
 ### Personality Traits
 
 ### Relation to The Remnants 

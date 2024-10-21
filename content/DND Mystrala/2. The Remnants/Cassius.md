@@ -29,7 +29,6 @@ On the death of his friend [[Varrick]], Cassius reaches out to [[Alexi Faraday]]
 
 He meets up with Dunspero while the group is in New Calim, reuniting the Manath family after the rescue of Chalice from Ironford Prison. During the visit Dunspero initially seems cold and distant but warms to Cassius and kisses him. While dancing in the foyer of The Whispering Tower, Cassius hides his stone-cold face and then leaves without saying, "I love you" ([[38 - 06082024|Session 38]]).
 
-
 ## Current Events
 While exploring [[Valendri]] he learned that his magic items, his polylute and precursor gun, felt 'more at home.'
 
@@ -37,8 +36,7 @@ One of his changeling forms face, Valesca Vale, appears on the ship and threaten
 
 After casting an awaken spell on his magical gun weapon ([[45 - 07302024|Session 45]]) he learns that it was pulled directly off of the world tree and was eventually given to Cassius by the Traveler. The Traveler would talk to the gun often, the gun thinks this was because The Traveler was lonely.
 
-Reunites with Dunspero at one of her properties, Barrowmoor Manor. Initially feeling were tense when she explained to him that she was responsible for the final death of her father to protect Cassius. They reconcile and spend the evening together. After she admits to being a part of The Circle of Ruin and Thistle and the upcoming plan for assassination of Varrick, Cas decides to do what it takes to protect her. 
-
+Reunites with Dunspero at one of her properties, Barrowmoor Manor. Initially feelings were tense when she explained to him that she was responsible for the final death of her father to protect Cassius. They reconcile and spend the evening together. After she admits to being a part of The Circle of Ruin and Thistle and the upcoming plan for assassination of Varrick, Cas tells her that he will do what it takes to protect her. 
 
 ### Description and Characteristics
 True changeling form is a white/grey blob appearing humanoid

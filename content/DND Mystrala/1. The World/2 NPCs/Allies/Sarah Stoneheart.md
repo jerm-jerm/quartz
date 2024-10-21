@@ -26,16 +26,18 @@ She later notes that the Order of Vigilance and [[Sea of Swords]] have merged in
 
 Unbeknownst to her she lost all memory of being married to Varrick or him being the father of their children ([[29 - 04052024|Session 29]]). Possibly in a relationship with Garrick, also of the Sea of Swords.
 
-Varrick told her about his pact and her missing memories. Realizing her memories were ripped from her and going through the loss all over again she becomes furious with Varrick and punches him in the face. She later hugs and kisses him when he safely returns Natasha who stowed away on [[The Icebreaker]]. She tells him that she plans on finding the witch that made that pact with him and dissolving her and their entire circle ([[38 - 06082024|Session 38]]).
+Varrick told her about his pact and her missing memories. Realizing her memories were ripped from her and going through the loss all over again she becomes furious with Varrick and punches him in the face. She later hugs and kisses him when he safely returns Natasha who stowed away on [[The Icebreaker]]. She tells him that she plans on finding the witch that made that pact with him and dissolving her and their entire circle ([[38 - 06082024|Session 38]]). 
+
+After dinner at Barrowmoor Manor, she tells Varrick that if he came home and became a father it would make things easier for her. Varrick later tells her that he has more to do to make sure the world is safe for Natasha before settling down.
 
 ### Current Activities
-Appears to be disgruntled and stressed out with how [[Dunspero Beaumont]] is running [[New Calim]]. She tells Varrick that if he came home and became a father it would make things easier for her.
+Appears to be disgruntled and stressed out with how [[Dunspero Beaumont]] is running [[New Calim]], saying that Dunspero is running the city into the ground.
 
 ### Personality Traits
 Imposing, blunt, and straight to the point. Can be fiery with her responses, both verbal and physical. 
 
 ### Relation to The Remnants 
-- [[Varrick]]'s ex-wife and mother to his two children (she previously had no recollection that he is her ex-husband and the father to her children)
+- [[Varrick]]'s ex-wife and mother to his two children (she previously had no recollection that he is her ex-husband and the father to her children). Currently openly romantic towards him.
 - Commander with the [[Sea of Swords]],  part of the group that commissioned The Remnants to obtain all the pieces of [[Aurunat, The Inevitable]]
 - [[Sundara]]'s role model 😍
 

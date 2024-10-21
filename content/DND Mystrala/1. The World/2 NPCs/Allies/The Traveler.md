@@ -10,18 +10,18 @@ aliases:
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | `=this.race` | 
-> Sex | `=this.sex` | 
-> Age | `=this.age` |
-> Condition | `=this.condition` |
+> Race | Unknown, but a deity | 
+> Sex | Male  | 
+> Age | Unknown |
+> Condition | Presumed Healthy |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | `=this.Location` |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
-> Known Family |`=this.knownfamily` |
-> Known Groups | `=this.knowngroups` |
+> Current Location | Possibly another world? |
+> Class | Unknown |
+> Alias(es) | None |
+> Known Family | None |
+> Known Groups | Unknown |
  
 
 ## History
@@ -31,5 +31,6 @@ aliases:
 ### Personality Traits
 
 ### Relation to The Remnants 
+- Is the patron of [[Cassius]]
 
 ## Known Stats

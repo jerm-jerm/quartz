@@ -11,6 +11,7 @@ Running Mission List (in no particular order)
 - Capitalism is kind of ruining this whole world but that's a big ask
 - The World Tide by [[Dagon]] is due any time now
 
+
 > - Defense talk with the crew, Allara to finish hallow, cast multiple glyph of warding (triggers without bracelets or without touching someone with a bracelet)
 > 	1. Fireball (3) + clairvoyance (3) on deck
 > 	2. Wall of force (5) + clairvoyance (3) in the engine room

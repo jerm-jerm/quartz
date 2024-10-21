@@ -24,9 +24,12 @@ Reyna is "one of Xanders" and is what is known as an exarch, someone with unusua
 
 ### Current Activities
 Is currently in the crosshairs of [[The Bone King]] who tried to force The Remnants after her.
+
 ### Personality Traits
 No nonsense 
+
 ### Relation to The Remnants 
 - Worked for the [[Sea of Swords]] and was part of the group that commissioned The Remnants to obtain all the pieces of [[Aurunat, The Inevitable]]
+
 ## Known Stats
 Has a Cloak of Billowing

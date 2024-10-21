@@ -12,19 +12,18 @@ From an area north of Kozah, part of the Hangul Dynasty specifically. His family
 
 ![[IconMonk.png|right|150]] 
 ## Prior Events
-
-## Current Events
-The demon Oni that Samugi knew attacked him in the [[Delmiri Desert]] and told Samugi that he would take away what he found most precious. (Session [[06 - 10292023|06]] and [[07- 11052023|07]]).
-
 Signed a lease for a shitty apartment in [[New Calim]] on Fey Paper ([[13 - 12162023|Session 13]]).
 
 Spent one night working at the [[Clockwork Devices|Clockwork Factory]] where the sentinels were made ([[21 - 02102024|Session 21]]).
 
 Samugi spent time in battle tinkering with a Clockwork troll and starts to have a higher understanding of clockwork devices built by Solonor ([[26 - 03172024|Session 26]]).
 
-Carrying around a large metal tube that carries his clockwork soul astral defender. Feels he is being haunted by a faceless presence that follows him wherever he goes.
+## Current Events
+The demon Oni that Samugi knew attacked him in the [[Delmiri Desert]] and told Samugi that he would take away what he found most precious. (Session [[06 - 10292023|06]] and [[07- 11052023|07]]).
 
-His power was pivotal in the battle against the [[Phaerimm]] on the groups travel to Valendri. Upon grabbing the Staff of Rivers and Wind, he had a vision of defeating [[Aurunat, The Inevitable]] and then confronting [[Ironsoul]] in a cave in the desert ([[39 - 06162024|Session 39]]).
+Carries around a large metal tube that carries his clockwork soul astral defender. Feels he is being haunted by a faceless presence that follows him wherever he goes.
+
+His power was pivotal in the battle against the [[Phaerimm]] on the groups travel to Valendri. Upon grabbing the Staff of Rivers and Wind, he had a vision of defeating [[Aurunat, The Inevitable]] and then confronting [[Ironsoul]] in a cave in the desert ([[39 - 06162024|Session 39]]). Once the group found Ironsoul and defeated him, he gave his silks to Samugi.
 
 ### Description and Characteristics
 Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversations with wise people. Very adept at tinkering. 

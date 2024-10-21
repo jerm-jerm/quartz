@@ -31,7 +31,7 @@ On her first visit to Valendri since she left, Sundara reunites with her mother 
 
 Sometime later, while the group deals with a separate, but equally life-threatening problem, Sundara and Allara have a moment to talk. Sundara wants to confirm she is free from any possible [[Phaerimm]] sickness, Allara scans her and still senses traces of aberration within her.
 
-Sundara invites Solonor for dinner at Barrowmoor Manor, their first meeting since she was sent to Ironford Prison. They reconcile. Solonor admitting that he hesitated before sending her to prison and knows that he can be cold and calculating and Sundara admitting that she has always felt pulled to him even when she was angry about what he had done. He tells her that she is more powerful and has a destiny greater than she can imagine. 
+Sundara invites Solonor for dinner at Barrowmoor Manor, their first meeting since she was sent to Ironford Prison and they reconcile. Solonor admitting that he hesitated before sending her to prison and knows that he can be cold and calculating and Sundara admits that she has always felt pulled to him even when she was angry about what he had done. He tells her that she is more powerful and has a destiny greater than she can imagine. She retreats to him again after becoming angry with Varrick. He tells her that he will soon need her help at his side.
 
 ### Description and Characteristics
 Elf with short black hair and black and gold geometric markings on her face, neck, and arms. 
@@ -40,11 +40,12 @@ Stresses about how she will age and the possibility/likelihood of being alone in
 Feels the immense pressure of her peoples lives on her shoulders and is carefully contemplating her options on how to deal with the phaerimm.
 
 ## Relationships 
-- Solonor, strained push/pull dynamic. Sundara has many strong feelings for him including admiration, anger, and attraction. She has admitted to him that most of her magical growth has been thanks to him, and that she wants to become more powerful before returning to him.
+- [[Solonor]], Sundara reconciled many strong feelings for him including admiration, anger, and attraction. They are now romantic with each other in private settings and have a connection based on their magic and immortality.
 - Her sister, [[Elowen Elisthorn|Elowen]], and her have a loving but occasionally tense relationship. Elowen feels she bears the burden of her people alone. She also knows about Sundara and Solonor and thinks Solonor is some type of leech on Valendri itself. Sundara wants Elowen to be safe and was hoping she would remain tucked away in Valendri. Sundara asked Solonor not to harm Elowen.
 - [[Solara and Cyndir Elisthorn]] - has not seen her father since leaving Valendri; her mother is supportive of most things Sundara does, she thinks she is passionate and courageous and is happy to have her as a daughter, she has no expectations of her and instead wants her to live a happy and fulfilling life
 - [[Varrick]], has made efforts to protect Sundara since they were in [[Ironford Prison]] together. Sometimes she is put off or nervous about how well he seems to 'handle' magic users. But, outside of him being cursed or possessed, she trusts Varrick with her life. Wants to explore the world trying weird juices with him.
 	- Is upset that she has now watched him die twice
+	- She spent an evening furious at him for implying he was going to leave the group. They reconciled and expressed their love for each other.
 - Is immensely impressed and endeared by Chalice's loves for life and ability to live in the moment
 
 ## Secrets from the group

@@ -19,8 +19,6 @@ Allara originally worked for the [[Gilded Glave]] transporting goods. She was tr
 
 ![[IconCleric.png|right|150]]
 ## Prior Events
-
-## Current Events
 Lost many of her sisters in the raid by [[Circle of Ruin and Thistle]] ([[15 - 01012024|Session 15]]).
 
 Jumped from a 150ft tower, severely and permanently injuring her leg. The group took her to an artificer who crafted a [[Clockwork Devices|clockwork]] leg for her (Sessions [[27 - 03242024|27]] and [[28 - 03302024|28]]). 
@@ -30,6 +28,9 @@ Met with her brother before leaving [[Karsus Folly]]. His contract was given to 
 Tried and was unable to save Varrick from death during the groups battle with [[Fern Shadow Forest|Rotgasp]] ([[32 - 04282024|Session 32]]).
 
 Was tasked by her sisterhood to lead The Circle of the Fated Promise ([[34 - 05122024|Session 34]]).
+
+## Current Events
+
 
 ### Description and Characteristics
 Pale, sallow appearing, jet black eyes, various colored hair (black, violet, grey). Can transform into a poisonous form with long talon like nails and crying black ichor. 

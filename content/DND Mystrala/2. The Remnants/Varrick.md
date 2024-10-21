@@ -22,7 +22,7 @@ Dealt the killing blow to [[Oswald Beaumont]] ([[21 - 02102024|Session 21]]).
 
 Was briefly cursed and attacked Sundara in a rage against all magic users ([[25 - 03092024|Session 25]]). He apologized and said he would do anything to regain her trust.
 
-Recently sacrificed being remembered as a husband and a father for more power. Only he remembers being married and being the father to his late son and living daughter. ([[29 - 04052024|Session 29]]). He does this so that the powerful enemies they make along they way can't target Sarah and Natasha, although he didn't know that he was specifically joining the suspicious circle. He was subsequently initiated into The [[Circle of Ruin and Thistle]] in a battle to the death against [[Serpa]] ([[30 - 04142024|Session 30]]), and after his death he was revived. The Circle states that this process of being reborn through The World Tree connects them all. There appears to be some connection between joining the Circle, The Harbinger, and possibly The World Tree, but that is unknown currently.
+Sacrificed being remembered as a husband and a father for more power. Only he remembers being married and being the father to his late son and living daughter. ([[29 - 04052024|Session 29]]). He does this so that the powerful enemies they make along they way can't target Sarah and Natasha, although he didn't know that he was specifically joining the suspicious circle. He was subsequently initiated into The [[Circle of Ruin and Thistle]] in a battle to the death against [[Serpa]] ([[30 - 04142024|Session 30]]), and after his death he was revived. The Circle states that this process of being reborn through The World Tree connects them all. There appears to be some connection between joining the Circle, The Harbinger, and possibly The World Tree, but that is unknown currently.
 
 Fought toe-to-toe with a young green dragon and held his own but was ultimately killed after being dropped 190ft ([[32 - 04282024|Session 32]]). While in the afterlife, Melana, The Queen of Rot, dug around in his chest before being banished by a champion of The [[Raven Queen]]. That champion turned out to be Varrick's son, Atlas, who knighted Varrick into The Raven Queen's order ([[33 - 05052024|Session 33]]).
 
@@ -37,7 +37,7 @@ Revealed to the group that he has an ex-wife and children. Later went on to tell
 
 Was chosen as a champion by Dagen after dealing the killing blow to the Kraken ([[50 - 09012024|Session 50]]) and pulling a magical trident of its eye. Dagen told Varrick his opinion (or possibly the truth) about The Raven Queen which Varrick chose to reject. The kraken, speaking through the trident requested taht Varrick build a shrine to him at the bottom of the ocean. 
 
-After talking with Sarah, decided that sometime soon he will part from the group and settle down in New Calim.
+Considered leaving the group and settling down in New Calim, after a vision by Cas and talking with Sundara, decided to stay to protect the world from the rebirth of Karsus.
 
 ### Description and Characteristics
 Large imposing goliath, shaved head, and beard. Wears full armor most often. Has multiple tattoos, markings on his hand, and now snakes across his arms and body.
@@ -47,7 +47,7 @@ Tends to act first and ask questions later. Protective. Not a fan of being told 
 Does not drink alcohol.
 
 ## Relationships
-- [[Sarah Stoneheart]], his ex-wife, was angry at him after learning about his pact the The Circle of Ruin and Thistle that altered her memories
+- [[Sarah Stoneheart]], his ex-wife, was angry at him after learning about his pact the The Circle of Ruin and Thistle that altered her memories but has since reconciled and have become openly romantic with each other.
 	- Varrick started forming a relationship with Natasha who realized he was her dad; she tends to be adventurous but a little reckless 
 	- Began following The [[Raven Queen]] after his son Atlas was present during his resurrection
 - [[Barrel Back Bill]] and him appear to have a close friendship; when Ottoluke asked for final messages if the group died in battle, Varrick told Ottoluke to tell Barrel Back Bill that his is, "a cool guy"

@@ -44,6 +44,8 @@ Invited The Remnants to Barrowmoor Manor to offer them a place to stay. During t
 > [!quote]- Quote  
 > "It doesn't matter who you are or what your title is or how much wealth you have, life can be short and unpredictable when there's people that want you dead."
 
+She introduced The Remnants to [[Heskell]] ([[56 - 10202024|Session 56]]) and mentions that he would not be someone she would want as an enemy. 
+
 ### Personality Traits
 Level-headed even when angry. Can be cold and stoic even to people she cares about.
 
