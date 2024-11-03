@@ -1,14 +1,14 @@
 ---
 aliases:
   - The Duchess
-  - Duchess Dunspero Beaumont
+  - Duchess Dunsparrow Beaumont
   - High Chancellor
 ---
 
 
 
 > [!infobox]
-> # `Dunspero Beaumont` 
+> # `Dunsparrow Beaumont` 
 > ![[Placeholder Image.png]]
 > ###### Bio
 > Type |  Stat |
@@ -37,7 +37,7 @@ Was previously pretending to be her dead father [[Oswald Beaumont]], after watch
 ### Current Activities
 Seen talking with [[Serpa]] at [[Alexi Faraday]]'s charity ball. Has markings of a member of The [[Circle of Ruin and Thistle]] on her hands (only witnessed by [[Allara]]). Reconciled with Cassius, admitted to her dislike of her father, and asked Cas to come back to [[New Calim]] with her. Said that he would always have a spot there if he chose to ([[30 - 04142024|Session 30]]). The members of the [[Sea of Swords]] said that the city is in the process of giving her unilateral power to make decisions (Sessions [[34 - 05122024|34]] and [[37 - 06012024|37]]).
 
-When The Remnants rescued [[Chalice Manath]], she told the group that she had been a prisoner of the Beaumont's for months, first Oswald and then Dunspero, before being handed over to Gunner. Chalice thinks she was handed over to Gunner so that Dunspero could get information from her without doing the interrogation herself.
+When The Remnants rescued [[Chalice Manath]], she told the group that she had been a prisoner of the Beaumont's for months, first Oswald and then Dunsparrow, before being handed over to Gunner. Chalice thinks she was handed over to Gunner so that Dunsparrow could get information from her without doing the interrogation herself.
 
 Invited The Remnants to Barrowmoor Manor to offer them a place to stay. During their visit she confirms her membership in The Circle implying she did it for power. Also noted that she was responsible for the final death of her father and prevented his resurrection to protect Cassius. Mentioned that in some (possibly indirect) way she is under the thumb of The Queen of [[Brightwater]] and needs to maintain power to please her. 
 
@@ -50,7 +50,7 @@ She introduced The Remnants to [[Heskell]] ([[56 - 10202024|Session 56]]) and me
 Level-headed even when angry. Can be cold and stoic even to people she cares about.
 
 ### Relation to The Remnants 
-- Romantically tied to [[Cassius]] Manath, they reconciled their differing opinions about Cas's role in the death of her father and Dunspero's role in the kidnapping of his sister
+- Romantically tied to [[Cassius]] Manath, they reconciled their differing opinions about Cas's role in the death of her father and Dunsparrow's role in the kidnapping of his sister
 - [[Varrick]] killed her father; she calls Varrick a vagabond and murderer and appears surprised with how important he is to Cassius
 
 ## Known Stats

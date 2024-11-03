@@ -19,7 +19,7 @@ aliases:
 > Current Location |  |
 > Class |Bard |
 > Alias(es) | The Duke |
-> Known Family |[[Dunspero Beaumont]]  |
+> Known Family |[[Dunsparrow Beaumont]]  |
 > Known Groups | [[The Savage Seven]] [[The Merchant Consortium]]  |
 
  
@@ -31,7 +31,7 @@ People who work for him have a magical brand that can be seen with a detect magi
 [[Cassius]], [[Varrick]], and [[Japheth]] tried to infiltrate The Duke's residence prior to the start of the current Mystrala campaign and were easily captured and sent to [[Ironford Prison]]. There The Duke told [[Gunner Ironford|Gunner]] that Cassius was a particularly troublesome weasel and personally wanted Gunner to ensure that Cassius was killed once he arrived in prison.
 
 ### Current Activities
-Died after an impromptu battle the The Remnants. His daughter literally took his place, disguising herself to look like him, presumably, to prevent [[Cassius]] for being executed. "Oswald Beaumont" is now sick and his daughter, [[Dunspero Beaumont]], is taking over.
+Died after an impromptu battle the The Remnants. His daughter literally took his place, disguising herself to look like him, presumably, to prevent [[Cassius]] for being executed. "Oswald Beaumont" is now sick and his daughter, [[Dunsparrow Beaumont]], is taking over.
 
 ### Personality Traits
 

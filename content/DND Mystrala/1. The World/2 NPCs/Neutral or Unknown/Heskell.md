@@ -34,7 +34,7 @@ Obviously rich but helpful and doesn't seem to subscribe explicitly to class div
 Eerily positive but occasionally says or does something that implies a questionable darkness underneath all of that
 
 ### Relation to The Remnants 
-Met the group after being introduced by [[Dunspero Beaumont]] and offering an exchange of services
+Met the group after being introduced by [[Dunsparrow Beaumont]] and offering an exchange of services
 
 ## Known Stats
 Detect magic - he gives off some magical reverberation that is separate from his magical trinkets

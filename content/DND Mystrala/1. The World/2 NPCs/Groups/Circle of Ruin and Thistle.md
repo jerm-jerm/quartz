@@ -24,7 +24,7 @@ Have a camp in the [[Fern Shadow Forest]]
 
 ### Known Members
 - Melania - the witch responsible for recruiting Varrick
-- [[Dunspero Beaumont]] 
+- [[Dunsparrow Beaumont]] 
 - [[Serpa]] 
 - Verdana (the female druid first encountered in the mountains north of [[New Calim]])
 - [[Varrick]] 

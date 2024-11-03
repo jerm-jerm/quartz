@@ -15,7 +15,7 @@ His parents prayed to the The Traveler during a time on struggle and were gifted
 
 Raised as a noble in a castle. His family owned a college in [[Brightwater]]. The college was taken over by Duke [[Oswald Beaumont]], who smeared the Manath family name and destroyed the institution. 
 
-At some point Cassius become 'entangled' with [[Dunspero Beaumont]] and has maybe even considered marrying her. After breaking into the Beaumont manor with [[Varrick]] and Japheth, Cassius was sent to [[Ironford Prison]].
+At some point Cassius become 'entangled' with [[Dunsparrow Beaumont]] and has maybe even considered marrying her. After breaking into the Beaumont manor with [[Varrick]] and Japheth, Cassius was sent to [[Ironford Prison]].
 
 ![[IconBard.png|right|150]]
 ## Prior Events
