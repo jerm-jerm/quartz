@@ -54,6 +54,6 @@ Level-headed even when angry. Can be cold and stoic even to people she cares abo
 - [[Varrick]] killed her father; she calls Varrick a vagabond and murderer and appears surprised with how important he is to Cassius
 
 ## Known Stats
-Can cast illusion spells. Possibly a warlock.
+Can cast illusion spells. Possibly a warlock or druid.
 
 Probably could cast resurrection.

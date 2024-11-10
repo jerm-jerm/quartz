@@ -1,1 +1,3 @@
 Aurunat, was an Inevitable created by [[Mechanus]], a god responsible for balance, law, and order. Their role is to correct particular cosmic imbalances. Aurunat was slain by [[The Savage Seven]] and pieces of [[Pieces of The Inevitable|it's body]] were used to create powerful magical items. The [[Sea of Swords]] believes that by reuniting the items they can prevent the destruction of Karsus/Mystrala again if someone were to recreate the [[Karsus]]'s Avatar ritual. There are many groups out there trying to collect all the pieces. 
+
+[[Solonor]] believes by re-implanting three of its pieces it can come to life in a limited capacity to defend the Heart of Karsus.

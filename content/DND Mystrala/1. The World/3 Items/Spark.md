@@ -6,3 +6,5 @@ Called Tincture in it's undistilled form, it is turned into Spark by an Alchemis
 There is evidence that the souls used to make Spark are retained in a fractured form even once placed inside of clockwork device.
 
 About 60% of tincture is produced at Bloodgulch Meatworks and another 15% at The Vulture Den, from people who volunteer for a some exchange of gold or food or unwilling souls.
+
+The idea for spark/tincture was originally [[Alexi Faraday]]'s idea.
