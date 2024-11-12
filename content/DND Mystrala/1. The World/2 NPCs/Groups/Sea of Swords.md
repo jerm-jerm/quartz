@@ -4,6 +4,6 @@ Members:
 - [[Sarah Stoneheart]] 
 - [[Barrel Back Bill]]
 - Garrick
-- [[Ottoluke Organdorf]] 
+- [[Otiluke Organdorf]] 
 - The Remnants
 - Valkur (previous holder of the trident)

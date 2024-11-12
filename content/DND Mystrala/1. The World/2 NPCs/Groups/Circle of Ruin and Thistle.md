@@ -17,7 +17,7 @@ A nihilist group hoping to return the world to the elemental primordial state to
 
 State that all members have been forsaken by the current form of civilization. The have a belief in rebirth through The World Tree and some members have the ability to 'hop between branches.' The group has some connection to The Harbinger, possibly their 'mistress'? and they are also marked by a growing form of lichen somewhere on their person.
 
-The particular coven that held the pacts of Varrick and Dunspero was headed by Melania and included 2-5 other witches that were killed in the battle on Barrowmoor Island ([[55 - 10122024|Session 55]])
+The particular coven that held the pacts of Varrick and Dunsparrow was headed by Melania and included 2-5 other witches that were killed in the battle on Barrowmoor Island ([[55 - 10122024|Session 55]])
 
 ### Current Activities
 Have a camp in the [[Fern Shadow Forest]] 

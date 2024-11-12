@@ -11,9 +11,9 @@ Unknown
 - [[Gunner Ironford]] ☠
 - [[Ironsoul]] - a warforged monk wandering the [[Delmiri Desert]] in a self imposed exile
 	- Would often mutter about how something, "foiled the design of [[Mechanus]]"
-	- Ottoluke believes he may be willing to part with his piece of the Inevitable
+	- Otiluke believes he may be willing to part with his piece of the Inevitable
 - [[Mira]] - a death cleric who has recently been near the Serpentlord Shrine
-- Previously [[Ottoluke Organdorf]] 
+- Previously [[Otiluke Organdorf]] 
 
 #### [[Pieces of The Inevitable]]
 > Member |  Piece | Location|
@@ -24,7 +24,7 @@ Unknown
 > [[Gunner Ironford]]  | The Pelt of the Moonwarden | The Remnants
 > [[Ironsoul]] | Silks of the Moonwarden | Unknown, suspect in The [[Delmiri Desert]]
 > [[Mira]] | Veil of the Moon | Unknown, suspect near the Serpentlord Shrine 
-> [[Ottoluke Organdorf]]  | Legend of the Moonwarden | Unknown, last gambled away in [[Langston]], in possession of [[The Bone King]]  
+> [[Otiluke Organdorf]]  | Legend of the Moonwarden | Unknown, last gambled away in [[Langston]], in possession of [[The Bone King]]  
 
 ### Relation to The Remnants 
 - The Remnants have been tasked with obtaining the [[Pieces of The Inevitable]]

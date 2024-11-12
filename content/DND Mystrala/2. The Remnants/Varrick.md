@@ -45,7 +45,7 @@ Does not drink alcohol.
 - [[Sarah Stoneheart]], his ex-wife, was angry at him after learning about his pact the The Circle of Ruin and Thistle that altered her memories but has since reconciled and have become openly romantic with each other.
 	- Varrick started forming a relationship with Natasha who realized he was her dad; she tends to be adventurous but a little reckless 
 	- Began following The [[Raven Queen]] after his son Atlas was present during his resurrection
-- [[Barrel Back Bill]] and him appear to have a close friendship; when Ottoluke asked for final messages if the group died in battle, Varrick told Ottoluke to tell Barrel Back Bill that his is, "a cool guy"
+- [[Barrel Back Bill]] and him appear to have a close friendship; when Otiluke asked for final messages if the group died in battle, Varrick told Otiluke to tell Barrel Back Bill that his is, "a cool guy"
 - [[Briggs]], previously in a group together, but suspect some animosity as Briggs crawled up Varrick's back and stabbed him the first time they reunited in prison
 - [[Sundara]], Varrick believes something special is going on with Sundara and his instinct is to stay close and protect her; in general trust her to do the right thing
 

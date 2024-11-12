@@ -21,13 +21,13 @@
 
 > [!info]+ Other Points of Interest
 > - [[The Shattered Spire]]
-> - Ottoluke's Apartment 
+> - Otiluke's Apartment 
 > - Artist's Shop
 > - The Undertable
 
 ## Notable Characters
 - Prince [[Alexi Faraday]]
-- [[Ottoluke Organdorf]]
+- [[Otiluke Organdorf]]
 - [[Cadrick]] 
 - Merlineus Misthaven
 

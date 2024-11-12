@@ -31,7 +31,7 @@ Varrick told her about his pact and her missing memories. Realizing her memories
 After dinner at Barrowmoor Manor, she tells Varrick that if he came home and became a father it would make things easier for her. Varrick later tells her that he has more to do to make sure the world is safe for Natasha before settling down.
 
 ### Current Activities
-Appears to be disgruntled and stressed out with how [[Dunsparrow Beaumont]] is running [[New Calim]], saying that Dunspero is running the city into the ground.
+Appears to be disgruntled and stressed out with how [[Dunsparrow Beaumont]] is running [[New Calim]], saying that Dunsparrow is running the city into the ground.
 
 ### Personality Traits
 Imposing, blunt, and straight to the point. Can be fiery with her responses, both verbal and physical. 
