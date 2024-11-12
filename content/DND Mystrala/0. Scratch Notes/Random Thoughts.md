@@ -12,7 +12,7 @@ Running Mission List (in no particular order)
 - The World Tide by [[Dagon]] is due any time now
 
 
-> - Defense talk with the crew, Allara to finish hallow, cast multiple glyph of warding (triggers without bracelets or without touching someone with a bracelet)
+> - Defense talk with the crew, Allara to finish hallow, cast multiple *Glyph of Warding* (triggers without bracelets or without touching someone with a bracelet)
 > 	1. Fireball (3) + clairvoyance (3) on deck
 > 	2. Wall of force (5) + clairvoyance (3) in the engine room
 > 	3. Shatter (2) x3 various points 

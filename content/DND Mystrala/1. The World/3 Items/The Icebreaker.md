@@ -27,11 +27,10 @@ The group stole the ship back after killing Gunner ([[36 - 05272024|Session 36]]
 - Head Chef - [[Bordon Ramley]] 
 	- 5 other kitchen staff
 	- Maître d' - Jean Paul
-- Banker - Carter Sterling Abbyman 
+- Banker - Carter Sterling Abbyman Radler
 - Explosives Expert - [[Briggs]] 
 - Main Cannoneer - Dannyboy 
 - Nick
-- Mr Radler
 
 ### Location
 - The Open Skies

@@ -13,7 +13,7 @@ aliases:
 > Health Status |Alive, presumed healthy, terrifying |
 
 ## History
-The reason that [[Karsus]] cast the spell Karsus Avatar. Thought to be extinct since [[The Spellplague]].
+The reason that [[Karsus]] cast the spell *Karsus Avatar.* Thought to be extinct since [[The Spellplague]].
 
 The Phaerimm Sickness: every 90 days a phaerimm can use it's stinger to place an egg into a humanoid, after a couple of weeks a juvenile will burst out of the wound and remain attached to the host, who will walk around and consume magical items and energy. Can be healed with a greater restoration or remove curse spell.
 

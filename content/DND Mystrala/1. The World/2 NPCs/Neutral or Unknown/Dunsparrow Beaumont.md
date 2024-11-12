@@ -56,4 +56,4 @@ Level-headed even when angry. Can be cold and stoic even to people she cares abo
 ## Known Stats
 Can cast illusion spells. Possibly a warlock or druid.
 
-Probably could cast resurrection.
+Probably could cast *Resurrection*.

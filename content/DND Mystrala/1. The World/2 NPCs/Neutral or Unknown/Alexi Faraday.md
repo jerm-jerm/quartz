@@ -33,11 +33,11 @@ Faraday states he was once wronged by a man with power and understands how it fe
 Was working in some capacity with [[Solonor]] to create magic devices that have a component of both clockwork and magical runes.
 
 ### Current Activities
-Believes magic should be freely given, that limitations are a bastardization of magic, and it should be like it was before [[The Spellplague]]. At his charity ball event cast a High Magic spell, "All Mage" giving him the knowledge of lifetimes of magic in one moment. He then met with the group and told them he wished to give this power to all people. He has collected most of the [[Pieces of The Inevitable]] and requested the Harmonic Resonator so that he could confront Solonor and recreate [[Aurunat, The Inevitable]] ([[30 - 04142024|Session 30]]).
+Believes magic should be freely given, that limitations are a bastardization of magic, and it should be like it was before [[The Spellplague]]. At his charity ball event cast a High Magic spell, *All Mage* giving him the knowledge of lifetimes of magic in one moment. He then met with the group and told them he wished to give this power to all people. He has collected most of the [[Pieces of The Inevitable]] and requested the Harmonic Resonator so that he could confront Solonor and recreate [[Aurunat, The Inevitable]] ([[30 - 04142024|Session 30]]).
 
 Solonor thinks that Faraday is rebuilding The Inevitable. When discussing with the group, they considered that he is trying to use The Inevitable's identity to access something only it is able to, such as the heart of [[Karsus]]. Later, in his will, [[Gunner Ironford]] confirms that Faraday is on a journey to awake the heart of Karsus.
 
-Has been supplying [[psionic weapons]] to the [[Valendri]] people to aid in their battle against The [[Phaerimm]]. 
+Has been supplying [[Psionic Weapons]] to the [[Valendri]] people to aid in their battle against The [[Phaerimm]]. 
 
 Is trying to purchase The Legend of the Moonwarden from [[The Bone King]].
 

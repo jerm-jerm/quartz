@@ -34,7 +34,7 @@ While exploring [[Valendri]] he learned that his magic items, his polylute and p
 
 One of his changeling forms face, Valesca Vale, appears on the ship and threatens the group members loved ones if they don't present themselves to [[The Bone King]]. Cassius notes that he thought Valesca was dead and that was the reason he took her form.
 
-After casting an awaken spell on his magical gun weapon ([[45 - 07302024|Session 45]]) he learns that it was pulled directly off of the world tree and was eventually given to Cassius by the Traveler. The Traveler would talk to the gun often, the gun thinks this was because The Traveler was lonely.
+After casting *Awaken* on his magical gun weapon ([[45 - 07302024|Session 45]]) he learns that it was pulled directly off of the world tree and was eventually given to Cassius by the Traveler. The Traveler would talk to the gun often, the gun thinks this was because The Traveler was lonely.
 
 Reunites with Dunspero at one of her properties, Barrowmoor Manor. Initially feelings were tense when she explained to him that she was responsible for the final death of her father to protect Cassius. They reconcile and spend the evening together. After she admits to being a part of The Circle of Ruin and Thistle and the upcoming plan for assassination of Varrick, Cas tells her that he will do what it takes to protect her. 
 
