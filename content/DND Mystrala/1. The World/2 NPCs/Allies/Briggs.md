@@ -4,4 +4,4 @@ In the attack on [[New Calim]] by [[Gunner Ironford]], he blew up the engine of 
 
 Returned to the group when [[Leland]] resumed his position as first mate.
 
-Seems to have taken a liking to [[Klagger]] and together they are causing mini-chaos on The Icebreaker, apparently creating IEDs.
+Seems to have taken a liking to [[Klagger]] and together they are causing mini-chaos on The Icebreaker, apparently creating IEDs and vest that explode. Has hired 7 young goblins that he calls the The Ankle Shankers.

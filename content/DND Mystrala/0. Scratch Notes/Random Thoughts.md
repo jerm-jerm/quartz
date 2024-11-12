@@ -1,5 +1,4 @@
 Running Mission List (in no particular order)
-- Remove [[Varrick]]'s curse from The [[Circle of Ruin and Thistle]] 
 - [[Phaerimm]] consuming the magic of [[Valendri]] and could destroy the rest of the world and other planes if they spread
 - Keep [[Alexi Faraday]] from waking the heart of [[Karsus]] 
 - Stop the stealing of souls for tincture and [[Clockwork Devices]]
@@ -10,6 +9,10 @@ Running Mission List (in no particular order)
 - Rouge Celestials moving forward with The Scourge, a plan to destroy a variety of worlds
 - Capitalism is kind of ruining this whole world but that's a big ask
 - The World Tide by [[Dagon]] is due any time now
+- 
+Completed Mission List (in no particular order)
+- Remove [[Varrick]]'s curse from The [[Circle of Ruin and Thistle]] 
+- Remove Sundara's Phaerimm sickness curse
 
 
 > - Defense talk with the crew, Allara to finish hallow, cast multiple *Glyph of Warding* (triggers without bracelets or without touching someone with a bracelet)

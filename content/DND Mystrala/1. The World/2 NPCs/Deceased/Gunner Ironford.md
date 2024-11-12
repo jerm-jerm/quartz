@@ -45,7 +45,7 @@ His mother Freya Yarnsin was present at the reading of his Last Will and Testame
 
 ### Relation to The Remnants 
 - Failed to follow instructions from two members of The Savage Seven relating to two members of The Remnants
-- Has a strong dislike of Cassius and has threatened the [[Zariah and Anelia Manath|Manath]] family if he keeps causing trouble.
+- Has a strong dislike of Cassius and has threatened the [[Zorrai and Anilia Manath|Manath]] family if he keeps causing trouble.
 
 ## Known Stats
 High charisma saving throw (+14)

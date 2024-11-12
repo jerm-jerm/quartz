@@ -18,7 +18,7 @@ Other clockwork devices include those made by Samugi's tinkering or Sundara's cl
 [[The Icebreaker]] is an immensely complex clockwork device, made up of a clockwork/arcane engine that powers a lightweight but armored ship.
 
 ### Location
-Large collection of sentinels located in [[New Calim]].
+Large collection of sentinels located in New Calim.
 
 ### Capabilities
 More advanced Clockwork Sentinels speak with a mechanical version of Solonor’s voice. 

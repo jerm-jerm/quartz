@@ -1,7 +1,7 @@
 
 >  Character Name | Aliases | Class | Race | Age| Player Name |
 >  -- | -- | -- | -- | -- |--|
-> Samugi|---|Monk| Hangul Dynasty Gnome|~200| Jessica|
+> Samugi|---|Monk| Hangul Dynasty Gnome|150-200| Jessica|
 
 > [!infobox]
 > ![[Samugi.png|cover hm-sm]]
@@ -26,10 +26,12 @@ Carries around a large metal tube that carries his clockwork soul astral defende
 His power was pivotal in the battle against the [[Phaerimm]] on the groups travel to Valendri. Upon grabbing the Staff of Rivers and Wind, he had a vision of defeating [[Aurunat, The Inevitable]] and then confronting [[Ironsoul]] in a cave in the desert ([[39 - 06162024|Session 39]]). Once the group found Ironsoul and defeated him, he gave his silks to Samugi.
 
 ### Description and Characteristics
-Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversations with wise people. Very adept at tinkering. 
+Mellow older gnome, nimble and quick. Enjoys gnome clover and having conversations with wise people. 
+Very adept at tinkering. 
 
 ## Relationships
 - The group [[Allara]] was previously travelling with was killed by the Demon Oni that is also after Samugi.
+- Has called The Remnants the only family he has.
 
 ## Secrets from the group
 - 

@@ -1,7 +1,7 @@
 # Varrick 'The Stack'
 >  Character Name | Aliases | Class | Race | Age | Player Name |
 >  -- | -- | -- | -- | -- | -- |
-> Varrick | The Stack |Fighter/Battle Master + Warlock + Paladin |Goliath|39|James|
+> Varrick | The Stack |Fighter/Battle Master|Goliath|39|James|
 
 > [!infobox]
 > ![[Varrick.png|cover hm-sm]]
@@ -13,7 +13,7 @@ Varrick was previously a part of various groups including with people like [[Bar
 
 He was sent to [[Ironford Prison]] along with [[Cassius]] and [[Japheth]] after being caught breaking into [[Oswald Beaumont]]'s manor.
 
-Recently learned that his ex-wife Sarah Stoneheart hid their child (5 year old daughter named, Natasha) from him because he was too unstable.
+Recently learned that his ex-wife Sarah Stoneheart hid their child (9 year old daughter named, Natasha) from him because he was too unstable.
 
 ![[IconFighter.png|right|150]]
 
@@ -22,7 +22,7 @@ Dealt the killing blow to [[Oswald Beaumont]] ([[21 - 02102024|Session 21]]).
 
 Was briefly cursed and attacked Sundara in a rage against all magic users ([[25 - 03092024|Session 25]]). He apologized and said he would do anything to regain her trust.
 
-Sacrificed being remembered as a husband and a father for more power. Only he remembers being married and being the father to his late son and living daughter. ([[29 - 04052024|Session 29]]). He does this so that the powerful enemies they make along they way can't target Sarah and Natasha, although he didn't know that he was specifically joining the suspicious circle. He was subsequently initiated into The [[Circle of Ruin and Thistle]] in a battle to the death against [[Serpa]] ([[30 - 04142024|Session 30]]), and after his death he was revived. The Circle states that this process of being reborn through The World Tree connects them all. There appears to be some connection between joining the Circle, The Harbinger, and possibly The World Tree, but that is unknown currently.
+Sacrificed being remembered as a husband and a father for more power. Only he remembers being married and being the father to his late son and living daughter. ([[29 - 04052024|Session 29]]). He does this so that the powerful enemies they make along they way can't target Sarah and Natasha, although he didn't know that he was specifically joining the suspicious circle. He was subsequently initiated into The [[Circle of Ruin and Thistle]] in a battle to the death against [[Serpa]] ([[30 - 04142024|Session 30]]), and after his death he was revived. The Circle states that this process of being reborn through The World Tree connects them all. There appears to be some connection between joining the Circle, The Harbinger, and possibly The World Tree, but that is unknown currently. Later Varrick killed Melania the holder of his pact and most of the witches in her coven, he required the assistance of [[Heskell]] to completely dissolve the coven, freeing him entirely from The Circle.
 
 Fought toe-to-toe with a young green dragon and held his own but was ultimately killed after being dropped 190ft ([[32 - 04282024|Session 32]]). While in the afterlife, Melana, The Queen of Rot, dug around in his chest before being banished by a champion of The [[Raven Queen]]. That champion turned out to be Varrick's son, Atlas, who knighted Varrick into The Raven Queen's order ([[33 - 05052024|Session 33]]).
 
@@ -32,18 +32,13 @@ Fought toe-to-toe with a young green dragon and held his own but was ultimately 
 > "If it is her will then it will happen." - Varrick
 
 ## Current Events
-
-Revealed to the group that he has an ex-wife and children. Later went on to tell Sarah directly, during this reveal to her he heard a voice in his head telling him, "this isn't how this works." His warlock markings began to bleed and he felt poorly for the rest of the day. Sarah expressed that she was furious at him and was going to destroy the entire Circle of Ruin and Thistle.
-
 Was chosen as a champion by Dagen after dealing the killing blow to the Kraken ([[50 - 09012024|Session 50]]) and pulling a magical trident of its eye. Dagen told Varrick his opinion (or possibly the truth) about The Raven Queen which Varrick chose to reject. The kraken, speaking through the trident requested taht Varrick build a shrine to him at the bottom of the ocean. 
 
 Considered leaving the group and settling down in New Calim, after a vision by Cas and talking with Sundara, decided to stay to protect the world from the rebirth of Karsus.
 
 ### Description and Characteristics
 Large imposing goliath, shaved head, and beard. Wears full armor most often. Has multiple tattoos, markings on his hand, and now snakes across his arms and body.
-
 Tends to act first and ask questions later. Protective. Not a fan of being told what to do or corrected on the way he is acting.
-
 Does not drink alcohol.
 
 ## Relationships

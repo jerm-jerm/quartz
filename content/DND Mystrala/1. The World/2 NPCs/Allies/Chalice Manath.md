@@ -20,7 +20,7 @@ aliases:
 > Current Location | [[New Calim]] |
 > Class | Bard |
 > Alias(es) | `=this.aliases` |
-> Known Family | [[Cassius]] - adopted brother brother; [[Zariah and Anelia Manath]] - adopted parents  |
+> Known Family | [[Cassius]] - adopted brother brother; [[Zorrai and Anilia Manath]] - adopted parents  |
 > Known Groups | `=this.knowngroups` |
  
 

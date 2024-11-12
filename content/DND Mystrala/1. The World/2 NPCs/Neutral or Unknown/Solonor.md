@@ -40,6 +40,8 @@ Sundara and Solonor finally reconcile ([[53 - 09302024|Session 53]]) over dinner
 > [!quote]- Quote  
 > "I understand not being able to kill a thing that you love."
 
+Casted *Wish* to cure Sundara of the [[Phaerimm]] Sickness curse at great cost to his strength and magical ability.
+
 ### Personality Traits
 Exacting. Views the subject of missing souls, or the souls themselves, as insignificant. Believes creating complex [[Clockwork Devices]] is a type of art.
 Obsessive, cold, calculating, quick to judge.

@@ -46,7 +46,7 @@ Feels comfortable in any form they choose to keep, switches between sex/gender a
 - 'Entangled' with Dunspero Beaumont, a relationship that was presumably frowned upon by her father Oswald Beaumont, as he sent Cassius to [[Ironford Prison]] and requested that [[Gunner Ironford]] kill him once he arrive.
 	- She was upset regarding the connection Cassius had to the death of her father, but reconciled this and her own disdain for her father
 	- Although recently 'reconciled' they continue to have tension regarding their relationship
-- Parents, [[Zariah and Anelia Manath]], they are performers, happy to be on the road and spend time together; generally supportive of Cassius and came to [[New Calim]] out of concern for him
+- Parents, [[Zorrai and Anilia Manath]], they are performers, happy to be on the road and spend time together; generally supportive of Cassius and came to [[New Calim]] out of concern for him
 - Adopted sister, [[Chalice Manath]]
 - Trusts [[Varrick]] with his life
 

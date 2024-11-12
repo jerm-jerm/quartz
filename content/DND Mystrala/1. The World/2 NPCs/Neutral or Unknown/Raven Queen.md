@@ -4,8 +4,9 @@ Listened to [[Allara]] after [[Varrick]]'s death and deemed his resurrection nec
 
 ### Followers 
 - [[Allara]] 
-- [[Varrick]] 
 - His son, Atlas
 - Vadis - dark haired, half-elven woman survivor of the elemental plane attack, has burn scars to her face
 - Dessan - white dragonborn
 - Skulks and Shadows - black tabaxi
+
+- [[Varrick]] his connection to the Raven Queen was dissolved by Allara

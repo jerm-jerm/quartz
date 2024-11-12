@@ -1,0 +1,5 @@
+The Cycle, as theorized by [[Solonor]], is a repeating process of universal creation and destruction, driven by a hidden force bound to the natural rhythm of existence. This Cycle suggests that all realms, planes, and dimensions are engaged in a pattern of expansion, collapse, and rebirth—a phenomenon believed to be both inescapable and infinite. It is possible that an agent tied to the World Tree (of note [[Cassius]]'s weapon is known to have been pulled from the World Tree by [[The Traveler]]) might be responsible for this process, acting as the "Creator" who fuels the birth of worlds. However, this agent is intrinsically paired with a "Destroyer," whose role is to dismantle reality at the Cycle’s culmination, returning everything to a singular point before starting again.
+
+This process can be visualized as an expansive map of the planes, spreading outward, then contracting back to a core until it reaches a singularity—a “reset” point that marks the end of one Cycle and the beginning of another. 
+
+Speculation that there is a way to break free of this cosmic cycle through [[Mechanus]] somehow. 
