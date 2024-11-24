@@ -22,6 +22,8 @@ aliases:
 > Known Groups | [[The Savage Seven]]  |
 
 ## History
+Grew up far from the material plane.
+
 Survived a massacre of his people as a child and was exiled from his home. His ancestors from Drakemire fought alongside the Netherese against the [[Phaerimm]]. Faraday commissioned a ship to escape Drakemire and when the captain of that ship found a secret of Faraday's, he allegedly had the entire crew killed. The captain of the ship was [[Vitaly| Vitaly Draganovic's]] father.
 
 Faraday states he was once wronged by a man with power and understands how it feels. He has deviated from his moral code in the past, doing things that have kept him up at night.

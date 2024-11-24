@@ -15,7 +15,7 @@ aliases:
 > Race | Elf, not Valendrian | 
 > Sex | Male | 
 > Age | Immortal |
-> Condition | Healthy |
+> Condition | Recovering |
 > ######  Information
 > Type |  Stat |
 > ---|---|
@@ -40,7 +40,11 @@ Sundara and Solonor finally reconcile ([[53 - 09302024|Session 53]]) over dinner
 > [!quote]- Quote  
 > "I understand not being able to kill a thing that you love."
 
-Casted *Wish* to cure Sundara of the [[Phaerimm]] Sickness curse at great cost to his strength and magical ability.
+Cast *Wish* to cure Sundara of the [[Phaerimm]] Sickness curse at great cost to his strength and magical ability.
+
+> [!quote]- Quote  
+> "Sundara, I am happy that you've survived. In the even that I don't get the chance to tell you myself, I wanted to say that I am sorry I was cruel to you and lashed out at you and pushed you into exile because I was afraid of you. I've lived for a very long time, yet the mistakes I've made with you will always and forever be my greatest regrets. Goodbye."
+
 
 ### Personality Traits
 Exacting. Views the subject of missing souls, or the souls themselves, as insignificant. Believes creating complex [[Clockwork Devices]] is a type of art.
