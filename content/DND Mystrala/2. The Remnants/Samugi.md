@@ -1,10 +1,11 @@
 
 >  Character Name | Aliases | Class | Race | Age| Player Name |
 >  -- | -- | -- | -- | -- |--|
-> Samugi|---|Monk| Hangul Dynasty Gnome|150-200| Jessica|
+> Samugi|King Chedon, King of the Black Sky, King Moogs|Monk| Hangul Dynasty Gnome|150-200| Jessica|
 
 > [!infobox]
 > ![[Samugi.png|cover hm-sm]]
+> ![[Pasted image 20241211001650.png|cover hm-sm]]
 
 
 ## Backstory
