@@ -1,12 +1,8 @@
 Running Mission List (in no particular order)
 - [[Phaerimm]] consuming the magic of [[Valendri]] and could destroy the rest of the world and other planes if they spread
-- Stop the stealing of souls for tincture and [[Clockwork Devices]]
 - [[Mira]] is doing some shady shiz over by Serpent Lord Shrine
-- [[Allara]] needs to complete her circle
-- Figure out what is stalking [[Samugi]] and why
-- Rouge Celestials moving forward with The Scourge, a plan to destroy a variety of worlds
+- Reinstate [[Samugi]] to his throne
 - Capitalism is kind of ruining this whole world but that's a big ask
-- The World Tide by [[Dagon]] is due any time now
 
 
 Completed Mission List (in no particular order)
@@ -14,10 +10,10 @@ Completed Mission List (in no particular order)
 - Remove Sundara's Phaerimm sickness curse
 - Keep [[Alexi Faraday]] from waking the heart of [[Karsus]] 
 - Get the other [[Pieces of The Inevitable]]?
+- - Stop the stealing of souls for tincture and [[Clockwork Devices]] (completed-ish, not used for clockwork devices anymore)
 
 
-> - Defense talk with the crew, Allara to finish hallow, cast multiple *Glyph of Warding* (triggers without bracelets or without touching someone with a bracelet)
-> 	1. Fireball (3) + clairvoyance (3) on deck
-> 	2. Wall of force (5) + clairvoyance (3) in the engine room
-> 	3. Shatter (2) x3 various points 
-> 	4. Sundara's personal message glyphs
+Not our problem anymore?
+- [[Allara]] needs to complete her circle
+- Rouge Celestials moving forward with The Scourge, a plan to destroy a variety of worlds
+- - The World Tide by [[Dagon]] is due any time now

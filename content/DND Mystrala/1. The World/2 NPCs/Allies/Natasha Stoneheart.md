@@ -12,7 +12,7 @@ aliases:
 > ---|---|
 > Race | Goliath| 
 > Sex | Female | 
-> Age | 9 |
+> Age | 10 |
 > Condition |Healthy and mischievous   |
 > ######  Information
 > Type |  Stat |
@@ -36,3 +36,4 @@ aliases:
 ## Known Stats
 Good with a crossbow
 Sneaky
+Gloomstalker?

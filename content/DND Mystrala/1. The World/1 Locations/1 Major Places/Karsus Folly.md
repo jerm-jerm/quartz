@@ -27,6 +27,7 @@
 
 ## Notable Characters
 - Prince [[Alexi Faraday]]
+- [[Elowen Elisthorn]]
 - [[Otiluke Organdorf]]
 - [[Cadrick]] 
 - Merlineus Misthaven
@@ -41,6 +42,6 @@ The overall vibe is a collective of haughty wizards in a dick measuring contest 
 ## Other General Notes
 A magician named Igor, who we met in the [[Delmiri Desert]], lost his position in Karsus Folly because of a person named Kludstein.
 
-The unknown clockwork apparatus that opened a portal destroying the [[Voidwing Sisterhood]] originated in Karsus Folly.
+The unknown clockwork apparatus that opened a portal destroying the [[Voidwing Sisterhood]] originated in Karsus Folly (and was later discovered to have been created by Alexi Faraday).
 
 ![[Mystrala.png]] 

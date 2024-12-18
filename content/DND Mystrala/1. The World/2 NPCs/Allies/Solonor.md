@@ -15,11 +15,11 @@ aliases:
 > Race | Elf, not Valendrian | 
 > Sex | Male | 
 > Age | Immortal |
-> Condition | Recovering |
+> Condition | Healthy |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | Unknown |
+> Current Location | with Sundara |
 > Class | Sorcerer |
 > Alias(es) | The Shipmaker, Solonor The Disgraced |
 > Known Family | |
@@ -34,7 +34,6 @@ Is known through Karsus as The Shipbuilder, a creator of various magical [[Clock
 
 Bequeathed a large deposit of dark iron by Gunner on his death, was not present at The Last Will and Testament, instead [[The Engineer]] went in his place.
 
-### Current Activities
 Sundara and Solonor finally reconcile ([[53 - 09302024|Session 53]]) over dinner at Barrowmoor Manor. During dinner he mentions turning away from using spark for the sentinels and moving on to other projects. He says he is waiting for her to leave her current adventures behind and embrace her destiny at his side. He thinks it would take a few hundred years of planning, research, and acquiring magical artifacts to enact his plan to restore balance. At the end of the night, invited her to his home in Burning Hands and gives her a key to his workshop. 
 
 > [!quote]- Quote  
@@ -45,6 +44,8 @@ Cast *Wish* to cure Sundara of the [[Phaerimm]] Sickness curse at great cost to 
 > [!quote]- Quote  
 > "Sundara, I am happy that you've survived. In the even that I don't get the chance to tell you myself, I wanted to say that I am sorry I was cruel to you and lashed out at you and pushed you into exile because I was afraid of you. I've lived for a very long time, yet the mistakes I've made with you will always and forever be my greatest regrets. Goodbye."
 
+### Current Activities
+ Upon discovering Solonor and Sundara's relationship, [[Alexi Faraday]] expressed surprise, remarking that he had always considered Solonor heartless. Alexi then destroyed Solonor's workshop and nearly killed him while Solonor was recovering from casting the *Wish* spell. Before departing, Alexi seized the [[Pieces of The Inevitable]] from both The Remnants and Solonor. Following this Solonor seemed uninspired and listless and travelled with Sundara while she took time away from The Remnants. 
 
 ### Personality Traits
 Exacting. Views the subject of missing souls, or the souls themselves, as insignificant. Believes creating complex [[Clockwork Devices]] is a type of art.
@@ -53,7 +54,7 @@ Obsessive, cold, calculating, quick to judge.
 
 ## Associates
 - Previous member of the [[The Savage Seven]] 
-- [[Sea of Swords]] - called his work a blight on the ocean
+- [[Sea of Swords]] called his work a blight on the ocean
 
 ### Relation to The Remnants 
 - Closely tied to [[Sundara]] - believes that their magical origin means that they are responsible for bringing order to the world (restoring balance). States that she is far more powerful than he could ever be.

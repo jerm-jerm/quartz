@@ -12,7 +12,7 @@ aliases:
 > Race | Human  | 
 > Sex | Male | 
 > Age |  |
-> Condition |Deceased |
+> Condition |Resurrected |
 > ######  Information
 > Type |  Stat |
 > ---|---|

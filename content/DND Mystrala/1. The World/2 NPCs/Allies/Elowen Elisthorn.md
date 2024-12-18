@@ -14,7 +14,7 @@
 > Current Location | suspected [[Karsus Folly]]  |
 > Class | Wizard |
 > Alias(es) |  |
-> Known Family |[[Sundara]]  |
+> Known Family |[[Sundara]], [[Solara and Cyndir Elisthorn]]  |
 > Known Groups |  |
  
 ## History
@@ -24,6 +24,8 @@ At one point left Valendri to confront Solonor over what she thought was the dea
 
 ### Current Activities
 Left [[Valendri]] searching for Sundara who was under the [[Ironford Prison]] tattoo curse. She is currently in [[Karsus Folly]] working as a representative for the Valendri people with Prince [[Alexi Faraday]], who she is also romantically involved with. Faraday and Elowen have been working together to create magic outside of the bounds of the current limitations of magic as well as supply Valendri with weapons. She admitted to Sundara that she has always been proud of her and sometimes jealous of her magic (Sessions [[29 - 04052024|29]] and [[30 - 04142024|30]]). She has easily taken up the life of someone of the upper class and appears to be very inspired and engrossed in Faraday.
+
+Attacked [[Solonor]] along with Alexi Faraday. Was furious upon learning that Sundara and her brother, Nelaros was lost to The Heart of Karsus. Later apologized to Sundara and said that Faraday had promised to leave her and The Remnants alone (Sessions [[61 - 11242024|61]] and [[64 - 12152024|64]]).
 
 ### Personality Traits
 Confident and boisterous. Feels she bears the entire burden of the Valendri people on her shoulders.

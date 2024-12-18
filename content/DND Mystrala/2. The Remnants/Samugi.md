@@ -5,7 +5,7 @@
 
 > [!infobox]
 > ![[Samugi.png|cover hm-sm]]
-> ![[Pasted image 20241211001650.png|cover hm-sm]]
+> ![[KingofBlackSky.png|cover hm-sm]]
 
 
 ## Backstory

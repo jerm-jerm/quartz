@@ -26,7 +26,7 @@ Etherium District: Home of the Valendrians research and development division. A 
 - [[Elowen Elisthorn]] 
 - [[Solara and Cyndir Elisthorn]] 
 - [[Solonor]] 
-- [[Karsus]]
+- [[Karsus|Elaine Valender/Karsus]]
 - High Scholar Illeyana - keeper of memories
 - Archivist Thelion - keeper of ancient tomes and scrolls
 - Captain Guard Alaric
@@ -38,7 +38,7 @@ Etherium District: Home of the Valendrians research and development division. A 
 ## History
 Secretive city of elves atop the Skyshattered Isles that were previously thought to be unpopulated. The last vestige of  those who had survived the Spellplague.
 
-Elaine Valender, the godfather of Valendri, united multiple elf societies to rival Nethero. Valender collected forgotten lore and sought knowledge from the outer planes. He tried to create a plan of pure order and harmony. In doing so contacted [[Mechanus]]. Certain offspring are blessed with some of the same power.
+Elaine Valender, the godfather of Valendri, united multiple elf societies to rival Nethero. Valender collected forgotten lore and sought knowledge from the outer planes. He tried to create a plan of pure order and harmony. In doing so contacted [[Mechanus]]. Certain offspring are blessed with some of the same power. Valender, later during the first infestation of the Phaerimm, casted a spell known as Karsus's Avatar to save his people at the cost of many lives.
 
 ## Other General Notes
 Currently suffering from a blight suspected to be caused by the reappearance of The [[Phaerimm]] feeding off of the archotech that supports the islands. They have created a system of tunnels below the city and also have a central hive where the queen resides. The Nexus Battery and the Phaerimm Queen have fused into one being. 

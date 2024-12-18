@@ -18,7 +18,7 @@ aliases:
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location |  |
+> Current Location | [[The Icebreaker]] brig |
 > Class | Path of the Giant Barbarian |
 > Alias(es) | |
 > Known Family | Daughter of Vaprak?|
@@ -28,7 +28,7 @@ aliases:
 Met the other members of the group while in [[Ironford Prison]]. After escaping and traveling to the [[Delmiri Desert]] felt she was losing control after battling with the [[Oni]]. It was later discovered that the Oni took over her mind ([[09 - 11192023|Session 09]]). Using physical force and magic she was subsequently cleansed of her possession by the group. She was last seen leaving the docks of [[New Calim]] and getting lost in the crowd ([[10 - 11262023|Session 10]]). 
 
 ### Current Activities
-She still presumably has a cursed Ironford Prison tattoo.
+The group saw her again at the battle on Barrowmoor Island. She was working for Mujin, [[Samugi|Samugi's]] nephew, and attacked the group without hesitation. After being defeated she warned Samugi that, "he was coming." She was later placed in the brig of The Icebreaker while Allara tried to cure her of her [[Oni]] curse.
 
 ### Personality Traits
 Self sacrificing to protect other people

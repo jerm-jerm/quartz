@@ -12,16 +12,16 @@ aliases:
 > ---|---|
 > Race | Half-elf | 
 > Sex | Female | 
-> Age | `=this.age` |
+> Age |  |
 > Condition | Healthy, cursed tattoo |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | [[New Calim]] |
+> Current Location | Unknown |
 > Class | Bard |
-> Alias(es) | `=this.aliases` |
+> Alias(es) | |
 > Known Family | [[Cassius]] - adopted brother brother; [[Zorrai and Anilia Manath]] - adopted parents  |
-> Known Groups | `=this.knowngroups` |
+> Known Groups |  |
  
 
 ## History
@@ -29,7 +29,7 @@ Cassius states that Chalice was a street child/orphan that was adopted by his pa
 
 She went investigating after Cassius went missing while [[Ironford Prison]]. Discovered a larger conspiracy where the Queen of [[Brightwater]] used Duke [[Oswald Beaumont]] to infiltrate various systems utilizing [[Solonor]] and his [[Clockwork Devices]] to destabilize governments in order to further the dominion of The Queen. She tried to infiltrate the Beaumont home but was caught and was kept as his prisoner for multiple months and ruthlessly interrogated until his daughter took over. The interrogations stopped until she was sent off to [[Ironford Prison]] where [[Gunner Ironford]] continued to interrogate her about the information she obtained. 
 
-Cassius and the group were unable to send Chalice a message or scry on her when on their way out of Karsus Folly ([[31 - 04212024|Session 31]]). Was eventually seen as a prisoner of [[Gunner Ironford]] with a cursed tattoo in place ([[34 - 05122024|Session 34]]). Freed from [[Ironford Prison]] and was aboard The Icebreaker with the group for some time before parting ways. During that time, she revealed that she had been a prisoner of the Beaumont's for months before Dunsparrow got tired of having a prisoner.
+Cassius and the group were unable to send Chalice a message or scry on her when on their way out of Karsus Folly ([[31 - 04212024|Session 31]]). Was eventually seen as a prisoner of [[Gunner Ironford]] with a cursed tattoo in place ([[34 - 05122024|Session 34]]). Freed from [[Ironford Prison]] and was aboard The Icebreaker with the group for some time before parting ways. During that time, she revealed that she had been a prisoner of the Beaumont's for months before Dunsparrow got tired of her.
 
 ### Current Activities
 Returned to the [[Mortal Promise]] to watch over her parents and other family members of The Remnants while they were threatened by [[The Bone King]].
@@ -40,8 +40,8 @@ Tends to be well behaved and not rebellious. Would not just disappear without te
 Loves life and tries to live in the moment (feels many elves take time for granted since they have so much of it). Is hopeful and excited about the future and all of it's possibilities. 
 
 ### Relation to The Remnants 
-- Sister of [[Cassius]] 
-- Awkward relationship with [[Sundara]] 
+- Sister of [[Cassius]], they have a loving and competitive relationship
+- Flirts with [[Sundara]] often
 
 ## Known Stats
 Is not a changeling

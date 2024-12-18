@@ -18,8 +18,8 @@ aliases:
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | [[Langston]] |
-> Class | Unknown, possibly warlock |
+> Current Location | [[The Icebreaker]] |
+> Class | Unknown, likely warlock |
 > Alias(es) | Dannyboy |
 > Known Family | Unknown |
 > Known Groups | The Remnants, Bladereavers |

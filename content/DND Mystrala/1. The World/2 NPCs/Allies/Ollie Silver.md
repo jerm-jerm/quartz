@@ -7,5 +7,7 @@ Captain of The Rust Bucket, the flagship ship of the Rust Alley Whalers. He and 
 
 Ollie Silver and The Rust Alley Whalers when they collect krakens usually sell parts of it to a sea witch that comes from the bottom of the sea, takes her haul and walks back into the water. All they know is that she uses the bones for 'witchcraft.' The rest of the parts are sent to [[Bloodgulch Meatworks]] on rails that run via primitive arcanotech. 
 
+The Rust Alley Whalers supported The Remnants at the battle on Barrowmoor and took hold of parts of Langston after Elhorn's death, particularly Bloodgulch Meatworks.
+
 Members:
 Jank - the group had a chat with this sailor who states he has sorcerous blood on the female side. he imagines leaving this life behind and naming his daughter The Queen of Darkness and her being Queen of Brightwater while he owns an island. 

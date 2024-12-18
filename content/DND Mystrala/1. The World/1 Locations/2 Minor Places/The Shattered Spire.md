@@ -6,7 +6,7 @@
 > ---|---|
 > Type | Wizard Tower | 
 > Location | [[Karsus Folly]]  |
-> Major People | [[Alexi Faraday]] |
+> Major People | [[Alexi Faraday]], [[Elowen Elisthorn]], [[Conrad Gricks]] |
 
 ## History
 

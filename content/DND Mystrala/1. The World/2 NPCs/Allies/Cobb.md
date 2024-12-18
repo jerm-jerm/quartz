@@ -6,23 +6,23 @@ aliases:
 
 
 > [!infobox]
-> # `Cobb` 
+> # `Old Cobb` 
 > ![[Placeholder Image.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | `=this.race` | 
-> Sex | `=this.sex` | 
-> Age | `=this.age` |
-> Condition | `=this.condition` |
+> Race | Human | 
+> Sex | Male | 
+> Age | Older|
+> Condition | Healthy |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | `=this.Location` |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
-> Known Family |`=this.knownfamily` |
-> Known Groups | `=this.knowngroups` |
+> Current Location | Unknown |
+> Class |  |
+> Alias(es) |  |
+> Known Family | |
+> Known Groups | The Beaumont's |
  
 
 ## History
@@ -39,3 +39,4 @@ Living and working with Dunsparrow at Barrowmoor Manor.
 - Knew Cassius when he lived in Brightwater
 
 ## Known Stats
+Good with a gun

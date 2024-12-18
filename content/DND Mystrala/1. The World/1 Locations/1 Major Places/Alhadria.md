@@ -18,9 +18,10 @@
 
 ## Notable Characters
 - Ishmael and Daveed travelled to Alhadria after the death of Daveed's mother, Nadia
+- [[Otiluke Organdorf]] once mentioned being part of the "Delmiri Counsel"
 
 ## History
-Alhadria used to be filled with Far Travelers. Malak, who was a child about 300 years ago, left another continent and brought his people to the [[Delmiri Desert]] to become 'awakened.' He and his people massacred the travelers in Alhadria and created their own settlement.
+Alhadria used to be filled with Far Travelers (FETC). Malak, who was a child about 300 years ago, left another continent and brought his people to the [[Delmiri Desert]] to become 'awakened.' He and his people massacred the travelers in Alhadria and created their own settlement.
 
 Very xenophobic, likely to murder any outsiders that do not have a reason to be there, they brand and exile any smugglers.
 

@@ -22,8 +22,10 @@ The Kalimoff family was THE skyship builders of essentially all of Karsus. On th
 
 Reyna is "one of Xanders" and is what is known as an exarch, someone with unusual magical powers spawned from a sea demon.
 
+Was in the crosshairs of [[The Bone King]] who tried to force The Remnants to kill her. 
+
 ### Current Activities
-Is currently in the crosshairs of [[The Bone King]] who tried to force The Remnants after her.
+No longer working directly with The Sea of Swords but has been pulled away on her own business.
 
 ### Personality Traits
 No nonsense 
