@@ -18,33 +18,29 @@ aliases:
 > Current Location | [[Karsus Folly]]  |
 > Class | Wizard |
 > Alias(es) | Prince Alexi Faraday |
-> Known Family | |
+> Known Family | Deceased |
 > Known Groups | [[The Savage Seven]]  |
 
 ## History
-Grew up far from the material plane.
+Alexi Faraday grew up far from the Material Plane. His childhood was marked by tragedy, as he survived the massacre of his people and was exiled from his homeland. His ancestors from Drakemire were allied with the Netherese in their historic battle against the [[Phaerimm]]. Following his exile, Faraday commissioned a ship to escape Drakemire. However, when the captain discovered a secret about Faraday, Alexi allegedly ordered the entire crew’s deaths—one of whom was the father of [[Vitaly]] Draganovic.
 
-Survived a massacre of his people as a child and was exiled from his home. His ancestors from Drakemire fought alongside the Netherese against the [[Phaerimm]]. Faraday commissioned a ship to escape Drakemire and when the captain of that ship found a secret of Faraday's, he allegedly had the entire crew killed. The captain of the ship was [[Vitaly| Vitaly Draganovic's]] father.
+Faraday has admitted to a tumultuous past, including straying from his moral code and committing acts that weigh heavily on him. He was once part of [[The Savage Seven]], a group that destroyed [[Aurunat, The Inevitable]] and crafted magical items from its remains. He retains the [[Pieces of The Inevitable|gavel of Aurunat and The Inevitable's eyes]] as trophies in his wizard tower in Karsus Folly. However, his experimentation has not always gone as planned—his device for the Voidwing Sisterhood, intended to connect them to the Shadowfell, instead caused the destruction of their temple.
 
-Faraday states he was once wronged by a man with power and understands how it feels. He has deviated from his moral code in the past, doing things that have kept him up at night.
+Previously had a scribe, [[Kazak]] Ninefingers, that worked for him. He imprisoned this scribe after he studied some of Faraday's secret scrolls. He also created a device, supposedly, for the [[Voidwing Sisterhood]] to open a portal to Shadowfell to have a closer connection to the Raven Queen. Instead the device was responsible for the destruction of a Temple of The Sisterhood.
 
-Was a part of [[The Savage Seven]] when they destroyed [[Aurunat, The Inevitable]] and made magic items from its corpse. Has a wizard tower in [[Karsus Folly]]. Previously had a scribe, [[Kazak]] Ninefingers, that worked for him. He imprisoned this scribe after he studied some of Faraday's secret scrolls. In his tower he has the gavel of [[Aurunat, The Inevitable]] on display in one of the many halls.
-
-Created a device, supposedly, for the [[Voidwing Sisterhood]] to open a portal to Shadowfell to have a closer connection to the Raven Queen. Instead the device was responsible for the destruction of a Temple of The [[Voidwing Sisterhood]].
-
-Was working in some capacity with [[Solonor]] to create magic devices that have a component of both clockwork and magical runes. They had some type of falling out and now have a tense and antagonistic relationship with each other.
+Faraday’s collaboration with [[Solonor]] to create hybrid magical-clockwork devices ended in conflict, leaving the two on antagonistic terms. Solonor later speculated that Faraday sought to reassemble Aurunat to access Karsus’s heart. This theory gained credibility when [[Gunner Ironford]]’s Will revealed that Faraday had been seeking the Legend of the Moonwarden from the Bone King and working to awaken Karsus’s heart. At dinner at Barrowmoor Manor, Solonor confirmed that [[Spark|tincture]] was in part an invention of Faraday's.
 
 ### Current Activities
 Has been supplying [[Psionic Weapons]] to the [[Valendri]] people to aid in their battle against The [[Phaerimm]]. 
 
-At dinner at Barrowmoor Manor, Solonor confirms that [[Spark|tincture]] was an invention of Faraday's.
+He believes that magic should be unrestricted, lamenting the limitations imposed after [[The Spellplague]]. During his charity ball, he cast the High Magic spell *All Mage*, gaining lifetimes of magical knowledge.
 
-Believes magic should be freely given, that limitations are a bastardization of magic, and it should be like it was before [[The Spellplague]]. At his charity ball event cast a High Magic spell, *All Mage* giving him the knowledge of lifetimes of magic in one moment. He then met with the group and told them he wished to give this power to all people. He has collected most of the [[Pieces of The Inevitable]] and requested the Harmonic Resonator so that he could confront Solonor and recreate [[Aurunat, The Inevitable]] ([[30 - 04142024|Session 30]]).
+Faraday has been collecting the *Pieces of the Inevitable* to recreate [[Aurunat, The Inevitable]]. He revealed to Sundara and Cassius in separate dreams that his ultimate goal is to access the Vault of Ouroboros (possibly another name for the Heart of Karsus), claiming that his mastery over magic could protect the Weave from greater threats. His vision of ultimate control over magic promises liberation from its limitations, but his motives have been met with skepticism by The Remnants.
 
-Solonor initially suspected that Faraday was attempting to reconstruct The Inevitable, speculating that Faraday might be seeking access to something only it could reach, likely the heart of Karsus. Gunner Ironford’s Will confirmed these suspicions, revealing that Faraday was indeed on a quest to awaken Karsus's heart and that he had been trying to obtain The Legend of the Moonwarden from The Bone King as part of this endeavor. Faraday subsequently visited Cassius in a dream, requesting The Pieces of The Inevitable, Cassius declines. Not long after, Faraday confronted Sundara in her dream, reiterating his demand for the pieces with a more menacing tone, Sundara declines. He disclosed to Sundara his true objective: access to the Vault of Ouroboros. Faraday claimed there were far greater threats than him that had been trying to breach the vault for years. He asserted that he could accomplish what Karsus had attempted, achieving ultimate control over the Weave without risking lives or causing chaos. His aim is to release the Weave from its existing limitations and establish an unparalleled mastery over magic.
+After Faraday learned of Solonor’s weakened state after casting *Wish*. He informed [[The Bone King]] of The Remnants position on Barrowmoor Manor and then targeted Solonor. Following their battle with Elhorn, the group negotiated with Faraday, relinquishing their pieces of the Inevitable in exchange for personal compensations. Cassius secured the reinstatement of the Manath family in Brightwater, Sundara protected Solonor’s life, and Varrick eliminated Elhorn’s clones ([[61 - 11242024|Session 61]]).
 
 ### Personality Traits
-Comes off as charismatic and charming, tries to defuse tense situations with jokes and really nice alcohol. Hints of ungovernable ambition in his eyes when he talks about his goals. Made a fair trade with The Remnants when he clearly had the upper hand.
+Comes off as charismatic and charming, tries to defuse tense situations with jokes,  really nice alcohol, and inappropriate uses of magic. Hints of ungovernable ambition in his eyes when he talks about his goals. Made a fair trade with The Remnants when he clearly had the upper hand and agreed to a gentleman's disagreement with [[Cassius]].
 
 ### Relation to The Remnants 
 - Is in a romantic relationship with [[Elowen Elisthorn]]
@@ -52,3 +48,4 @@ Comes off as charismatic and charming, tries to defuse tense situations with jok
 
 ## Known Stats
 Graviturgy Wizard
+Over level 20
