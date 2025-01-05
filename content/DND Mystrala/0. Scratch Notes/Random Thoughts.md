@@ -1,7 +1,9 @@
+Active Mission?
+- Reinstate [[Samugi]] to his throne
+
 Running Mission List (in no particular order)
 - [[Phaerimm]] consuming the magic of [[Valendri]] and could destroy the rest of the world and other planes if they spread
 - [[Mira]] is doing some shady shiz over by Serpent Lord Shrine
-- Reinstate [[Samugi]] to his throne
 - Capitalism is kind of ruining this whole world but that's a big ask
 
 

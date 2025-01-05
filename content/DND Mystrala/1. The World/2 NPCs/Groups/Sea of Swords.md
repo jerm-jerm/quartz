@@ -6,4 +6,4 @@ Members:
 - Garrick
 - [[Otiluke Organdorf]] 
 - The Remnants
-- Valkur (previous holder of the trident)
+- Valkur (previous holder of the trident and was elevated to ?godhood)

@@ -33,6 +33,8 @@ People who work for him have a magical brand that can be seen with a detect magi
 ### Current Activities
 Died after an impromptu battle the The Remnants. His daughter literally took his place, disguising herself to look like him, presumably, to prevent [[Cassius]] for being executed. "Oswald Beaumont" is now sick and his daughter, [[Dunsparrow Beaumont]], is taking over.
 
+ALIVE.
+
 ### Personality Traits
 
 

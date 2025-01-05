@@ -1,10 +1,10 @@
 ---
 aliases: tincture
 ---
-Called Tincture in it's undistilled form, it is turned into Spark by an Alchemist. It originates from souls, whether dead mercenaries, some who die naturally, and other unknown sources. It can be used to power certain [[Clockwork Devices]], it can also be distilled into a drink that leaves the consumer with particular feelings depending on the brew or into eyedrops which allows a glimpse into ?the spirit world. Much, if not all, of the tincture originates from The [[Bloodgulch Meatworks]] in [[Langston]]. There was a transportation set up under the guise of the FETC from Langston to [[Karsus Folly]] where, the Spark was sold in a tavern, The Taphouse, by Corbin Blackwater 'Corbie' ([[26 - 03172024|Session 26]]).
+Called Tincture in it's undistilled form, it is turned into Spark by an Alchemist. Although it is likely that [[Solonor]] acquired the first soul that was used to create tincture, the concept of Spark and Tincture is attributed to [[Alexi Faraday]], who initially conceived the idea.
 
-There is evidence that the souls used to make Spark are retained in a fractured form even once placed inside of clockwork device.
+Souls are the source of the creation, these souls come from a variety of sources, including deceased mercenaries, those who pass away naturally, and other unidentified and likely more nefarious means. Its applications range from powering certain [[Clockwork Devices]] to more personal uses (there is evidence to suggest that the souls used to create Spark remain in a fractured state, even after being placed inside these devices), such as ingestion or topical application.
 
-About 60% of tincture is produced at Bloodgulch Meatworks and another 15% at The Vulture Den, from people who volunteer for a some exchange of gold or food or unwilling souls.
+Much of the Tincture used to create Spark originates from the [[Bloodgulch Meatworks]] in [[Langston]], which accounts for approximately 60% of its production. Another 15% is sourced from the Vulture Den, where souls are obtained either through voluntary agreements, typically in exchange for gold or food, or through more coercive means. The remaining 25% comes from undisclosed locations or methods. Following the death of [[The Bone King]] and the resulting destabilization of Langston, the price of Spark spiked dramatically, reflecting the upheaval in its supply chain.
 
-The idea for spark/tincture was originally [[Alexi Faraday]]'s idea.
+In Karsus Folly, Spark was sold at The Taphouse, a tavern run by Corbin "Corbie" Blackwater ([[26 - 03172024|Session 26]]).

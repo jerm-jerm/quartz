@@ -30,7 +30,7 @@ The group stole the ship back after killing Gunner ([[36 - 05272024|Session 36]]
 - Banker - Carter Sterling Abbyman Radler
 - Explosives Expert - [[Briggs]] 
 - Main Cannoneer - Dannyboy 
-- Nick
+- Nick (currently doing intermittent fasting)
 
 ### Location
 - The Open Skies

@@ -19,15 +19,15 @@ Allara originally worked for the [[Gilded Glave]] transporting goods. She was tr
 
 ![[IconCleric.png|right|150]]
 ## Prior Events
-Lost many of her sisters in the raid by [[Circle of Ruin and Thistle]] ([[15 - 01012024|Session 15]]).
+Allara lost many of her sisters in the raid by [[Circle of Ruin and Thistle]] ([[15 - 01012024|Session 15]]).
 
 Jumped from a 150ft tower, severely and permanently injuring her leg. The group took her to an artificer who crafted a [[Clockwork Devices|clockwork]] leg for her (Sessions [[27 - 03242024|27]] and [[28 - 03302024|28]]). 
 
-Met with her brother before leaving [[Karsus Folly]]. His contract was given to Xander to conduct occult investigations near Serpent Lord Shrine. He say that life in The Far Empire is not as bad as Allara thinks it is. He tells her that [[The Savage Seven|Mira]] knows all about Allara and would like to talk to her about working for her ([[31 - 04212024|Session 31]]).
+Before leaving [[Karsus Folly]], Allara met with her brother, [[Lucian Thorne]]. He revealed that his contract had been given to Xander to conduct occult investigations near the Serpent Lord Shrine. He also shared that life in the Far Empire was not as bad as Allara believed and mentioned that [[Mira]] (previous cleric of [[The Savage Seven]]) knew about her and wanted to speak with her about a potential collaboration ([[31 - 04212024|Session 31]]).
 
-Tried and was unable to save Varrick from death during the groups battle with [[Fern Shadow Forest|Rotgasp]] ([[32 - 04282024|Session 32]]).
+During the group's battle with [[Fern Shadow Forest|Rotgasp]], Allara tried but was unable to save Varrick from death ([[32 - 04282024|Session 32]]).
 
-Was tasked by her sisterhood to lead The Circle of the Fated Promise ([[34 - 05122024|Session 34]]).
+Was tasked by her sisterhood to lead The Circle of the Fated Promise ([[34 - 05122024|Session 34]]) and later endured a ritual where she received a tattoo of a mark that The Raven Queen had chosen for her.
 
 ## Current Events
 

@@ -7,7 +7,7 @@ Unknown
 ### Members
 - [[Solonor]] 
 - [[Alexi Faraday]] 
-- [[Oswald Beaumont]] ☠
+- [[Oswald Beaumont]] 
 - [[Gunner Ironford]] ☠
 - [[Ironsoul]] - a warforged monk wandering the [[Delmiri Desert]] in a self imposed exile
 	- Would often mutter about how something, "foiled the design of [[Mechanus]]"
@@ -18,16 +18,16 @@ Unknown
 #### [[Pieces of The Inevitable]]
 > Member |  Piece | Location|
 > ---|---|---|
-> [[Solonor]] | Heart of the Fated Moon | Unknown |
-> [[Alexi Faraday]]  | Gavel of the Judge | [[Karsus Folly]] 
-> [[Oswald Beaumont]] | Harmonic Resonator Chimes | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]] 
-> [[Gunner Ironford]]  | The Pelt of the Moonwarden | The Remnants
-> [[Ironsoul]] | Silks of the Moonwarden | Unknown, suspect in The [[Delmiri Desert]]
-> [[Mira]] | Veil of the Moon | Unknown, suspect near the Serpentlord Shrine 
-> [[Otiluke Organdorf]]  | Legend of the Moonwarden | Unknown, last gambled away in [[Langston]], in possession of [[The Bone King]]  
+> [[Solonor]] | Heart of the Fated Moon | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]]  |
+> [[Alexi Faraday]]  | Eyes | [[Karsus Folly]] |
+> [[Oswald Beaumont]] | Harmonic Resonator Chimes | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]] |
+> [[Gunner Ironford]]  | The Pelt of the Moonwarden | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]]  |
+> [[Ironsoul]] | Silks of the Moonwarden | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]]  |
+> [[Mira]] | Veil of the Moon | Unknown, suspect near the Serpentlord Shrine |
+> [[Otiluke Organdorf]]  | Legend of the Moonwarden | presumed [[Karsus Folly]] in possession of [[Alexi Faraday]]  |
 
 ### Relation to The Remnants 
-- The Remnants have been tasked with obtaining the [[Pieces of The Inevitable]]
+- The Remnants were somewhat tasked with obtaining the [[Pieces of The Inevitable]] and gave up the quest
 - [[Cassius]] and Oswald and Gunner
 - Solonor and [[Sundara]] 
 - Mira is interested in [[Allara]] 

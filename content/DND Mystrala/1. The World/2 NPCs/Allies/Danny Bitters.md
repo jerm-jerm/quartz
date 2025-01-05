@@ -6,12 +6,12 @@ aliases:
 
 
 > [!infobox]
-> # `Danny` 
+> # `Danny Bitters` 
 > ![[Placeholder Image.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | | 
+> Race | Human | 
 > Sex | Male| 
 > Age |  |
 > Condition | Healthy |

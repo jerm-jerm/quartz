@@ -19,7 +19,7 @@ State that all members have been forsaken by the current form of civilization. T
 
 The particular coven that held the pacts of Varrick and Dunsparrow was headed by Melania and included 2-5 other witches that were killed in the battle on Barrowmoor Island ([[55 - 10122024|Session 55]])
 
-Two books written by [[Oswald Beaumont]] documented The Circle and their ability to draw powerr from decay and rot along with their personification of a Queen of Decay.
+Two books written by [[Oswald Beaumont]] documented The Circle and their ability to draw power from decay and rot along with their personification of a Queen of Decay.
 
 ### Current Activities
 Have a camp in the [[Fern Shadow Forest]] 
