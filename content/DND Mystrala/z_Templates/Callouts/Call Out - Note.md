@@ -1,5 +1,6 @@
 ---
-tags: template
+tags:
+- template
 ---
 
 > [!note]- Note  

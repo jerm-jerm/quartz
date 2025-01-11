@@ -1,7 +1,8 @@
 ---
 date: YYYY-MM-DD
-tags: summary
-tags: template
+tags: 
+- summary
+- template
 ---
 |← Previous session]] <span style="float: right;">Next session →]]</span>
 

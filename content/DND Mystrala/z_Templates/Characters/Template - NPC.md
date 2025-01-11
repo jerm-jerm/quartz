@@ -1,6 +1,7 @@
 ---
 aliases: 
-tags: template
+tags: 
+- template
 ---
 
 

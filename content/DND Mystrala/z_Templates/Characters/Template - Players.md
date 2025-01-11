@@ -1,5 +1,6 @@
 ---
-tags: template
+tags: 
+- template
 ---
 
 >  Character Name | Aliases | Class | Race | Player Name |
