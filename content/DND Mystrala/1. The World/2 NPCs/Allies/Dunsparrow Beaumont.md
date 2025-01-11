@@ -20,7 +20,7 @@ aliases:
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | [[Karsus Folly]] |
+> Current Location | [[The Icebreaker]] in [[New Calim]] |
 > Class |  |
 > Alias(es) | The Duchess, High Chancellor |
 > Known Family | [[Oswald Beaumont]] |
