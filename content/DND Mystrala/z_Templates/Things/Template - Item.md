@@ -1,3 +1,7 @@
+---
+tags: template
+---
+
 # `=this.file.name`
 ## Overview
 

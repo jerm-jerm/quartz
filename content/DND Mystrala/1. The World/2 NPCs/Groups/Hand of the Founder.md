@@ -7,7 +7,7 @@
 > Alias(es) | *** |
 
 ## History
-Founder of the FETC is worshipped by some as a god. People donate their wages to this super rich company.
+Founder of the FETC is worshipped by some as a god. People donate their wages to this super rich company. [[Queen of Brightwater]] is very much against the FETC.
 
 ### Current Activities
 

@@ -1,11 +1,5 @@
 ---
-Type: 
-Population: 
-Theme: 
-Region: 
-MPF: 
-Groups: 
-Special:
+tags: template
 ---
 
 > [!infobox]

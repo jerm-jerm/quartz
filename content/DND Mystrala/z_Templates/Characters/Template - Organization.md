@@ -1,3 +1,7 @@
+---
+tags: template
+---
+
 > [!infobox]
 > # `{{title}}` 
 > ######  Information

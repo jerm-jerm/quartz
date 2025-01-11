@@ -25,6 +25,7 @@ aliases:
  
 
 ## History
+A mysterious man working as part of The Harbor Ghost in [[Langston]]. Under some specific conditions was willing to work with The Remnants to take down [[The Bone King|Elhorn]].
 
 ### Current Activities
 

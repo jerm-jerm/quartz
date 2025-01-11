@@ -1,3 +1,7 @@
+---
+tags: template
+---
+
 ## Overview
 Placeholder 
 > [!infobox]

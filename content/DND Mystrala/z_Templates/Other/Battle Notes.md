@@ -1,3 +1,7 @@
+---
+tags: template
+---
+
 Initiative:
 
 Move - Action - BA - Reaction
