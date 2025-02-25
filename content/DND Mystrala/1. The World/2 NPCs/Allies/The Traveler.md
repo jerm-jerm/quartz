@@ -25,6 +25,8 @@ aliases:
  
 
 ## History
+God of trickery and knowledge
+
 The Traveler claims to have been exiled from time itself, stating that he no longer remembers the feeling of loneliness ([[64 - 12152024|Session 64]]). His connection to changelings runs deep, Cassius stating that his parents once prayed to The Traveler for a child and being gifted a baby changeling as a result. The Traveler resides in the Feywild, where he is known as "The Sovereign" by the other changelings. He observes the world with a seemingly indifferent demeanor, during one such moment, Cassius sits beside the Traveler as they silently watch a village being razed.
 
 The Traveler has a commented that he knows The [[Raven Queen]].
@@ -35,6 +37,8 @@ Cassius’s precursor gun, pulled from the Tree of Life, once belonged to the Tr
 
 ### Current Activities
 Despite his apparent detachment, the Traveler accepted a small flying creature as a gift from Cassius. Cassius occasionally attempts to summon or talk with the Traveler, though the calls often go unanswered.
+
+Cassius traveled with The Traveler during downtime and comes to understand that the deity is creating small ripples with small precise changes that alter the course of fate. 
 
 ### Personality Traits
 - Quietly and indifferently observant 

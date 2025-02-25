@@ -33,6 +33,8 @@ After dinner at Barrowmoor Manor, she tells Varrick that if he came home and bec
 ### Current Activities
 Appears to be disgruntled and stressed out with how [[Dunsparrow Beaumont]] is running [[New Calim]], saying that Dunsparrow is running the city into the ground. Has a lot of work to do and enlisted Varrick's help with training the children of various members.
 
+Holding out against a siege on The [[Sea of Swords]] by  [[Oswald Beaumont]] and The [[Queen of Brightwater]]. 
+
 ### Personality Traits
 Imposing, blunt, and straight to the point. Can be fiery with her responses, both verbal and physical. 
 

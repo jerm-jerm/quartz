@@ -1,4 +1,3 @@
-# Sundara Elisthorn 'Clock' 
 >  Character Name | Aliases | Class | Race | Age | Player Name |
 >  -- | -- | -- | -- | -- | --|
 >  Sundara Elisthorn| Clock |Clockwork Soul Sorcerer | Mark of Shadow Elf | 153| Jazmin |
