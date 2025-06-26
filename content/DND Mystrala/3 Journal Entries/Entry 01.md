@@ -3,7 +3,7 @@ date: 2025-06-23
 tags:
   - summary
 ---
-<span style="float: right;">[[02|Next entry →]]</span>
+<span style="float: right;">[[Entry 02|Next entry →]]</span>
 <div style="text-align: left; font-size: 1.25em;"><em>314Fi.2Q.66</em></div>
 
 Commencement was as expected, severe, evaluative, and entirely unveiled in its skepticism. The hearing wasted little time highlighting our lack of qualifications and, in some cases, character. It was not untrue. Few among us seem like natural candidates for the service of the Ledgerman. Fewer still seem enthusiastic about it. Myself included. The Oracle, however, speaks as it will.
