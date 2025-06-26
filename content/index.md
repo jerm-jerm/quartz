@@ -3,18 +3,18 @@ title: The Mystrala Almanac
 enableToc: false
 ---
 ![[HomeBanner.png|banner]]
-# In a world where cities soar and magic flows, our adventure continues...
+# In an empire where corporations rule and divinity is manufactured, control is currency and obedience the only law.
 
-### Embark on a journey through the enchanting but perilous world of Karsus alongside The Remnants.
+### Embark on a journey through the perilous Empire alongside The Ledgermen
 <font size=4> [Session Notes](https://jerm-jerm.github.io/quartz/DND-Mystrala/3.-Session-Notes/ ) </font>
 
 <font size=4>  [The Remnants](https://jerm-jerm.github.io/quartz/DND-Mystrala/2.-The-Remnants/) </font>
-![[RemnantsBanner.png|750|right]]
-- [[Allara]] / [[Reyna]]
-- [[Cassius]] 
-- [[Samugi]] 
-- [[Sundara]] 
-- [[Varrick]]
+![[New Ledgermen.png|750|center]]
+- [[Chuck]]
+- [[Luminora]] 
+- [[Mazarin]] 
+- [[Sal]] 
+- [[Yedan]]
 
 <font size=4> Locations </font>
 - [Major Locations](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/1-Locations/1-Major-Places/) 
@@ -29,8 +29,7 @@ enableToc: false
 
 <font size=4> [Items](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/3-Items/) [Other](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/4-Other/) </font>
 
-Coming Soon: The Harbor Ghost (Blades in the Dark)
-![[Mystrala.png]]
+![[FETC Map.png]]
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BVFWVG4BHX"></script>
 <script>

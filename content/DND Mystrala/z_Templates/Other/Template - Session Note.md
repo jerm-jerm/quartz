@@ -4,25 +4,15 @@ tags:
 - summary
 - template
 ---
-|← Previous session]] <span style="float: right;">Next session →]]</span>
-
-## Events
-
-
-### People
+|← Previous Entry]] <span style="float: right;">Next Entry →]]</span>
+<div style="text-align: left; font-size: 1.25em;"><em>314Fi.2Q.66</em></div>
 
 
-### Places 
+
+### New People
 
 
-## Character Presence 
-### Present
-- [[Sundara]] 
-- [[Cassius]] 
-- [[Varrick]] 
-- [[Allara]] 
-- [[Samugi]] 
-### Absent
+### Current Places 
 
 
 ### Recap Video
