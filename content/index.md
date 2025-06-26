@@ -2,7 +2,6 @@
 title: The Ledgerman's Guidebook
 enableToc: false
 ---
-![[Early Banner.png|banner]]
 # In an empire where corporations rule and divinity is manufactured, control is currency and obedience is law.
 ### Embark on a journey through the perilous Empire alongside The Ledgermen
 <font size=4> [Luminora's Journal Entries](https://karsuschronicles.com/DND-Mystrala/3-Journal-Entries/) </font>
