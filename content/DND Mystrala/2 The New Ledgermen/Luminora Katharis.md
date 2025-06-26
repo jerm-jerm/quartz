@@ -4,7 +4,7 @@ aliases:
 
 >  Character Name | Aliases | Class | Race | Age | Player Name |
 >  -- | -- | -- | -- | -- | -- |
-> Luminora Katharis|---|Bladedance Wizard|Human|25|Jazmin|
+> Luminora Katharis|---|Bladedance Wizard|Xalithean Human|25|Jazmin|
 
 > [!infobox]
 > ![[Placeholder Image.png|cover hm-sm]]
