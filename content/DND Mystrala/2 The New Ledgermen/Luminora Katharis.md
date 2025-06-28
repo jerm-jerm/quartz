@@ -4,15 +4,17 @@ aliases:
 
 >  Character Name | Aliases | Class | Race | Age | Player Name |
 >  -- | -- | -- | -- | -- | -- |
-> Luminora Katharis|---|Bladedance Wizard|Xalithean Human|25|Jazmin|
+> Luminora Katharis|---|Bladedancer Wizard|Xalithean Human|25|Jazmin|
 
 > [!infobox]
-> ![[Placeholder Image.png|cover hm-sm]]
+> ![[Luminora.png|cover hm-sm]]
 
 ## Backstory
 
-### Characteristics
+## Current Events
+
+## Personality Traits
 
 ## Relationships
 
-## Secrets from the group
+## Notes

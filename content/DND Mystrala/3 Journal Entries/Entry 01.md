@@ -12,7 +12,7 @@ Horatio, a goliath, and Ledgerman operative, outlined our assignment with no cer
 
 We departed by rail. Myself, Yedan Neric, Charles Brand, Mazrin, and Sal Brentwood. An assembly with no coherence by training or background, yet somehow we are meant to function as a unit. Marion, the Ledgerman secretary, also accompanied us.
 
-The train contained a number of civilians. I observed Yedan Neric initiate conversation with another halfling. *NOTE: Based on passengers logs this was likely Kallow who was traveling with PLACEHOLDER to meet with a healer in the Santiforge. His condition is suspected to be connected to the reports The Ledgermen received.*
+The train contained a number of civilians. I observed Yedan Neric initiate conversation with another halfling. *NOTE: Based on passengers logs this was likely Kallow who was traveling with an escort to meet with a healer in the Santiforge. His condition is suspected to be connected to the reports The Ledgermen received.*
 
 A woman in mourning approached me. Her husband had recently died. She seemed overwhelmed, seeking… comfort? company? I could not offer what she required. She knew of Conscriptus. Of House Katharis and its Bladedancers. But she kept crying. I do not understand how one is meant to interact with that. Mazarin intervened and helped her move on. Efficient.
 
@@ -26,19 +26,22 @@ Sal and Yedan seemed concerned for my state of mind. Unnecessarily. Mazarin was 
 
 We will rest as we continue now to the Sanctiforge.
 
-### New People
-- Horatio
-- Marion
-- Stevan Logerath - poet from the sanctiforge
-- Kallow
-- Father Hendricks
+### Newly Encountered Individuals
+- Horatio - Ledgerman operative. Oversees our assignments
+- Marion - Secretary. Magical and combat capabilities
+- Stevan Logerath - Poet from the sanctiforge
+- Father Hendricks - Hostile. Led attack on train. Magical capacity unknown. May still live. 
+
+- *Kallow - Halfling acting abnormally. Travelling to healer.*
 
 ### Current  Places 
-
+- The Pale Waste
 
 ### Recap Video
-Insert Link Here
+https://youtu.be/_rLNgvOfxnM?si=svPQIbV5Q9iBP8f_
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_rLNgvOfxnM?si=ua-J0-gx6Pz8eNe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <span style="float: right;">Next entry →]]</span>

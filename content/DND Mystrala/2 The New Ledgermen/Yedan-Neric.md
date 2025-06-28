@@ -1,6 +1,5 @@
 ---
 aliases: 
-- Chuck
 ---
 
 >  Character Name | Aliases | Class | Race | Age | Player Name |
@@ -8,12 +7,15 @@ aliases:
 > Yedan-Neric|Neri|Rouge|Halfling| ? |Pierce|
 
 > [!infobox]
-> ![[Placeholder Image.png|cover hm-sm]]
+> !![[Yedan Neric.png|cover hm-sm]]
 
 ## Backstory
 
-### Characteristics
+![[IconRogue1.png|right|150]]
+## Current Events
+
+## Personality Traits
 
 ## Relationships
 
-## Secrets from the group
+## Notes

@@ -8,12 +8,15 @@ aliases:
 > Charles Brand|Chuck|Gunslinger Fighter|Human|--|James|
 
 > [!infobox]
-> ![[Placeholder Image.png|cover hm-sm]]
+> ![[Charles Brand.png|cover hm-sm]]
 
 ## Backstory
 
-### Characteristics
+![[IconFighter.png|right|150]]
+## Current Events
+
+## Personality Traits
 
 ## Relationships
 
-## Secrets from the group
+## Notes

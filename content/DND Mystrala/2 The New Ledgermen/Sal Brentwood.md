@@ -1,6 +1,5 @@
 ---
 aliases: 
-- Chuck
 ---
 
 >  Character Name | Aliases | Class | Race |Age| Player Name |
@@ -12,8 +11,10 @@ aliases:
 
 ## Backstory
 
-### Characteristics
+## Current Events
+
+## Personality Traits
 
 ## Relationships
 
-## Secrets from the group
+## Notes

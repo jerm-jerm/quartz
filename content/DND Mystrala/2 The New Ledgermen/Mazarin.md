@@ -1,6 +1,5 @@
 ---
 aliases: 
-- Chuck
 ---
 
 >  Character Name | Aliases | Class | Race | Age|  Player Name |
@@ -8,12 +7,15 @@ aliases:
 > Mazarin|---|Psionic Sorcerer|Human| 26 |Jessica|
 
 > [!infobox]
-> ![[Placeholder Image.png|cover hm-sm]]
+> ![[Mazarin.png|cover hm-sm]]
 
 ## Backstory
 
-### Characteristics
+![[IconSorcerer.png|right|150]]
+## Current Events
+
+## Personality Traits
 
 ## Relationships
 
-## Secrets from the group
+## Notes
