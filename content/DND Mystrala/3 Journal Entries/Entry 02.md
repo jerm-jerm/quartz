@@ -20,7 +20,7 @@ From there, we visited a local choir hall, hoping one of the missionaries might 
 
 I spoke with Marrion afterward. She tried to hide the tears at first, but they came all the same. Her anger followed soon after. She was overwhelmed and when I expressed how this assignment was the opposite of what I have been prepared for, she exploded. Her volatility reminded me of training, although at home, there is less emotion and more punishment. She told me my mother would not have faltered at such obstacles. I believe she is right. If I am to succeed here, I must do more than observe, I must lead. Perhaps I should not have let her speak to me in the manner she did. But I am no longer the heir. And she was right.
 
-As we reconvened I discussed with Charles that he would need to act more reasonably going forward. It seemed as though Mazarin had already come to that conclusion and Charles had agreed. We departed for the Shardlight Distict. 
+As we reconvened I discussed with Charles that he would need to act more reasonably going forward. It seemed as though Mazarin had already come to that conclusion and Charles agreed. We departed for the Shardlight Distict. 
 
 NOTE: A halfling resembling Yedan Neric was reportedly seen "trading" without the owners knowledge a Sanctiforge charm for a valuable flask. 
 
@@ -37,16 +37,18 @@ It is clearer now that whatever this "training" mission was meant to be, it is i
 ### New People
 - Marriion Virelle - Handler working within The Sanctiforge as the arm of The High Regent
 - Theodore Calvers - District Bishop
-- //// Solian - Widow of Jeffery Solian, can write to her at /// to update her on the investigation.
+- Elrey Solian - Met on the train into the Sanctiforge. Widow of Jeffery Solian, can write to her at Sitwell Corp to update her on the investigation.
 - Thassen Elvire - District Bishop
 
 ### Current Places 
 - The Sanctiforge
 
 ### Recap Video
-Insert Link Here
+https://youtu.be/mgrh-fdktfU?si=T_-PFuTtJeVah1ZV
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mgrh-fdktfU?si=HkvZiQq_1K0zW1Qd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Entry 01|← Previous Entry]] <span style="float: right;">[[Entry 03|Next Entry →]]</span>
 
