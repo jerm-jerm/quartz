@@ -28,7 +28,7 @@ We will rest as we continue now to the Sanctiforge.
 
 ### Newly Encountered Individuals
 - Horatio - Ledgerman operative. Oversees our assignments
-- Marion - Secretary. Magical and combat capabilities
+- Marrion - Secretary. Magical and combat capabilities
 - Stevan Logerath - Poet from the sanctiforge
 - Father Hendricks - Hostile. Led attack on train. Magical capacity unknown. May still live. 
 
@@ -44,4 +44,4 @@ If video is not available below, click link above to watch on YouTube directly
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_rLNgvOfxnM?si=ua-J0-gx6Pz8eNe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<span style="float: right;">Next entry →]]</span>
+<span style="float: right;">[[Entry 02|Next entry →]]</span>
