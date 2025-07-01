@@ -20,7 +20,7 @@ We proceeded to the choir hall, anticipating one of the missionaries might recog
 
 Following the incident, I spoke with Marrion. She attempted to conceal visible distress. She failed. Her frustration escalated. She spoke of resolve, of what my mother would have done, and I understood what she meant even if she didn’t say it outright. At home, correction is colder, but no less final. 
 
-I remain unable to understand the Oracle’s selections. My record, my name, and by extension my House reputation, now align with this group. I have no jurisdiction over their decisions, yet I am accountable for their consequences. It is a disquieting equation. If I am to succeed here, I must do more than observe. Perhaps I should not have let Marrion speak to me in the manner she did. But I am no longer the heir. And she was correct.
+I remain unable to understand the Oracle’s selections. My record, my name, and by extension my House reputation, now align with this group. I have no jurisdiction over their decisions, yet I am accountable for their consequences. It is a disquieting equation. If I am to succeed here, I must do more than observe. Perhaps I should not have let Marrion speak to me in the manner she did. But she was correct.
 
 I advised Charles to exercise restraint in future engagements. Mazarin had evidently expressed similar concerns. Charles assented. Temporary compliance seems likely. We continued to the Shardlight District. 
 
@@ -30,9 +30,9 @@ There were invalids laying in the streets of the Shardlight District, visibly af
 
 We encountered Bishop Thassen Elvire in person. His presence is disarming, the aura around him mirrors both Mazarin’s and the affected worshippers. Elvire claimed the faithful have strayed from the Founder’s true word and he denounced the High Regent and Master of Spycraft as corrupted by power. He claimed the Oracle was compromised in the selection of our unit. His convictions appeared genuine.
 
-Softly after he departed, on quite malevolent terms I will add, the vagrant man he had treated with the "Water of Life" transformed, his head splitting and reforming into a mindflayer.
+Shortly after he departed, on quite malevolent terms I will add, the vagrant man he had treated with the "Water of Life" transformed, his head splitting and reforming into a mindflayer.
 
-This is not the work I was raised for, but it is the work I must rise to.
+Certainly not the work I was raised for, but it is the work I must rise to.
 
 ### New People
 - Marrion Virelle - Handler working within The Sanctiforge as the arm of The High Regent
