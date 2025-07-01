@@ -18,7 +18,7 @@ Solian’s widow, previously encountered aboard the train, arrived during our in
 
 We proceeded to the choir hall, anticipating one of the missionaries might recognize Solian. The effort was poorly conceived and executed. Charles lost patience with the director and struck him. We were promptly arrested. Marrion intervened—posted bail and falsified official reports at considerable cost. 
 
-Following the incident, I spoke with Marrion. She attempted to conceal visible distress. She failed. Her frustration escalated. She spoke of resolve, of what my mother would have done, and I understood what she meant, even if she didn’t say it outright. At home, correction is colder, but no less final. 
+Following the incident, I spoke with Marrion. She attempted to conceal visible distress. She failed. Her frustration escalated. She spoke of resolve, of what my mother would have done, and I understood what she meant even if she didn’t say it outright. At home, correction is colder, but no less final. 
 
 I remain unable to understand the Oracle’s selections. My record, my name, and by extension my House reputation, now align with this group. I have no jurisdiction over their decisions, yet I am accountable for their consequences. It is a disquieting equation. If I am to succeed here, I must do more than observe. Perhaps I should not have let Marrion speak to me in the manner she did. But I am no longer the heir. And she was correct.
 
