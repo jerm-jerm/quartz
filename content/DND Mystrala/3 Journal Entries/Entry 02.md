@@ -42,6 +42,7 @@ Certainly not the work I was raised for, but it is the work I must rise to.
 
 ### Current Places 
 - The Sanctiforge
+	- The Shardlight District
 
 ### Recap Video
 https://youtu.be/mgrh-fdktfU?si=T_-PFuTtJeVah1ZV
