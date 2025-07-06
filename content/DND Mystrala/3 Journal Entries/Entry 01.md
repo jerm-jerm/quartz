@@ -10,7 +10,7 @@ Commencement was as expected: severe, evaluative, and entirely unveiled in its s
 
 Horatio, a goliath, and Ledgerman operative, outlined our assignment with no ceremony. We are to act as spies, saboteurs, and assassins. Our first task: investigate a heretical illness at the Sanctiforge. Determine the cause. Contain or eliminate as necessary.
 
-We departed by rail. Myself, Yedan Neric, Charles Brand, Mazrin, and Sal Brentwood. An assembly with no coherence by training or background, yet somehow we are meant to function as a unit. Marion, the Ledgerman secretary, also accompanied us.
+We departed by rail. Myself, Yedan Neric, Charles Brand, Mazarin, and Sal Brentwood. An assembly with no coherence by training or background, yet somehow we are meant to function as a unit. Marion, the Ledgerman secretary, also accompanied us.
 
 The train contained a number of civilians. I observed Yedan Neric initiate conversation with another halfling. *NOTE: Based on passengers logs this was likely Kallow who was traveling with an escort to meet with a healer in the Santiforge. His condition is suspected to be connected to the reports The Ledgermen received.*
 
