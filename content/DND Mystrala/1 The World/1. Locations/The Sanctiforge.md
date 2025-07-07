@@ -17,6 +17,7 @@ tags:
 ## Notable Locations
 > [!info]+ Districts  
 > - Shardlight District
+> - Vellhum Heights
 
 ## Notable Characters
 
