@@ -12,26 +12,28 @@ tags:
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | `=this.race` | 
-> Sex | `=this.sex` | 
-> Age | `=this.age` |
-> Condition | `=this.condition` |
+> Race |  | 
+> Sex |  | 
+> Age | |
+> Condition |  |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | `=this.Location` |
-> Class | `=this.class` |
-> Alias(es) | `=this.aliases` |
-> Known Family |`=this.knownfamily` |
-> Known Groups | `=this.knowngroups` |
+> Current Location |  |
+> Class |  |
+> Alias(es) |  |
+> Known Family | |
+> Known Groups |  |
  
 
-## History
+## Impression
+Luminora's subjective take on who the person is to her, what they represent, how they carry themselves, and her gut read on them. How the person fits into the structure of the world, the mission, or her life.
 
-### Current Activities
+## Known Record
 
-### Personality Traits
+## Ties
 
-### Relation to The Remnants 
+## Index
 
-## Known Stats
+## NOTE (Editorial Addenda)
+This is where omniscient or retrospective information is added. Use this for lore, stats, theories, or contradictions.
