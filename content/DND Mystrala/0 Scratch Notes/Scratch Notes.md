@@ -18,14 +18,6 @@ FACTIONS & ORGANIZATIONS
 - Ledgerman (Shadowy organization managing the operatives and missions)
 - Steel Covenant
 - Sixth House (Mysterious organization referenced in relation to Yedan and Mazrin?)
-- House Katharis and Bladedancers (Luminora’s noble House and martial tradition)
-
-CREATURES & PHENOMENA
-- Mindflayers (Psychic aberrations, collective consciousness)
-	- Mindflayer Tadpoles (Parasites smuggled and infected with vampirism)
-	- Vampirism in Tadpoles (Mutation enabling blood sustenance, increased ferality)
-	- Aberrant Illness / Psychosis (Mysterious condition affecting workers and civilians)
-	- Psychic Network (Mindflayer collective psychic connection)  
 
 CONCEPTS & THEMES
 - Pruning (Philosophy of injury, discipline, and correction)

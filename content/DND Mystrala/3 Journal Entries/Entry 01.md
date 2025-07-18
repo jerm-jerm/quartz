@@ -8,9 +8,9 @@ tags:
 
 Commencement was as expected: severe, evaluative, and entirely unveiled in its skepticism. The hearing wasted little time highlighting our lack of qualifications and, in some cases, character. It was not untrue. Few among us seem like natural candidates for the service of the Ledgerman. Fewer still seem enthusiastic about it. Myself included. The Oracle, however, speaks as it will.
 
-Horatio, a goliath, and Ledgerman operative, outlined our assignment with no ceremony. We are to act as spies, saboteurs, and assassins. Our first task: investigate a heretical illness at the Sanctiforge. Determine the cause. Contain or eliminate as necessary.
+Horatio, a goliath, and Ledgerman operative, outlined our assignment with no ceremony. We are to act as spies, saboteurs, and assassins. Our first task: investigate a heretical illness at [[The Sanctiforge]]. Determine the cause. Contain or eliminate as necessary.
 
-We departed by rail. Myself, Yedan Neric, Charles Brand, Mazarin, and Sal Brentwood. An assembly with no coherence by training or background, yet somehow we are meant to function as a unit. Marion, the Ledgerman secretary, also accompanied us.
+We departed by rail. [[Luminora Katharis|Myself]], [[Yedan-Neric]], [[Charles Brand]], [[Mazarin]], [[Sal Brentwood]]. An assembly with no coherence by training or background, yet somehow we are meant to function as a unit. [[Marrion Virelle|Marrion]], another Ledgerman operative, also accompanied us.
 
 The train contained a number of civilians. I observed Yedan Neric initiate conversation with another halfling. *NOTE: Based on passengers logs this was likely Kallow who was traveling with an escort to meet with a healer in the Santiforge. His condition is suspected to be connected to the reports The Ledgermen received.*
 
@@ -28,8 +28,8 @@ We will rest as we continue now to the Sanctiforge.
 
 ### Newly Encountered Individuals
 - Horatio - Ledgerman operative. Oversees our assignments
-- Marrion - Secretary. Magical and combat capabilities
-- Stevan Logerath - Poet from the sanctiforge
+- Marrion - Ledgerman operative. Magical and combat capabilities
+- Stevan Logerath - Poet from The Sanctiforge
 - Father Hendricks - Hostile. Led attack on train. Magical capacity unknown. May still live. 
 
 - *Kallow - Halfling acting abnormally. Travelling to healer.*

@@ -28,20 +28,20 @@ tags:
  
 
 ## Impression
-There’s a discipline to Marrion Virelle that I recognize. Not the rigid kind taught in a Katharis house, but something sharper. She speaks almost too plainly for someone with her rank. She’s cut out anything that isn’t necessary. Calculating. Probably not conventional military, but definitely trained somewhere. If she holds a pedigree, it has been deliberately obscured.
+There’s a discipline to Marrion Virelle that I recognize. Not the rigid kind taught in a Katharis house, but something similarly sharp. She speaks plainly for someone with her rank, calculating. Probably not conventional military, but definitely trained in some capacity. If she holds a pedigree, it has been deliberately obscured.
 
-I think she’s waiting to see what shape this new group will take. She does not merely pass orders. Her investment feels... personal. When she talks about this mission, about us, it is as though she has something riding on our success.
+I believe she is waiting to see what shape this new group will take. She does not merely pass orders. Her investment feels... personal. When she talks about this mission, about us, it is as though she has something riding on our success.
 
-When the pressure becomes too much, she folds fast and violently. That kind of emotional outburst is jarring, too raw, too exposed.
+There is iron in her. She stood before the Steel Covenant magistrate and lied cleanly, without hesitation, to shield us. But when the pressure breaks past her composure, she doesn’t bend, she shatters. The outbursts are sudden, sharp, and raw. It’s unsettling. Like seeing a weapon misfire.
 
 ## Known Record
-Ledgerman handler assigned to our block. Direct line to Quaid, High Regent of Spycraft. She delivered our assignment regarding the mindflayer phenomenon and the unrest in the Shardlight District.
+Ledgerman handler assigned to our block. Exhibits high-level clearance and operational autonomy and has a direct line to Quaid, High Regent of Spycraft. She delivered our assignment regarding the mindflayer phenomenon and the unrest in the Shardlight District. Additionally, she requested we save [[Theodore Calvers]] on his disappearance.
 
 ## Index
-- [[Entry 01]]
-- [[Entry 02]]
-- [[Entry 03]]
-- [[Entry 04]]
+- [[Entry 01]] - joined us aboard the train to [[The Sanctiforge]], fought beside us against Father Hendricks and the pilgrims
+- [[Entry 02]] - assigned us to investigate the Sanctiforge’s irregularities
+- [[Entry 03]]- posted our bail, told us Calvers had vanished
+- [[Entry 04]] - expressed gratitude for saving Calvers
 
 ## NOTE (Editorial Addenda)
-Implied knowledge of the Sixth House and the name Samita, which visibly impacted Yedan
+Records indicate Marrion Virelle has prior ties to intelligence operations concerning the Sixth House. She was overheard referencing the name _Samita_—an utterance that caused a visible reaction in Yedan, suggesting personal or operative significance.
