@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: 
-- template
+- NPC
 ---
 
 > [!infobox]

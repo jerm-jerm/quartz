@@ -2,7 +2,7 @@
 aliases: 
 - Marrion
 tags: 
-- template
+- NPC
 ---
 
 
