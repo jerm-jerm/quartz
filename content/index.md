@@ -14,18 +14,11 @@ enableToc: false
 - [[Sal]] 
 - [[Yedan]]
 
-<font size=4> Locations (update pending)</font>
-- [Major Locations](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/1-Locations/1-Major-Places/) 
-- [Minor Locations](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/1-Locations/2-Minor-Places/)
+<font size=4> [Locations](https://jerm-jerm.github.io/quartz/DND-Mystrala/1-The-World/1.-Locations/)</font>
 
- <font size=4> NPCs (update pending)</font>
-- [Allies](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/2-NPCs/Allies/) 
-- [Enemies](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/2-NPCs/Enemies/)
-- [Groups](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/2-NPCs/Groups/) 
-- [Minor NPCs](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/2-NPCs/Minor-NPCs/)
-- [Neutral or Unknown](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/2-NPCs/Neutral-or-Unknown/)
+<font size=4> [NPCs](https://jerm-jerm.github.io/quartz/DND-Mystrala/1-The-World/2.-NPCs/)</font>
 
-<font size=4> (update pending) [Items](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/3-Items/) [Other](https://jerm-jerm.github.io/quartz/DND-Mystrala/1.-The-World/4-Other/) </font>
+<font size=4> [Other](https://jerm-jerm.github.io/quartz/DND-Mystrala/1-The-World/3.-Other/) </font>
 
 ![[FETC Map.png]]
 ![[New Ledgermen 2.png|banner]]
