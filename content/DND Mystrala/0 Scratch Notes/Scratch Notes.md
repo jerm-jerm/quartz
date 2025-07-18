@@ -4,11 +4,8 @@ spellbook of prince alexei faraday. shadow kills king and queen faraday. alexi b
 
 High regent Quaid (High Regent of Spycraft). 
 
-Need notes on more of Charles, Yedan, and Sal's past for their pages.
-Update Luminora page.
 
 
-Here is the same master list, formatted with headers and bullet points using plain text and no markdown:
 
 PEOPLE & CHARACTERS
 
@@ -18,10 +15,6 @@ PEOPLE & CHARACTERS
 - Mazarin
 - Sal Brentwood 
 
-- Marrion (Handler, political operative connected to High Regent and Ledgerman)
-- Vern Powell / One-Eye Vern (Drakemirian pirate, fugitive, involved in smuggling mindflayer tadpoles)
-- Bishop Theodore Calvers (Missing bishop, political/religious figure)
-- Thassen Elvire (Suspected antagonist, manipulative religious leader    
 
 PLACES & LOCATIONS
 
