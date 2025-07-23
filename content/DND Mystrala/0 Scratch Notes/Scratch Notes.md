@@ -5,6 +5,8 @@ spellbook of prince alexei faraday. shadow kills king and queen faraday. alexi b
 High regent Quaid (High Regent of Spycraft). 
 
 
+Lessa Brentwood (?) 
+
 
 
 PEOPLE & CHARACTERS
