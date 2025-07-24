@@ -21,7 +21,7 @@ tags:
 > ---|---|
 > Current Location | [[The Sanctiforge]], presumed  |
 > Class | Cleric |
-> Alias(es) |  |
+> Alias(es) | ID# VRD0702A91F  |
 > Known Family | |
 > Known Groups | Hands of the Founder - Lumenbound |
  
@@ -37,6 +37,8 @@ There’s a naval sharpness to him. The Black Ledger indicated the Black Armada.
 Now, he’s a bishop, stationed in the Shardlight District. Indications are that he is devout to the Founder, but in a corrupted form. He names the High Regent a heretic. He questions the Oracle. 
 
 He distributes the “Water of Life.” He gave it to a man, and we watched that man become an aberration. There’s something wrong with his aura. An echo, like Mazarin’s, but deeper. He calls it faith. But faith does not mutate the body.
+
+We found Elvire, heavily armored, in the caverns beneath the Temple of Aqua Vitae, alongside [[The Oracle]]. He echoes its doctrine as gospel.
 
 ## Index
 - [[Entry 02]] - first confrontation

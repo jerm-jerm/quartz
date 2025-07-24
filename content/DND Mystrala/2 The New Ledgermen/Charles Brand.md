@@ -1,25 +1,39 @@
 ---
-aliases: 
-- Chuck
+aliases:
+  - Chuck
+tags:
+  - Player Character
 ---
 
->  Character Name | Aliases | Class | Race | Age | Player Name |
->  -- | -- | -- | -- | -- | -- |
-> Charles Brand|Chuck|Gunslinger Fighter|Human|--|James|
-
 > [!infobox]
+> # `Charles Brand` 
 > ![[Charles Brand.png|cover hm-sm]]
+> ###### Bio
+> Type |  Stat |
+> ---|---|
+> Race | Human | 
+> Sex | Male | 
+> Age |Fi.31 |
+> Player | James |
+> ######  Information
+> Type |  Stat |
+> ---|---|
+> Class | Gunslinger Fighter |
+> Alias(es) | Chuck |
+> Known Family | |
+ 
+## Impression
+Harsh, prone to escalation, and unpracticed in restraint. Hotheaded in word and posture. Still, it would be inaccurate to call him without discipline; it simply lacks refinement. His instincts are sharp. A capable marksman. Notably experienced in hostile terrain and direct engagement.
 
-## Backstory
-Former soldier of the 61st Infantry Division, deployed in the Delmiri Desert. A survivor of a deadly ambush by Hangul Shadow Monks, only he and his spotter returned alive. Once a member of the Steel Covenant, Brand is known for showing sympathy toward enemies of the Sacred Machine, even attempting to warn native populations before strikes.
-
-Presumably for this, Charles underwent Class-4 memory alignment and extensive remediation before his service. Large portions of his memory have been modified or erased by the FETC. He is haunted by visions of a woman with sad eyes asking him, "Then what type of man are you Charles Brand?"
+He was the first to assume leadership when we met, which speaks either to reflexive confidence or practiced command. 
 
 ![[IconFighter.png|right|150]]
-## Current Events
+## Known Record
+Former soldier of the 181st Infantry Division, active during the Delmiri Desert operations. Survived a known ambush by Hangul Shadow Monks; reportedly the only member of his unit to return. Official dispatches leave open the possibility that his spotter survived.
 
-## Personality Traits
+Demonstrates high competence in arid and natural environments; limited experience in urban settings or clandestine operations.
 
-## Relationships
+Previously affiliated with the Steel Covenant. Records suggest he extended warnings to enemy populations before strikes for which he underwent Class-4 memory alignment with layered remediation prior to reassignment. When asked directly, he stated he does not recall his childhood. I did not press further.
 
-## Notes
+## NOTE (Editorial Addenda)
+He is haunted by visions of a woman with sad eyes asking him, "Then what type of man are you Charles Brand?"

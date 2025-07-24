@@ -1,20 +1,32 @@
 ---
 aliases: 
+tags:
+  - Player Character
 ---
-
->  Character Name | Aliases | Class | Race |Age| Player Name |
->  -- | -- | -- | -- | -- | --|
-> Sal Brentwood|---|Alchemist Wizard|Human| Maybe 90| Eddie|
-
 > [!infobox]
-> ![[Placeholder Image.png|cover hm-sm]]
+> # `Sal Brentwood`
+>  ![[placeholer image.png|cover hm-sm]]
+> ###### Bio
+> Type |  Stat |
+> ---|---|
+> Race | Human | 
+> Sex | Male | 
+> Age |Fi.90? |
+> Player | Eddie |
+> ######  Information
+> Type |  Stat |
+> ---|---|
+> Class | Arcanochemist |
+> Alias(es) |  |
+> Known Family | Lessa Brentwood |
+ 
 
-## Backstory
+## Impression
+ 
+## Known Record
+- Illegal alchemist shop 
+- Niece Lessa was listed as a dissident and taken, has not been seen again
+- Sal has been supporting her two children himself
 
-## Current Events
+## NOTE (Editorial Addenda)
 
-## Personality Traits
-
-## Relationships
-
-## Notes

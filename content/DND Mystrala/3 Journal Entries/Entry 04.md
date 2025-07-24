@@ -41,8 +41,10 @@ Only purity remains.
 	- Vellum Heights
 
 ### Recap Video
-Insert Link Here
+https://youtu.be/jxAU8bzi44A?si=WTc6cw__EL32Sa5S
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jxAU8bzi44A?si=uZoLULuu_CWygo75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Entry 03||← Previous Entry]] <span style="float: right;">[[Entry 05|Next Entry →]]</span>
