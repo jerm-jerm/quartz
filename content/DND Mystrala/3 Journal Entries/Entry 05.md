@@ -8,13 +8,13 @@ tags:
 
 Horus arrived with the resupply. Though he expressed approval of our progress, he issued a clear directive: we have one week to identify and resolve the root cause of the situation here. At that point another Ledgermen crew will be dispatched to finish the assignment. He believes the Temple of Aqua Vitae, connected directly to the contaminated wells, is the source.
 
- *NOTE: Horus' resupply log indicates Charles questioned Horus about the 181st Steel Covenant unit. Horus sympathetic to what Charles had gone through, expressed uncertainty any survived. He emphasized that this and future operations should be handled quietly.*
+*NOTE: Horus' resupply log indicates Charles questioned Horus about the 181st Steel Covenant unit. Horus sympathetic to what Charles had gone through, expressed uncertainty any survived. He emphasized that this and future operations should be handled quietly.*
 
-We began reconnaissance of the temple. Mazarin and Yedan disguised themselves and molded into the crowd; Charles and I took position atop an abandoned apartment building. Charles has acquired a magical construct purpose built to fabricate ammunition, a thing he insists on calling Mr. Chompy. I do not understand naming a tool. Still, output appears functional and it has an obvious tactical value. 
+We began reconnaissance of the temple. Mazarin and Yedan disguised themselves and molded into the crowd; Charles and I took position atop an abandoned apartment building. Charles has acquired a magical construct purpose built to fabricate ammunition. He has named it Mr. Chompy. I do not understand naming a tool. Still, output appears functional and it has an obvious tactical value. 
 
 While monitoring the area, we noted a disproportionate Ordinance presence: six patrols within a single alley’s distance, all positioned to avoid the temple itself. Then, Elvire appeared, flanked by two armored attendants. He wore modified Steel Covenant shock armor and carried a greatsword. The crowds parted around him, reverence bordering on cultic response.
 
-On watch, I asked Charles to examine my wound. He carries field supplies, and I know little of proper healing. He asked if I’d ever been injured before. I almost laughed. Possibly the funniest thing he’s said to date. I admitted that serious injury in my House was handled by... replacement. Saying it aloud felt strange, exposed. Embarrassing, even. I dismissed both my feelings and the topic and instead asked about his family and childhood. He said he doesn’t remember any of it.  
+On watch, I asked Charles to examine my wound. He carries field supplies, and I know little of proper healing. He asked if I’d ever been injured before. I almost laughed, perhaps the funniest thing he’s said to date. I admitted that serious injury in my House was handled by... replacement. Saying it aloud felt disorienting. Uncomfortably personal. I dismissed both my feelings and the topic and instead asked about his family and childhood. He said he doesn’t remember any of it.  
 
 I recalled what I had seen in his mind when I cast detect magic, evidence of Class-4 memory alignment with layered remediation. I decided not to ask further. A kind of Pruning in its own right, less bloody than mine, but no gentler. If given the choice I would take my family's blade over was done to him.
 
@@ -40,7 +40,7 @@ In exchange, by midday tomorrow, Elvire will surrender. He will claim sole respo
 
 It claimed allegiance to the Founder’s vision. Claimed that our fates are intertwined. Claimed it had chosen us—for what, it would not say. Claimed that any citizen number, including ours, could be reclassified as dissident at will. A warning dressed as a blessing. A threat framed as favor. The Oracle speaks like a god and calculates like a machine.
 
-Nothing is clear. What it wants, what it offers, what it threatens. I need clarity. So I follow Mazarin and Charles deeper, because there is no safety, and certainly no perfection, in ignorance.
+Nothing is clear. What it wants, what it offers, what it threatens. I need clarity. So I follow Mazarin and Charles deeper, because there is no safety and certainly no perfection, in ignorance.
 
 ### New People
 
