@@ -26,11 +26,11 @@ Yedan phased into the deeper chamber to establish further light. A miscalculatio
 
 His shadow fought beside us. I held the others off. He said something behind me, his voice faltering. 
 
-“[[Luminora Katharis|Luminora]], please get my watch.” 
+“[[Luminora Katharis|Luminora]], however you got here, just get back out. I'll be fine. Just... pick up my little necklace.” 
 
 I threw myself into a feral mob for a halfling I have barely known a week. There is no tactical justification for this, but something in his voice...
 
-I’ve heard it before. That quiet urgency. The way people speak when they know they are going to die. And I realized, with some surprise, I did not want him to. A pressure built within, familiar from duels and training, but stronger and sharper. I felt a snap and the force surged outward. My feet lifted from the ground. Cold seeped into my bones. My focus narrowed, beyond the Bladetrance, beyond training, beyond anything I have ever experienced. An unyielding will to annihilate.
+I’ve heard it before. A quiet urgency. The way people speak when they think they are going to die. And I realized, with some surprise, I did not want him to. A pressure built within, familiar from duels and training, but stronger and sharper. I felt a snap and the force surged outward. My feet lifted from the ground. Cold seeped into my bones. My focus narrowed, beyond the Bladetrance, beyond training, beyond anything I have ever experienced. An unyielding will to annihilate.
 
 We fought to kill the abominations attached to him. One fell, but the second moved too quickly. There was a sickening sound as it broke through and consumed his mind. Yedan's body fell limp.
 
