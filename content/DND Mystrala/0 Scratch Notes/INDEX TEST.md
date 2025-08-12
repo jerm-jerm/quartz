@@ -8,11 +8,9 @@ enableToc: false
 
 <font size=4>  [The New Ledgermen](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/) </font>
 ![[New Ledgermen.png|750|center]]
-- [Chuck](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Charles-Brand)
-- [Luminora](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Luminora-Katharis)
-- [Mazarin](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Mazarin)
-- [Sal](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Sal-Brentwood)
-- [Yedan](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Yedan-Neric)
+<div style="text-align: center"><em>
+[Yedan](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Yedan-Neric), [Chuck](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Charles-Brand), [Mazarin](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Mazarin), [Sal](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Sal-Brentwood), [Luminora](https://karsuschronicles.com/DND-Mystrala/2-The-New-Ledgermen/Luminora-Katharis) 
+</em></div>
 
 <font size=4> [Locations](https://jerm-jerm.github.io/quartz/DND-Mystrala/1-The-World/1.-Locations/)</font>
 
