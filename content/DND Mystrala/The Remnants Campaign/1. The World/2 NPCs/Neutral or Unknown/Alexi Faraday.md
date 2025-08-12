@@ -15,7 +15,7 @@ aliases:
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | [[Karsus Folly]]  |
+> Current Location | Drakemire |
 > Class | Wizard |
 > Alias(es) | Prince Alexi Faraday |
 > Known Family | Deceased |
@@ -28,7 +28,7 @@ Faraday has admitted to a tumultuous past, including straying from his moral cod
 
 Previously had a scribe, [[Kazak]] Ninefingers, that worked for him. He imprisoned this scribe after he studied some of Faraday's secret scrolls. He also created a device, supposedly, for the [[Voidwing Sisterhood]] to open a portal to Shadowfell to have a closer connection to the Raven Queen. Instead the device was responsible for the destruction of a Temple of The Sisterhood.
 
-Faraday’s collaboration with [[Solonor]] to create hybrid magical-clockwork devices ended in conflict, leaving the two on antagonistic terms. Solonor later speculated that Faraday sought to reassemble Aurunat to access Karsus’s heart. This theory gained credibility when [[Gunner Ironford]]’s Will revealed that Faraday had been seeking the Legend of the Moonwarden from the Bone King and working to awaken Karsus’s heart. At dinner at Barrowmoor Manor, Solonor confirmed that [[Spark|tincture]] was in part an invention of Faraday's.
+Faraday’s collaboration with [[Solonor]] to create hybrid magical-clockwork devices ended in conflict, leaving the two on antagonistic terms. Solonor later speculated that Faraday sought to reassemble Aurunat to access Karsus’s heart. This theory gained credibility when [[Gunner Ironford]]’s Will revealed that Faraday had been seeking the Legend of the Moonwarden from the Bone King and working to awaken Karsus’ heart. At dinner at Barrowmoor Manor, Solonor confirmed that [[Spark|tincture]] was in part an invention of Faraday's.
 
 ### Current Activities
 Has been supplying [[Psionic Weapons]] to the [[Valendri]] people to aid in their battle against The [[Phaerimm]]. 

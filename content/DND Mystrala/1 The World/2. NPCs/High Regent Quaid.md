@@ -12,7 +12,7 @@ tags:
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | Half-elf | 
+> Race | Half-Elf | 
 > Sex | Male | 
 > Age | |
 > Condition |  |

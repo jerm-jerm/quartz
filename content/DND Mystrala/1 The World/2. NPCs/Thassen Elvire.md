@@ -19,7 +19,7 @@ tags:
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | [[The Sanctiforge]], presumed  |
+> Current Location | [[The Sanctiforge]], in custody  |
 > Class | Cleric |
 > Alias(es) | ID# VRD0702A91F  |
 > Known Family | |
@@ -32,13 +32,11 @@ Bishop Thassen Elvire is a man of contradictions. He is full of conviction, but 
 When he looked at us, I do not think he saw ignorance. He saw opposition. And worse, I believe he would let a hundred people suffer if it meant proving himself correct.
 
 ## Known Record
-There’s a naval sharpness to him. The Black Ledger indicated the Black Armada. He squares his shoulders and moves his eyes like he's watching the wind and rigging of a ship.
+There’s a naval sharpness to him. The Black Ledger indicated the Black Armada. Now, he’s a bishop, stationed in the Shardlight District. Indications are that he is devout to the Founder, but in a corrupted form. He names the High Regent a heretic. He questions the Oracle. 
 
-Now, he’s a bishop, stationed in the Shardlight District. Indications are that he is devout to the Founder, but in a corrupted form. He names the High Regent a heretic. He questions the Oracle. 
+He distributes the “Water of Life.” He gave it to a man, and we watched that man become a [[Mindflayer Abberations]]. There’s something wrong with his aura. An echo, like Mazarin’s, but deeper. He calls it faith. But faith does not mutate the body.
 
-He distributes the “Water of Life.” He gave it to a man, and we watched that man become an aberration. There’s something wrong with his aura. An echo, like Mazarin’s, but deeper. He calls it faith. But faith does not mutate the body.
-
-We found Elvire, heavily armored, in the caverns beneath the Temple of Aqua Vitae, alongside [[The Oracle]]. He echoes its doctrine as gospel. When the Oracle instructed him to surrender, he did so without hesitation. Willing to offer his life in its defense and to enact its will without question.
+We found Elvire, heavily armored, in the caverns beneath the Temple of Aqua Vitae, alongside [[The Oracle]]. He echoes its doctrine as gospel. When the Oracle instructed him to surrender, he did so without hesitation. Willing to offer his life in its defense and to enact its will without question, odd considering how he questioned it's will before.
 
 ## Index
 - [[Entry 02]] - first confrontation

@@ -15,11 +15,11 @@ aliases:
 > Race | Elf, not Valendrian | 
 > Sex | Male | 
 > Age | Immortal |
-> Condition | Healthy |
+> Condition | Deceased |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | with Sundara |
+> Current Location |  |
 > Class | Sorcerer |
 > Alias(es) | The Shipmaker, Solonor The Disgraced |
 > Known Family | |
@@ -42,7 +42,7 @@ Sundara and Solonor finally reconcile ([[53 - 09302024|Session 53]]) over dinner
 Cast *Wish* to cure Sundara of the [[Phaerimm]] Sickness curse at great cost to his strength and magical ability.
 
 > [!quote]- Quote  
-> "Sundara, I am happy that you've survived. In the even that I don't get the chance to tell you myself, I wanted to say that I am sorry I was cruel to you and lashed out at you and pushed you into exile because I was afraid of you. I've lived for a very long time, yet the mistakes I've made with you will always and forever be my greatest regrets. Goodbye."
+> "Sundara, I am happy that you've survived. In the event that I don't get the chance to tell you myself, I wanted to say that I am sorry I was cruel to you and lashed out at you and pushed you into exile because I was afraid of you. I've lived for a very long time, yet the mistakes I've made with you will always and forever be my greatest regrets. Goodbye."
 
 ### Current Activities
  Upon discovering Solonor and Sundara's relationship, [[Alexi Faraday]] expressed surprise, remarking that he had always considered Solonor heartless. Alexi then destroyed Solonor's workshop and nearly killed him while Solonor was recovering from casting the *Wish* spell. Before departing, Alexi seized the [[Pieces of The Inevitable]] from both The Remnants and Solonor. Following this Solonor seemed uninspired and listless and travelled with Sundara while she took time away from The Remnants. 
