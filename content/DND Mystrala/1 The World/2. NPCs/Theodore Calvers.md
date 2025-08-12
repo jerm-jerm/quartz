@@ -32,6 +32,8 @@ Recently appointed Bishop of Vellhum Heights, following the death of his predece
 
 Assigned to chaperone our investigation in the Sanctiforge, but our presence dragged him into danger. He was kidnapped from jail and nearly transformed into a mindflayer. I find myself irritated that Charles’ recklessness nearly cost Calvers so much, from what I can tell about him, he does not deserve that.
 
+He conducted the burial rites for [[Yedan-Neric]] and commented on how Yedan was the first face he saw during his rescue.
+
 ## Index
 - [[Entry 02]] - first meeting, assigned to direct the group around The Sanctiforge during our investigation
 - [[Entry 04]] - rescued from a prison cell before being turned into a mindflayer

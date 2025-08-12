@@ -38,7 +38,7 @@ Now, he’s a bishop, stationed in the Shardlight District. Indications are that
 
 He distributes the “Water of Life.” He gave it to a man, and we watched that man become an aberration. There’s something wrong with his aura. An echo, like Mazarin’s, but deeper. He calls it faith. But faith does not mutate the body.
 
-We found Elvire, heavily armored, in the caverns beneath the Temple of Aqua Vitae, alongside [[The Oracle]]. He echoes its doctrine as gospel.
+We found Elvire, heavily armored, in the caverns beneath the Temple of Aqua Vitae, alongside [[The Oracle]]. He echoes its doctrine as gospel. When the Oracle instructed him to surrender, he did so without hesitation. Willing to offer his life in its defense and to enact its will without question.
 
 ## Index
 - [[Entry 02]] - first confrontation

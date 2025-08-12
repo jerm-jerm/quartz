@@ -35,5 +35,7 @@ Demonstrates high competence in arid and natural environments; limited experienc
 
 Previously affiliated with the Steel Covenant. Records suggest he extended warnings to enemy populations before strikes for which he underwent Class-4 memory alignment with layered remediation prior to reassignment. When asked directly, he stated he does not recall his childhood. I did not press further.
 
+I have found myself warming to Charles. Despite our vastly different stations in life, he has begun treating me with a steady respect I cannot ignore. Fighting side by side has a way of erasing certain distinctions, covering one another’s flanks in the press of battle is its own equalizer. He also seems to leave deliberate space for me to step forward.
+
 ## NOTE (Editorial Addenda)
 He is haunted by visions of a woman with sad eyes asking him, "Then what type of man are you Charles Brand?"

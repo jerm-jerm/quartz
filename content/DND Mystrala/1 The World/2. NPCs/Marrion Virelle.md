@@ -35,7 +35,11 @@ I believe she is waiting to see what shape this new group will take. She does no
 There is iron in her. She stood before the Steel Covenant magistrate and lied cleanly, without hesitation, to shield us. But when the pressure breaks past her composure, she doesn’t bend, she shatters. The outbursts are sudden, sharp, and raw. It’s unsettling. Like seeing a weapon misfire.
 
 ## Known Record
-Ledgerman handler assigned to our block. Exhibits high-level clearance and operational autonomy and has a direct line to Quaid, High Regent of Spycraft. She delivered our assignment regarding the mindflayer phenomenon and the unrest in the Shardlight District. Additionally, she requested we save [[Theodore Calvers]] on his disappearance.
+Exhibits high-level clearance and operational autonomy and is a direct line to [[High Regent Quaid|Quaid]], High Regent of Spycraft. She delivered our assignment regarding the [[Mindflayer Abberations|mindflayer]] phenomenon and the unrest in the Shardlight District. Additionally, she requested we save [[Theodore Calvers]] on his disappearance.
+
+Over a bottle of Greenbottle Reserve in her office, we talked. She commented on a past visit to Drakemire, as part of a delegation to the [[Alexi Faraday|Faraday]] royal family.
+
+In sharing a bottle, I accessed fragments of Marrion’s memories. She spoke to someone, identity unclear, who acknowledged her anger and her wish to harm 'them', yet reminded her she could not bring down the machine. They warned her not to end up like her parents. When I asked her, she insisted both of her parents were alive and well. In her memories, Quaid questioned her directly on the Oracle’s functionality, naming her the foremost authority. She affirmed its soundness and authorized Commencement for our Ledgerman block. Lastly, I have observed her inquiry into a subject labeled _Permutational Dissidence_.
 
 ## Index
 - [[Entry 01]] - joined us aboard the train to [[The Sanctiforge]], fought beside us against Father Hendricks and the pilgrims
