@@ -58,4 +58,4 @@ If video is not available below, click link above to watch on YouTube directly
 
 [[Entry 04|← Previous Entry]] <span style="float: right;">[[Entry 06|Next Entry →]]</span>
 
-![[Pasted image 20250720202450.png]]
+![[The Orylien Incident.png]]

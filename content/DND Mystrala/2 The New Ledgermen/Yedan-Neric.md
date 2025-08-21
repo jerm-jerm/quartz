@@ -1,7 +1,9 @@
 ---
 aliases: 
 tags:
-  - Player Character
+  - Player
+  - Character
+  - Deceased
 ---
 > [!infobox]
 > # `Yedan-Neric`
@@ -23,6 +25,7 @@ tags:
 
 ## Impression
 Yedan Neric is a difficult man to take the measure of. He keeps his voice low and his manner mild, but there’s something in his stillness that reads less like calm and more like concerning calculation. I cannot quite determine his aim, whether he is simply guarded or perpetually playing at something beneath the surface. Of all of us, he seems most at ease with [[Charles Brand|Charles]], and Charles with him. I do not yet know if that is cause for comfort or concern.
+
 ![[IconRogue1.png|right|150]]
 ## Known Record
 From what I can gather, Yedan once took part in a rebellion against the Empire, though in what capacity remains unclear. After that, he lived for a time as a waged worker in Verdania. His history is riddled with inconsistencies. There is a marking or tattoo on his hand, the meaning of which no one seems inclined to explain.

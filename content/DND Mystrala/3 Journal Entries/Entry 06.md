@@ -49,4 +49,4 @@ If video is not available below, click link above to watch on YouTube directly
 
 [[Entry 05|← Previous Entry]] <span style="float: right;">[[Entry 07|Next Entry →]]</span>
 
-![[Pasted image 20250803201658.png]]
+![[The Oracle.png]]

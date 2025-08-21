@@ -1,5 +1,6 @@
 ---
 aliases: 
+- High Master of Spycraft
 tags: 
 - NPC
 ---
