@@ -31,9 +31,7 @@ Luminora's subjective take on who the person is to her, what they represent, how
 
 ## Known Record
 
-## Ties
-
-## Index
+## Major Appearances
 
 ## NOTE (Editorial Addenda)
 This is where omniscient or retrospective information is added. Use this for lore, stats, theories, or contradictions.

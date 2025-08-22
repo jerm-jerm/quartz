@@ -32,7 +32,7 @@ Tonight, I run my sword forms, not in preparation, but as reflection. I shift my
 
 Only purity remains.
 
-### New People
+###  People
 
 
 ### Current Places 

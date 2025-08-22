@@ -27,7 +27,7 @@ I control my mind. No distraction will fracture my focus.
 I control my actions. As drilled into me since childhood, I do not permit touch to breach my guard. I have been Pruned for such lapses in the heat of battle. To have allowed this unbidden closeness, and to desire it, is an error without justification.
 Perfection or death. There is no third path.
 
-### New People
+###  People
 
 
 ### Current Places 
@@ -36,8 +36,10 @@ Perfection or death. There is no third path.
 	- Vellum Heights
 
 ### Recap Video
-Insert Link Here
+https://youtu.be/_p8M8_OkGtM?si=kKdjDEQ0lSzXUnF3
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_p8M8_OkGtM?si=kKdjDEQ0lSzXUnF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Entry 06|← Previous Entry]] <span style="float: right;">[[Entry 08 | Next Entry →]]</span>

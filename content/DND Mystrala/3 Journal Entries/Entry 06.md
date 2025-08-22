@@ -14,7 +14,7 @@ It was beautiful. I believed I was witnessing the divine. I was wrong. Charles s
 
 I was told that deviation would lead to Pruning. A euphemism, certainly, for reconditioning or destruction. To [[Sal Brentwood|Sal]], it implied that his nephew Thomas would be declared a dissident. To [[Yedan-Neric]], it referenced the survivors he had named. It left little doubt, we lack the tools, power, and knowledge to oppose it. Until those conditions change, fealty may be safer than resistance.
 
-**NOTE:** Yedan's notes reported that the Oracle seemed unaware of several aspects of his identity until he deliberately drew attention to them. We must consider the possibility that its omniscience is incomplete.
+*NOTE: Yedan's notes reported that the Oracle seemed unaware of several aspects of his identity until he deliberately drew attention to them. We must consider the possibility that its omniscience is incomplete.*
 
 We resurfaced and delivered [[Thassen Elvire]] into custody at Vellhum Heights. We relayed a redacted version of the encounter to [[Marrion Virelle|Marrion]]. As ordered, we withheld mention of the Oracle. She recognized the omission and attempted to magically compel Charles to reveal more. He resisted. She told us she could not help us if we didn’t trust her. I kept my expression neutral, I am not accustomed to guilt. I do not enjoy it.
 
@@ -36,16 +36,18 @@ We fought to kill the abominations attached to him. One fell, but the second mov
 
 I failed. I was starting to like him.
 
-### New People
+###  People
 - [[The Oracle]]
 
 ### Current Places 
 
 
 ### Recap Video
-Insert Link Here
+https://youtu.be/lQnW3UyQSuE?si=snKwp3KW3BdgPwAV
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQnW3UyQSuE?si=snKwp3KW3BdgPwAV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Entry 05|← Previous Entry]] <span style="float: right;">[[Entry 07|Next Entry →]]</span>
 

@@ -34,7 +34,7 @@ Assigned to chaperone our investigation in the Sanctiforge, but our presence dra
 
 He conducted the burial rites for [[Yedan-Neric]] and commented on how Yedan was the first face he saw during his rescue.
 
-## Index
+## Major Appearances
 - [[Entry 02]] - first meeting, assigned to direct the group around The Sanctiforge during our investigation
 - [[Entry 04]] - rescued from a prison cell before being turned into a mindflayer
 

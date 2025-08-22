@@ -26,7 +26,7 @@ Sal and Yedan seemed concerned for my state of mind. Unnecessarily. Mazarin was 
 
 We will rest as we continue now to the Sanctiforge.
 
-### Newly Encountered Individuals
+### People
 - Horus - Ledgerman operative. Oversees our assignments
 - Marrion - Ledgerman operative. Magical and combat capabilities
 - Stevan Logerath - Poet from The Sanctiforge

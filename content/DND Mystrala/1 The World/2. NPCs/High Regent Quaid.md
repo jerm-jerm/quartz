@@ -36,6 +36,6 @@ My knowledge of High Regent Quaid remains significantly limited but significant.
 
 ## Ties
 
-## Index
+## Major Appearances
 
 ## NOTE (Editorial Addenda)

@@ -30,9 +30,7 @@ tags:
 
 ## Known Record
 
-## Ties
-
-## Index
+## Major Appearances
 
 ## NOTE (Editorial Addenda)
 

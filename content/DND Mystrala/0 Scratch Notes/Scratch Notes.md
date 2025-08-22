@@ -1,7 +1,4 @@
-High Regent Quaid (High Regent of Spycraft)
-
-
-**use detect magic to see if marrion has magic similar to mazarin or if mental changes similar to charles**
+**Use detect magic to see if Marrion has magic similar to Mazarin or if mental changes similar to Charles (MA?)**
 
 Notes To Do:
 
@@ -15,6 +12,7 @@ FACTIONS & ORGANIZATIONS
 - Ledgerman (Shadowy organization managing the operatives and missions)
 - Steel Covenant
 - Sixth House (Mysterious organization referenced in relation to Yedan and Mazrin)
+- The Oracle
 
 CONCEPTS & THEMES
 - The Oracle (Mysterious selection process influencing operatives)

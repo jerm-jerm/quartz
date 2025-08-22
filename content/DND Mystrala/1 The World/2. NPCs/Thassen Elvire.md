@@ -38,7 +38,7 @@ He distributes the “Water of Life.” He gave it to a man, and we watched that
 
 We found Elvire, heavily armored, in the caverns beneath the Temple of Aqua Vitae, alongside [[The Oracle]]. He echoes its doctrine as gospel. When the Oracle instructed him to surrender, he did so without hesitation. Willing to offer his life in its defense and to enact its will without question, odd considering how he questioned it's will before.
 
-## Index
+## Major Appearances
 - [[Entry 02]] - first confrontation
 
 ## NOTE (Editorial Addenda)

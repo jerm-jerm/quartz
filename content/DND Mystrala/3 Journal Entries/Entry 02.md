@@ -34,7 +34,7 @@ Shortly after he departed, on quite malevolent terms I will add, the vagrant man
 
 Certainly not the work I was raised for, but it is the work I must rise to.
 
-### New People
+###  People
 - Marrion Virelle - Handler working within The Sanctiforge as the arm of The High Regent
 - Theodore Calvers - District Bishop
 - Elrey Solian - Met on the train into the Sanctiforge. Widow of Jeffery Solian, can write to her at Sitwell Corp to update her on the investigation.
