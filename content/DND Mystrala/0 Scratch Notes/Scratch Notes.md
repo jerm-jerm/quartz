@@ -18,4 +18,9 @@ FACTIONS & ORGANIZATIONS
 
 CONCEPTS & THEMES
 - The Oracle (Mysterious selection process influencing operatives)
+![[Enoc Prisoner.png]]
+
+![[New Ledgermen 3.png]]
+
+![[The Embermaw.png]]
 
