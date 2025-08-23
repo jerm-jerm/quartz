@@ -28,7 +28,7 @@ Enoch guided us through a mountain pass which contained unfamiliar flora and fau
 
 Observing of the weave surrounding the monolith revealed the prayer was rejected. Sal insisted on making his own offering. With Enoch’s assistance, and a sharp blow to draw blood, the offering was made. The flames answered by searing Enoch's arm, leaving a deep burn. He bore the injury with composure and insisted we continue. 
 
-Prior to departure, I cleansed the monolith with a simple spell. An image emerged, etched deep into the stone. Enoch explained it represented a god and its herald: Kosef, the volcano itself, and the celestial that rises from its depths. The figure’s face was masked, wings flared wide, twin blades drawn. The likeness to Xalithea, the Forever Blade, was unmistakable. I observed it carefully, considering its implications.
+Prior to departure, I cleansed the monolith with a simple spell. An image emerged, etched deep into the stone. Enoch explained it was a god and its herald: Kossuf, the Firelord, and Xakkor, he who sleeps in fire. The volcano was named Vorrukai. The figure’s face was masked, wings flared wide, twin blades drawn. The likeness to Xalithea, the Forever Blade, was unmistakable. I observed it carefully, considering its implications.
 
 We pressed onward, intent on finding a secure campsite for the night.
 
