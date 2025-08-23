@@ -3,7 +3,6 @@
 Notes To Do:
 
 PEOPLE & CHARACTERS 
-- Yedan-Neric
 - Sal Brentwood 
 	- Lessa Brentwood (?) 
 - Enoc
