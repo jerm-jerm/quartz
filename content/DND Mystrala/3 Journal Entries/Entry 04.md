@@ -3,7 +3,7 @@ date: 2025-07-13
 tags: 
 - summary
 ---
-[[Entry 03||← Previous Entry]] <span style="float: right;">[[Entry 05|Next Entry →]]</span>
+[[Entry 03|← Previous Entry]] <span style="float: right;">[[Entry 05|Next Entry →]]</span>
 <div style="text-align: left; font-size: 1.25em;"><em>314Fi.2Q.68</em></div>
 
 The sun set as we escorted Vern Powell to the Shardlight ordinate precinct. He warned us that time was running out for Bishop [[Theodore Calvers]]. We attempted to formulate a plan, but fatigue dulled our collective sharpness; it has been three long, unrelenting days. Moreover, [[Yedan-Neric]] has grown progressively more withdrawn and physically unwell over the days. Since none of us were familiar with the precinct or their defenses, I offered the best improvisation I could devise under the constraints, but I needed more time or more information. Preferably both. 
@@ -43,8 +43,8 @@ Only purity remains.
 ### Recap Video
 https://youtu.be/jxAU8bzi44A?si=WTc6cw__EL32Sa5S
 
-If video is not available below, click link above to watch on YouTube directly
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jxAU8bzi44A?si=uZoLULuu_CWygo75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[[Entry 03||← Previous Entry]] <span style="float: right;">[[Entry 05|Next Entry →]]</span>
+*"Welcome back, old friend... It took far longer than expected, but I believe we have won our freedom."*
+
+[[Entry 03|← Previous Entry]] <span style="float: right;">[[Entry 05|Next Entry →]]</span>

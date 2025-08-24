@@ -40,8 +40,8 @@ We will rest as we continue now to the Sanctiforge.
 ### Recap Video
 https://youtu.be/_rLNgvOfxnM?si=svPQIbV5Q9iBP8f_
 
-If video is not available below, click link above to watch on YouTube directly
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_rLNgvOfxnM?si=ua-J0-gx6Pz8eNe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*"It ain't so bad out here... Founder above, these bloody hands won't stop shakin'."*
 
 <span style="float: right;">[[Entry 02|Next entry →]]</span>

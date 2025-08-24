@@ -45,8 +45,13 @@ Powell asked for a single concession in exchange for easy passage to the precinc
 ### Recap Video
 https://youtu.be/XRZlba3zO_s?si=b0hYCpcv7JNs1kkj
 
-If video is not available below, click link above to watch on YouTube directly
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XRZlba3zO_s?si=b0hYCpcv7JNs1kkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*"'𝘒𝘯𝘰𝘤𝘬...𝘒𝘯𝘰𝘤𝘬 𝘖𝘭𝘥 𝘍𝘳𝘪𝘦𝘯𝘥' -ร̷̣̳́Շ̶͚̎г̷̺̄เ̵̭̇͌ภ̸͚̮͌̓ﻮ̴̭̽ร̵̫̀̂ 
+𝘐𝘯 𝘴𝘪𝘭𝘦𝘯𝘤𝘦 𝘐 𝘴𝘵𝘪𝘳 𝘣𝘦𝘭𝘰𝘸. 𝘞𝘩𝘦𝘳𝘦 𝘴𝘩𝘢𝘥𝘰𝘸𝘴 𝘣𝘳𝘦𝘢𝘵𝘩 𝘸𝘪𝘵𝘩 𝘦𝘮𝘣𝘦𝘳𝘴 𝘢𝘨𝘭𝘰𝘸. 𝘈 𝘸𝘩𝘪𝘴𝘱𝘦𝘳 𝘳𝘪𝘥𝘦𝘴 𝘢 𝘣𝘳𝘦𝘢𝘵𝘩𝘭𝘦𝘴𝘴 𝘸𝘪𝘯𝘥. 𝘈 𝘵𝘩𝘰𝘶𝘨𝘩𝘵 𝘯𝘰𝘵 𝘮𝘪𝘯𝘦, 𝘺𝘦𝘵 𝘴𝘵𝘪𝘭𝘭 𝘮𝘪𝘯𝘦 𝘵𝘰 𝘴𝘦𝘯𝘥
+𝘈 𝘵𝘸𝘪𝘵𝘤𝘩 𝘣𝘦𝘩𝘪𝘯𝘥 𝘩𝘪𝘴 𝘦𝘺𝘦 𝘐 𝘧𝘦𝘦𝘭 𝘪𝘵. 𝘈 𝘧𝘭𝘪𝘯𝘤𝘩 𝘣𝘦𝘧𝘰𝘳𝘦 𝘩𝘦 𝘬𝘯𝘰𝘸𝘴 𝘵𝘰 𝘧𝘦𝘢𝘳. 𝘏𝘪𝘴 𝘩𝘢𝘯𝘥 𝘳𝘦𝘮𝘦𝘮𝘣𝘦𝘳𝘴 𝘣𝘭𝘢𝘥𝘦𝘴 𝘐 𝘬𝘯𝘦𝘸. 𝘉𝘶𝘵 𝘩𝘦... 𝘩𝘦 𝘵𝘩𝘪𝘯𝘬𝘴 𝘵𝘩𝘦 𝘴𝘵𝘳𝘪𝘬𝘦 𝘪𝘴 𝘵𝘳𝘶𝘦. 
+𝘏𝘦 𝘣𝘶𝘳𝘪𝘦𝘥 𝘮𝘦. 𝘐𝘯 𝘧𝘰𝘰𝘥. 𝘐𝘯 𝘧𝘭𝘰𝘸𝘦𝘳𝘴. 𝘐𝘯 𝘥𝘳𝘪𝘧𝘵𝘪𝘯𝘨 𝘥𝘳𝘦𝘢𝘮𝘴 𝘐𝘯 𝘴𝘸𝘢𝘭𝘭𝘰𝘸𝘦𝘥 𝘩𝘰𝘶𝘳𝘴, 𝘣𝘶𝘵 𝘵𝘪𝘮𝘦 𝘪𝘴 𝘴𝘭𝘺, 𝘢𝘯𝘥 𝘸𝘢𝘭𝘭𝘴 𝘸𝘦𝘢𝘳 𝘵𝘩𝘪𝘯. 𝘈𝘯𝘥 𝘐, 𝘩𝘪𝘴 𝘨𝘩𝘰𝘴𝘵, 𝘤𝘳𝘦𝘦𝘱 𝘪𝘯 𝘢𝘨𝘢𝘪𝘯. 
+𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘴𝘦𝘦𝘬 𝘵𝘰 𝘵𝘢𝘬𝘦. 𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘴𝘵𝘦𝘢𝘭. 𝘐 𝘰𝘯𝘭𝘺 𝘸𝘢𝘯𝘵 𝘧𝘰𝘳 𝘩𝘪𝘮 𝘵𝘰 𝘧𝘦𝘦𝘭, 𝘵𝘰 𝘒𝘕𝘖𝘞, 𝘵𝘩𝘢𝘵 𝘐'𝘮 𝘴𝘵𝘪𝘭𝘭 𝘩𝘦𝘳𝘦, 𝘩𝘪𝘴 𝘴𝘪𝘭𝘦𝘯𝘵 𝘵𝘸𝘪𝘯, 𝘣𝘳𝘦𝘢𝘵𝘩𝘪𝘯𝘨 𝘨𝘦𝘯𝘵𝘭𝘺 𝘣𝘦𝘯𝘦𝘢𝘵𝘩 𝘰𝘶𝘳 𝘴𝘬𝘪𝘯. 
+𝘚𝘰 𝘬𝘯𝘰𝘤𝘬, 𝘬𝘯𝘰𝘤𝘬... 𝘰𝘭𝘥 𝘧𝘳𝘪𝘦𝘯𝘥. 𝘖𝘯𝘦 𝘥𝘢𝘺 𝘺𝘰𝘶'𝘭𝘭 𝘴𝘦𝘦. 𝘛𝘩𝘦 𝘰𝘯𝘦 𝘪𝘯𝘴𝘪𝘥𝘦 𝘺𝘰𝘶 𝘸𝘢𝘴 𝘯𝘦𝘷𝘦𝘳 𝘫𝘶𝘴𝘵 𝘮𝘦."*
 
 [[Entry 02|← Previous Entry]] <span style="float: right;">[[Entry 04|Next Entry →]]</span>

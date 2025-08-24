@@ -47,9 +47,9 @@ Certainly not the work I was raised for, but it is the work I must rise to.
 ### Recap Video
 https://youtu.be/mgrh-fdktfU?si=T_-PFuTtJeVah1ZV
 
-If video is not available below, click link above to watch on YouTube directly
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mgrh-fdktfU?si=HkvZiQq_1K0zW1Qd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*"A swift hand, and a swifter mouth Right useful that is Unless it earns you a night locked up Glad I got that pretty flask back 'S a good flask"*
 
 [[Entry 01|← Previous Entry]] <span style="float: right;">[[Entry 03|Next Entry →]]</span>
 

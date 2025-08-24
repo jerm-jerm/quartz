@@ -13,8 +13,10 @@ tags:
 > Major Political Figures | - |
 > Peoples | Ashborne |
 
-## Impression
+## Notable Locations
+> [!info]+ Districts  
 
+## Impression
 
 ## NOTE (Editorial Addenda)
 
@@ -42,7 +44,6 @@ tags:
 > [!info]+ Districts  
 
 ## Impression
-
 
 ## NOTE (Editorial Addenda)
 

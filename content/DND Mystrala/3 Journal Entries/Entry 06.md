@@ -45,10 +45,9 @@ I failed. I was starting to like him.
 ### Recap Video
 https://youtu.be/lQnW3UyQSuE?si=snKwp3KW3BdgPwAV
 
-If video is not available below, click link above to watch on YouTube directly
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lQnW3UyQSuE?si=snKwp3KW3BdgPwAV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[[Entry 05|← Previous Entry]] <span style="float: right;">[[Entry 07|Next Entry →]]</span>
+"*Too long ago I selfishly fled from our world Leaving you all to your fates. Uncertain and unconcerned. Now, once more, I find myself fleeing from this world 
+With the selfish desire that I will meet you all again. May the Founder burn in all he has raught.*"
 
-![[The Oracle.png]]
+[[Entry 05|← Previous Entry]] <span style="float: right;">[[Entry 07|Next Entry →]]</span>
