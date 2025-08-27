@@ -33,3 +33,5 @@ Ashborne, from Embermaw, needs someone who speaks the tongue. We are after one o
 Wears a mask, marks it with losses. Trades mask on a win. Not allowed to wield weapons yet.
 
 Looking Ashborne in the eye means a duel.
+
+Enoch a citizen of the Agati Ashborne, not very esteemed. its a certain tribe. 

@@ -27,6 +27,7 @@ tags:
 - Illegal alchemist shop 
 - Niece Lessa was listed as a dissident and taken, has not been seen again
 - Sal has been supporting her two children himself
+- runs business back home called Sal's Salves
 
 ## NOTE (Editorial Addenda)
 

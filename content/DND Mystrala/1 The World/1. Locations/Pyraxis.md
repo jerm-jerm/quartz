@@ -14,7 +14,8 @@ tags:
 > Peoples | Ashborne |
 
 ## Notable Locations
-> [!info]+ Districts  
+> [!info]+ Districts
+> - Dathar Encampment  
 
 ## Impression
 
