@@ -28,7 +28,7 @@ We will rest as we continue now to the Sanctiforge.
 
 ### People
 - Horus - Ledgerman operative. Oversees our assignments
-- Marrion - Ledgerman operative. Magical and combat capabilities
+- Marrion - Magical and combat capabilities
 - Stevan Logerath - Poet from The Sanctiforge
 - Father Hendricks - Hostile. Led attack on train. Magical capacity unknown. May still live. 
 

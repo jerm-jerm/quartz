@@ -19,6 +19,7 @@
 - [[Oni]]
 - [[Ironsoul]]
 ## History
+There was a known FETC operation against [[Hangul Dynasty|Hangul]] gnomes within the Delmire Desert. Timing/year unclear.
 
 ## Other General Notes
 

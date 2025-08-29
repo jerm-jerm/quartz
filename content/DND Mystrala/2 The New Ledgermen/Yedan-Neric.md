@@ -21,6 +21,7 @@ tags:
 > Class | Phantom Rouge |
 > Alias(es) | Neri |
 > Known Family |  |
+> Status | Desceased| 
  
 
 ## Impression
