@@ -35,7 +35,9 @@ I believe she is waiting to see what shape this new group will take. She does no
 There is iron in her. She stood before the Steel Covenant magistrate and lied cleanly, without hesitation, to shield us. But when the pressure breaks past her composure, she doesn’t bend, she shatters. The outbursts are sudden, sharp, and raw. It’s unsettling. Like seeing a weapon misfire.
 
 ## Known Record
-Exhibits high-level clearance and operational autonomy and is a direct line to [[High Regent Quaid|Quaid]], High Regent of Spycraft. She delivered our assignment regarding the [[Mindflayer Abberations|mindflayer]] phenomenon and the unrest in the Shardlight District. Additionally, she requested we save [[Theodore Calvers]] on his disappearance.
+Exhibits high-level clearance and operational autonomy and is a direct line to [[High Regent Quaid|Quaid]], High Regent of Spycraft. Marrion is also a steward of [[The Oracle]] itself. The machine dates back centuries to the Founder, but much of its holy machinery has fallen into neglect. Its function and upkeep are part of her charge, and it is her responsibility to report on its state directly to Quaid.
+
+She delivered our assignment regarding the [[Mindflayer Abberations|mindflayer]] phenomenon and the unrest in the Shardlight District. Additionally, she requested we save [[Theodore Calvers]] on his disappearance.
 
 I have observed her inquiry into a subject labeled _Permutational Dissidence_.
 
