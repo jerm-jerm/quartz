@@ -20,7 +20,7 @@ tags:
 > - Vellhum Heights
 
 ## Impression
-Faith is built into the very walls of The Santiforge. It permeates every breath, every footstep, every interaction. Belief in the Founder is palpable, present in word, symbol, and deed. The poorest here scrub stone with reverence. The rich give everything they have. It is not performative. It is expected.
+Faith is built into the very walls of The Sanctiforge. It permeates every breath, every footstep, every interaction. Belief in the Founder is palpable, present in word, symbol, and deed. The poorest here scrub stone with reverence. The rich give everything they have. It is not performative. It is expected.
 
 Each district is overseen by a Bishop. Some are scholars, some preachers, others administrators. Their authority is spiritual and bureaucratic in equal measure.
 

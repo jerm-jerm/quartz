@@ -30,8 +30,8 @@ This particular documentation, concerning Katharis herself, was not written as a
 Luminora Katharis is the firstborn daughter of House Katharis, a military-aligned lineage known for producing Bladedancers within the city-state of [[Conscriptus]]. She was trained from childhood under imperial doctrine, with particular emphasis on magical excellence, swordsmanship, and discipline, qualities she has embodied with notable rigor. Records indicate she was a top contender in her cohort during the Conscriptus War Games and was earmarked for high placement within the Black Armada prior to reassignment.
 
 ## Known Record
-Was deployed under classified orders related to the Oracle Initiative and the Ledgermen directive.
+Was deployed under classified orders related to [[The Oracle]] Initiative and the Ledgermen directive.
 
-While battling mindflayers in the Sanctiforge, she underwent a partial transformation into a celestial form. This was likely secondary to her lineage from Xalithea, as similar manifestations have been documented in other Conscriptus Houses. n her notes, Luminora offered only a brief description of the event itself, but did mention her loss of control, treating the episode less as revelation than as an error of discipline.
+While battling mindflayers in [[The Sanctiforge]], she underwent a partial transformation into a celestial form. This was likely secondary to her lineage from Xalithea, as similar manifestations have been documented in other Conscriptus Houses. n her notes, Luminora offered only a brief description of the event itself, but did mention her loss of control, treating the episode less as revelation than as an error of discipline.
 
  Overall, her performance to this point is characterized as reliable.
