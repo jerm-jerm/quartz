@@ -10,9 +10,9 @@ Plio tends to see the good in everyone. Her joy and optimism are unwavering, tho
 
 ## **Corvin Valantis**
 
-Previously a member of a noble house of [[Conscriptus]], Corvin Valantis was dishonorably discharged and exiled to Cindralis. Tall, grim, and sardonic. Corvin appears to take pleasure in creating small moments of chaos wherever he can. 
+Previously a member of a noble house of [[Conscriptus]], Corven Valantis was dishonorably discharged and exiled to Cindralis. Tall, grim, and sardonic. Corven appears to take pleasure in creating small moments of chaos wherever he can. 
 
-When faced with the inevitability of his own eventual execution in the Pyre, as is the norm in Cindralis, Corvin showed little hesitation in joining the resistance.
+When faced with the inevitability of his own eventual execution in the Pyre, as is the norm in Cindralis, Corven showed little hesitation in joining the resistance.
 
 ---
 
