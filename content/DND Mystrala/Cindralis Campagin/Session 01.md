@@ -10,4 +10,4 @@ The task proved brutal. Many gave up before the cart moved more than a few feet.
 
 They were assigned to a housing unit to rest before their next trial. That night, Haru was approached by an elven woman named Silvara, who asked him to meet in underground tunnels. There, she revealed an opportunity: a network working to help people escape Cindralis.
 
-For each of their own reasonings, they agreed to help and were provided with new living quarters and access to supplies for their first mission.
+For each of their own reasoning, they agreed to help and were provided with new living quarters and access to supplies for their first mission.
