@@ -19,19 +19,17 @@ tags:
 > ---|---|
 > Class | Blandedancer Wizard |
 > Alias(es) |  |
-> Known Family | Admiral Katharis |
+> Known Family | Admiral Katharis, Vaelin Katharis, Celeste Katharis |
 
 
 ## NOTE (Editorial Addenda)
-As with all journal entries written by Luminora Katharis, readers should remain aware of her potential biases, particularly her reluctance to document herself directly, and her upbringing within House Katharis of Conscriptus. Though her writing exhibits a disciplined restraint and self-awareness, it is still the perspective of a trained heir of one of the Five Conscriptus Houses. Her entries reflect this foundation: astute, but often emotionally opaque.
+As with all journal entries attributed to Luminora Katharis, her perspective should be considered with caution. She was raised as the heir of House Katharis of Conscriptus and trained from childhood under imperial doctrine. Her writing reflects that foundation: disciplined, incisive, and deliberately restrained. She seldom documents herself directly, and when she does, her tone is marked more by precision than disclosure, astute, but often emotionally opaque.
 
-This particular documentation, concerning Katharis herself, was not written as a formal account but reconstructed from Luminora’s daily entries and mission annotations. Where omissions or implicit assumptions exist, they have been supplemented by second- and third-hand records.
-
-Luminora Katharis is the firstborn daughter of House Katharis, a military-aligned lineage known for producing Bladedancers within the city-state of [[Conscriptus]]. She was trained from childhood under imperial doctrine, with particular emphasis on magical excellence, swordsmanship, and discipline, qualities she has embodied with notable rigor. Records indicate she was a top contender in her cohort during the Conscriptus War Games and was earmarked for high placement within the Black Armada prior to reassignment.
+This record concerning Katharis herself has been reconstructed from her daily entries and mission annotations, supplemented where necessary with second- and third-hand sources. Notably, in Entry 10 she allowed an unusual degree of emotion to surface, grieving the loss of her bond with her Swornblade, Vaelin Katharis. The Swornblade system, practiced among the Houses of Xalithea, binds a female heir to a male protector,often a close relative, tasked with shielding her as she leads the house.
 
 ## Known Record
-Was deployed under classified orders related to [[The Oracle]] Initiative and the Ledgermen directive.
-
-While battling mindflayers in [[The Sanctiforge]], she underwent a partial transformation into a celestial form. This was likely secondary to her lineage from Xalithea, as similar manifestations have been documented in other Conscriptus Houses. n her notes, Luminora offered only a brief description of the event itself, but did mention her loss of control, treating the episode less as revelation than as an error of discipline.
-
- Overall, her performance to this point is characterized as reliable.
+- She was a top contender in her cohort during the Conscriptus War Games and was earmarked for high placement within the Black Armada prior to reassignment.
+- Deployed under classified orders related to [[The Oracle]] Initiative and the Ledgermen directive.
+- While battling mind flayers in [[The Sanctiforge]], underwent a partial transformation into a celestial form, likely secondary to her lineage from Xalithea. In her notes she described the event briefly, framing it less as revelation than as a lapse in discipline.
+- Assigned by Horatio to the Embermaw to assess the fate of Block 233 and recover their remains if possible.
+- Overall, her performance to this point is characterized as reliable.

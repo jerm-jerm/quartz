@@ -30,11 +30,14 @@ When Charles returned, he was ready to move on. His demeanor changed, his bearin
 - Syreal
 
 ### Current Places 
-
+- The Embermaw
+	- Dathar/Verani Encampment
 
 ### Recap Video
-Insert Link Here
+https://youtu.be/2764pJb7sRs?si=d4M8WWCOdVs9XsDx
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2764pJb7sRs?si=fmS2xx-PwUbcHDW-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Entry 08|← Previous Entry]] <span style="float: right;">[[Entry 10|Next Entry →]]</span>

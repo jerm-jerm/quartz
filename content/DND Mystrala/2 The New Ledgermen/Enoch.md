@@ -25,7 +25,7 @@ Enoch is Ashborne, a culture I admit to know little about. He wears a mask marke
 
 ![[IconMonk.png]]
 ## Known Record
-He was assigned to Block 252 for our second mission, a foray into the [[Pyraxis|Embermaw]]. His function is to provide assistance with the environment and translation with the locals. He has been “borrowed” from the Covenant for this purpose. By his own account, he is not highly regarded within his Agati Ashborne tribe.
+He was assigned to Block 252 for our second mission, a foray into the [[Pyraxis|Embermaw]]. His function is to provide assistance with the environment and translation with the locals. He has been “borrowed” from the Covenant for this purpose. By his own account, he is not highly regarded within his Agati Ashborne tribe, in fact exiled.
 
 ## NOTE (Editorial Addenda)
 Although [[Luminora Katharis|Luminora]] documents that he was “borrowed,” the arrangement was in fact, coercive. The Covenant threatened to execute ten of his people unless he complied, allowing the Enforcer he injured to select the victims. They also promised the release of ten of his kin from Site 9 should he serve. Despite the controlled exterior documented by Katharis, Empire records documented a volatile temper within Enoch.

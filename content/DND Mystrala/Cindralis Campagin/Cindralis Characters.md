@@ -23,3 +23,5 @@ Quiet and watchful, Haru carries his past on his skin in the form of countless s
 In trials, Haru’s determination and strength was unquestionable. Though he offers few words, his presence carries weight.
 
 ---
+
+## **Joe**

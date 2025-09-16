@@ -15,7 +15,7 @@ tags:
 
 ## Notable Locations
 > [!info]+ Districts
-> - Dathar Encampment  
+> - Dathar/Verani Encampment
 
 ## Impression
 
