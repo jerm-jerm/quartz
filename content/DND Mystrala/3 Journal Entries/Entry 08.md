@@ -32,11 +32,7 @@ Prior to departure, I cleansed the monolith with a spell. An image was etched de
 
 We pressed onward, intent on finding a secure campsite for the night.
 
-### People
-- [[Horatio]]
-- Nestra
-
-### Current Places 
+### Current Location 
 - Logistica
 	- Blackspire (Ledgermen Headquarters)
 - The Embermaw

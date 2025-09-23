@@ -35,10 +35,7 @@ Powell asked for a single concession in exchange for easy passage to the precinc
 
 [[The Sanctiforge]] masks itself in tranquility and piety, but beneath it I have seen only rot, lies, and deceit. Conscriptus may be brutal, but at least it never pretends. Nothing here is honest. Nothing here is still.
 
-###  People
-- Vern Powell
-
-### Current Places 
+### Current Location 
 - [[The Sanctiforge]]
 	- Vellum Heights
 

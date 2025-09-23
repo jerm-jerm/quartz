@@ -36,11 +36,8 @@ We fought to kill the abominations attached to him. One fell, but the second mov
 
 I failed. I was starting to like him.
 
-###  People
-- [[The Oracle]]
-
-### Current Places 
-
+### Current Location 
+- [[The Sanctiforge]]
 
 ### Recap Video
 https://youtu.be/lQnW3UyQSuE?si=snKwp3KW3BdgPwAV

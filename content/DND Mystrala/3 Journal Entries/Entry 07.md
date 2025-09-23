@@ -27,10 +27,7 @@ I control my mind. No distraction will fracture my focus.
 I control my actions. As drilled into me since childhood, I do not permit touch to breach my guard. I have been Pruned for such lapses in the heat of battle. To have allowed this unbidden closeness, and to desire it, is an error without justification.
 Perfection or death. There is no third path.
 
-###  People
-
-
-### Current Places 
+### Current Location 
 - [[The Sanctiforge]]
 	- The Shardlight District
 	- Vellum Heights

@@ -1,12 +1,12 @@
 ---
-date: 2025-08-15
+date: 2025-09-15
 tags: 
 - summary
 ---
 [[Entry 09|← Previous Entry]] <span style="float: right;">[[Entry 10|Next Entry →]]</span>
 <div style="text-align: left; font-size: 1.25em;"><em>314Fi.2Q.75</em></div>
 
-We departed the Verani encampment, moving north on the available intelligence. Markings in the ash indicate a Blackwater Armada skyship. This is anomalous, I know of no exercises or deployments in [[Pyraxis|The Embermaw]] and confiscation of a ship would require significant resources and connections. 
+We departed the Veyari encampment, moving north on the available intelligence. Markings in the ash indicate a Blackwater Armada skyship. This is anomalous, I know of no exercises or deployments in [[Pyraxis|The Embermaw]] and confiscation of a ship would require significant resources and connections. 
 
 I stopped to further review the file on Block 233. Fischer Valantis functions as the effective commander. His record includes honorable discharge from the Blackwater Armada. He is rumored to wield a corrupted relic once belonging to a [[Delmiri Desert|Delmiri]] blade priest. He is known for inspiring an unusually high degree of loyalty among his cohort and shining quite brightly for a [[Conscriptus|Xalithaen]] son.
 
@@ -32,10 +32,7 @@ When the fight concluded, Enoch was near collapse, [[Sal Brentwood|Sal]] only ju
 
 The name of Fischer Valantis, and the feel of lightning running through me, draw my thoughts to Vaelin. The Ledgermen took much from me, but nothing greater than him. He was sworn to stand at my side, to shield me as I led our house. I still catch myself looking for him. My Swornblade, a loss I cannot set down.
 
-### New People
-
-
-### Current Places 
+### Current Location
 - The Embermaw
 
 ### Recap Video

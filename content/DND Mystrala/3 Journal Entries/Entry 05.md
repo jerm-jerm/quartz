@@ -42,12 +42,9 @@ It claimed allegiance to the Founder’s vision. Claimed that our fates are inte
 
 Nothing is clear. What it wants, what it offers, what it threatens. I need clarity. So I follow Mazarin and Charles deeper, because there is no safety and certainly no perfection, in ignorance.
 
-###  People
-- The Oracle
-
-### Current Places 
+### Current Location 
 - [[The Sanctiforge]]
-	- - Temple of Aqua Vitae
+	- Temple of Aqua Vitae
 
 ### Recap Video
 https://youtu.be/YF3U-Hqcuhw?si=mOAyHeyA5dCV-Bca

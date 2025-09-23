@@ -10,7 +10,7 @@ We set up camp at a defensible site. During [[Mazarin|Mazarin's]] watch she note
 
 At dawn we continued onward, but movement above the ash line drew our attention. Metallic dragons, iron and steel were locked in violent contest. A steel dragon descended and assumed a humanoid form: a middle-aged man, hair of salt and pepper, dressed in Ashborne linens. Unarmed, though his form alone carried power beyond any weapon. He instructed us to follow, an order which required little deliberation.
 
-He led us into the [[Pyraxis|Dathar encampment]]. The Ashborne there regarded us with a mixture of caution and unease. They bore weapons of bone and ivory. A single child broke the stillness. Her face lit with sudden recognition, and she pointed with unrestrained delight at [[Charles Brand]], calling him _“Vorrukai."_
+He led us into the [[Pyraxis|Veyari encampment]]. The Ashborne there regarded us with a mixture of caution and unease. They bore weapons of bone and ivory. A single child broke the stillness. Her face lit with sudden recognition, and she pointed with unrestrained delight at [[Charles Brand]], calling him _“Vorrukai."_
 
 We were brought before their leader, Syrael, bearer of a steel covenant sword. Her reaction to Charles was striking: surprise, then joy. She embraced him, openly wept, then after further conversation withdrew, her demeanor shifting to coldness edged with hurt.
 
@@ -26,12 +26,9 @@ Mazarin and I spoke in private. I learned that, like myself, her training began 
 
 When Charles returned, he was ready to move on. His demeanor changed, his bearing tighter, words fewer. None of us pressed further. Departure was preferable.
 
-### People
-- Syreal
-
-### Current Places 
+### Current Location 
 - The Embermaw
-	- Dathar/Verani Encampment
+	- Veyari Encampment
 
 ### Recap Video
 https://youtu.be/2764pJb7sRs?si=d4M8WWCOdVs9XsDx

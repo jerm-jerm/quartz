@@ -34,7 +34,7 @@ We will rest as we continue now to the Sanctiforge.
 
 - *Kallow - Halfling acting abnormally. Travelling to healer.*
 
-### Current  Places 
+### Current  Location 
 - The Pale Waste
 
 ### Recap Video

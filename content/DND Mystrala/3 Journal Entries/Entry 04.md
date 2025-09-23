@@ -32,10 +32,7 @@ Tonight, I run my sword forms, not in preparation, but as reflection. I shift my
 
 Only purity remains.
 
-###  People
-
-
-### Current Places 
+### Current Location 
 - [[The Sanctiforge]]
 	- The Shardlight District
 	- Vellum Heights

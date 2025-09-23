@@ -40,7 +40,7 @@ Certainly not the work I was raised for, but it is the work I must rise to.
 - Elrey Solian - Met on the train into the Sanctiforge. Widow of Jeffery Solian, can write to her at Sitwell Corp to update her on the investigation.
 - Thassen Elvire - District Bishop
 
-### Current Places 
+### Current Location 
 - The Sanctiforge
 	- The Shardlight District
 
