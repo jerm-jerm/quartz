@@ -28,7 +28,7 @@ Further inspection within the structure by Mazarin yielded spent casings inscrib
 
 She associated the work with [[The Sixth House]] and theoretical psychometry practices, although noted psychometry was more often used to read magic items, not imbue them with memories. 
 
-Hearing of psychometry recalled [[Yedan-Neric|Yedan Neric's]] connection to the spellbook of Alexi Faraday. I further inspected the pocket watch Yedan had dropped upon his death. It spoke to me and surprisingly contained his soul. He claimed the woman pictures, Samita, assured him it would provide protection. He cautioned me not to trust Mazarin and urged inquiry into “Project Reverent.” I told him we would attempt to return the watch to his kin, but sentiment remains secondary to the current mission.
+Hearing of psychometry recalled [[Yedan-Neric|Yedan Neric's]] connection to the spellbook of [[Alexi Faraday]]. I further inspected the pocket watch Yedan had dropped upon his death. It spoke to me and surprisingly contained his soul. He claimed the woman pictures, Samita, assured him it would provide protection. He cautioned me not to trust Mazarin and urged inquiry into “Project Reverent.” I told him we would attempt to return the watch to his kin, but sentiment remains secondary to the current mission.
 
 The next morning, Serreaux confronted us alongside a dragon. He ordered Block 252 to retreat, demanding I remain to face Fischer Valantis alone, who, he claimed, had “use” for me. I refused to abandon my Block. Combat followed. After an extended exchange, both the dragon and Serreaux fell. Sal was incapacitated and revived; Enoch and I endured significant injuries, but the field was ours.
 

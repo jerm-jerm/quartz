@@ -1,7 +1,3 @@
-Charles: Find your friends. Bring them back dead or alive. Not us kill them. But if they're dead, do you want their bodies or something or want us to bury them or something?
-Horatio: Bring back whatever you can find. There's going to be more information in the reports
-
-
 In Character To Do:
 - Use detect magic to see if Marrion has magic similar to Mazarin or if mental changes similar to Charles (not from the empire but maybe from something else)
 - Who is Samita in conenction to Yedan-Neric
