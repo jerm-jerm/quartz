@@ -18,7 +18,7 @@ During combat, I experienced interference with the Ledgermen sigils originally g
 
 Alongside Enoch, I worked to disable those who penetrated our radius. However, the auditory manifestations persisted and intensified. Five voices soon harmonized: the Matriarchs. Katharis, Lysandra, Maelthrumm, Vorynth, and even Valantis. They were chanting, channeling spell energy toward my position with calculated precision. The language and cadence implying the opening of a gate. 
 
-Whether this gate is an escape or an arrival, I can only assume my mother would not go to such lengths to see me dead. I believe my utility still outweighs my cost. I must live long enough to face the Matriarchs standing and prove I am worth keeping.
+Whether this gate leads to escape or an arrival, I can only assume my mother would not go to such lengths to see me dead. My utility outweighs my cost; I must live long enough to face the Matriarchs and prove it.
 
 ### Current Location 
 - The Embermaw
