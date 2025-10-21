@@ -12,7 +12,7 @@ Sal and Enoch tended his wounds, working steadily until he slipped into unconsci
 
 At dawn, he stirred. His gaze lingered on me for too long, almost reverent. He spoke of the last mission of Block 233, dispatched to the Founder’s vault to dismantle its defenses. He showed me, in a vision, the chrysalis that housed the Founder: a shell of celestial alloy entwined with clockwork. When the constructs guarding it awoke, they tore through his chest.
 
-From that mission they learned too much. The Founder, he said, was no deity enthroned but a prisoner of his own design. The Directorate had hollowed the FETC from within. The Manuals of Ascension for over 200 Fiscals were filled with contradiction and the people have been forsaken.
+From that mission they learned too much. He claimed the Founder was not a deity enthroned, but a prisoner of his own creation. The Directorate has hollowed the FETC from within. The Manuals of Ascension for over 200 Fiscals were filled with contradiction and the people have been forsaken.
 
 Valantis and his followers now suggest the binding the Empire beneath Xalithea’s banner instead. Serraux spoke her name as one born in Conscriptus, laced with devotion. He pressed into my hand the token that had shown me his vision. 
 
@@ -20,7 +20,7 @@ When Enoch asked of the Agati alliance, Serraux told him that under a new reign,
 
 We left Serraux within the shelter and proceeded north. The heat was oppressive, and our rations were rapidly depleting. I needed time to prepare a spell for water when Sal, after long bouts of rambling, suddenly remembered the artifact he carried which produced water endlessly. FAlthough grateful, I must note that forgetfulness is a liability that endangers us all.
 
-After a day of traveling, we rested beneath the fossilized bones of an immense dragon, its ribcage arched like a coliseum entrance. Poppies grew around it. Sal harvested these Firelash blooms, and I assisted. It felt grounding to work an old skill.
+After a day of traveling, we rested beneath the fossilized remains of a massive dragon. Sal harvested Firelash blooms; I assisted. The repetition of an old technique was stabilizing.
 
 In the morning we pressed on, passing the wreck of a Netherese skyship, _The Empyrean Weave._ Its hull bore claw marks, its arcane batteries missing. Sal scavenged shards of warped glass from the sand.
 

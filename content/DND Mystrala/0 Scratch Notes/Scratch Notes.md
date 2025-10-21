@@ -18,7 +18,6 @@ Random Notes without a home:
 - create a group to make a dissidents to bring the whole thing down?
 	- wouldn't make sense as a remediation tactic since they just kill or consume dissidents
 
-Charles: He is haunted by visions of a woman with sad eyes asking him, "Then what type of man are you Charles Brand?"
 
 ![[New Ledgermen 3.png]]
 

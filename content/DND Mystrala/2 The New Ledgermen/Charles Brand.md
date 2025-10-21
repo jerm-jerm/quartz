@@ -40,3 +40,6 @@ I have found myself warming to Charles. Despite our vastly different stations in
 We discovered on our mission to find Block 233 that Charles once lived among the Ashborne, who welcomed him into their society. He married and built a life before being taken by the Empire in some manner. The Ashborne presumed him dead; his loss weighed heavily on the community. His own memory has since been realigned, and he now shows little lasting sentiment toward either the life he led or its erasure.
 
 ## NOTE (Editorial Addenda)
+
+
+Charles: He is haunted by visions of a woman with sad eyes asking him, "Then what type of man are you Charles Brand?"
