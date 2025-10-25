@@ -1,16 +1,7 @@
-Leonidas. -> Leon heads there 
+Session Three: Infiltration of the Forge of Chains
 
-trying to get us into the forge of chains to get some explosives. a lot of weapon manufacturing is done here
+Silvara assigned the group a new task: to infiltrate the Cindralis Forge of Chains, a key site of weapons manufacturing, and recover as many supplies as possible, particularly explosives. She introduced Leonidas, a new ally familiar with the forge’s layout, who would guide the operation.
 
-papers about production and materials to make weapons. a material i've never heard to make weapons
+Entry was gained through an adjacent structure, and the group proceeded to clear several rooms filled with monsters, guards, and workers. Along the way, they gathered supplies and information, learning of a rare material known as Vorrukite, used exclusively in the forging of high end weaponry. Corven seems particularly attached to ensuring access to this material was not interfered with.
 
-special bandages, pouch of ash (reagent +1 fire damage to weapons) enchanted ash, strange black grey metal chains, bag chains (chains of the oppressed)
-
-Session 04
-the overseer bunkered himself in and when the seem opened (the giant red thing in the sky). the forgemasters started running out, left them to die. most people made it out.
-
-They ate Hilly Lyset
-
-very decorated foregemaster
-
-corven finds a radiant sun necklace, potion, 
+Additional items were recovered during the mission, including enchanted bandages, a pouch of ashen powder capable of imbuing weapons with flame (+1 fire damage), and a bundle of grey metal links referred to as the _Chains of the Oppressed_.
