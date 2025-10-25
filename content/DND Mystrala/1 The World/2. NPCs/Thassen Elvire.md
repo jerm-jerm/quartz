@@ -39,8 +39,8 @@ He distributes the “Water of Life.” He gave it to a man, and we watched that
 We found Elvire, heavily armored, in the caverns beneath the Temple of Aqua Vitae, alongside [[The Oracle]]. He echoes its doctrine as gospel. When the Oracle instructed him to surrender, he did so without hesitation. Willing to offer his life in its defense and to enact its will without question, odd considering how he questioned it's will before.
 
 ## Major Appearances
-- [[Entry 02]] - first confrontation
-- [[Entry 05]] - final confrontation
+- [[Entry 02]]
+- [[Entry 05]]
 
 ## NOTE (Editorial Addenda)
 Elvire exhibits magical traits consistent with exposure to, or integration with, aberrant influence. The aura described by Agent Luminora matches reported cases of latent psionic bleed, commonly observed in victims of tadpole infection. Further investigation recommended into his personal history, naval service record, and the composition of the so-called “Water of Life.”

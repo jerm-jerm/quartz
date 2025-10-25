@@ -1,7 +1,5 @@
 In Character To Do:
 - Use detect magic to see if Marrion has magic similar to Mazarin or if mental changes similar to Charles (not from the empire but maybe from something else)
-- Who is Samita in conenction to Yedan-Neric
-	- Figure out his locket
 - WHO? is behind all of this. The Oracle? Quaid? Someone else?
 
 

@@ -33,5 +33,7 @@ From what I can gather, Yedan once took part in a rebellion against the Empire, 
 
 When we stood before [[The Oracle]], he asked after certain people but seemed dissatisfied, perhaps unsettled, by the answer he received. He refers to a shadowy presence that follows him as “Strings,” and treats it as though it were an old companion. That shadow was with him until the end. In [[The Sanctiforge]], his mind was consumed by mind flayers, and he died. We buried him according to the local customs. Among his effects was a necklace-amulet containing the face of a woman.
 
+I later discovered this necklace carried Yedan’s soul. I informed him that I would find a way to return it to his family.
+
 ## NOTE (Editorial Addenda)
 Sources indicate that “Strings” is a tangible entity bound to Yedan. A psychometrist reading [[Alexi Faraday|Prince Alexi Faraday's]] spellbook saw a similar shadow slay King and Queen Faraday, only to be banished by Alexi before it could kill him as well. Evidence suggests this was the same entity, now housed within Yedan Neric.

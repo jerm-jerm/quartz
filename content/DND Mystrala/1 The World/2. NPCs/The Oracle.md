@@ -43,6 +43,6 @@ It is not its function to select Ledgermen. That it chose us is a significant de
 The Oracle dates back hundreds of years, to the founding of the Company. Like other holy machinery of The Founder, the function, maintenance, and upkeep has fallen to the wayside. One of [[Marrion Virelle|Marrion's]] roles is to act as a steward of the Oracle, ensuring its continued operation within the Empire. She reports specifically to her superior, Spymaster Quaid, regarding its condition. Worshippers of the Oracle persist, but many among them openly denounce our Ledgermen block, 252.
 
 ## Major Appearances
-- [[Entry 05]] - confrontation
+- [[Entry 05]]
 
 ## NOTE (Editorial Addenda)

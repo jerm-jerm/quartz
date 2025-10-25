@@ -33,13 +33,12 @@ Former soldier of the 181st Infantry Division, active during the [[Delmiri Deser
 
 Demonstrates high competence in arid and natural environments; limited experience in urban settings or clandestine operations.
 
-Previously affiliated with the Steel Covenant. Records suggest he extended warnings to enemy populations (Ashborne population in [[Pyraxis|The Embermaw]]) before FETC strikes for which he underwent Class-4 memory alignment with layered remediation prior to reassignment. When asked directly, he stated he does not recall his childhood. I did not press further.
+Previously affiliated with the Steel Covenant. Records suggest he extended warnings to enemy populations (Ashborne population in [[Pyraxis|The Embermaw]]) before FETC strikes for which he underwent Class-4 memory alignment prior to reassignment. When asked directly, he stated he does not recall his childhood. I did not press further.
 
-I have found myself warming to Charles. Despite our vastly different stations in life, he has begun treating me with a steady respect I cannot ignore. Fighting side by side has a way of erasing certain distinctions, covering one another’s flanks in the press of battle is its own equalizer. He also seems to leave deliberate space for me to step forward.
+I have found myself warming to Charles. Despite our vastly different stations in life, he has begun treating me with a steady respect I cannot ignore. Covering one another’s flanks in the press of battle is its own equalizer. He also leaves deliberate space for me to step forward when necessary.
 
-We discovered on our mission to find Block 233 that Charles once lived among the Ashborne, who welcomed him into their society. He married and built a life before being taken by the Empire in some manner. The Ashborne presumed him dead; his loss weighed heavily on the community. His own memory has since been realigned, and he now shows little lasting sentiment toward either the life he led or its erasure.
+We discovered on our mission to find Block 233 that Charles once lived among the Ashborne, who welcomed him into their society. He married and built a life before being taken by the Empire in some manner. The Ashborne presumed him dead; his loss was heavy on the community. His own memory has since been realigned, and he now shows little lasting sentiment toward either the life he led or its erasure.
 
 ## NOTE (Editorial Addenda)
+Recovered memory imprints indicates a recurring intrusion phenomena centered on a female figure, described as possessing _sad eyes_ and addressing Charles with the phrase: _“Then what type of man are you, Charles Brand?”_ The identity of the woman remains unverified, though cross-references suggest a strong likelihood of correlation with Samita, his prior spouse.
 
-
-Charles: He is haunted by visions of a woman with sad eyes asking him, "Then what type of man are you Charles Brand?"

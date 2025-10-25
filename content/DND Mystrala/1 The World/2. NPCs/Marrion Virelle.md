@@ -46,10 +46,10 @@ Over a bottle of Greenbottle Reserve in her office, we talked. She commented on 
 In sharing a bottle, I accessed fragments of Marrion’s memories. She spoke to someone, identity unclear, who acknowledged her anger and her wish to harm 'them', yet reminded her she could not bring down the machine. They warned her not to end up like her parents. When I asked her, she insisted both of her parents were alive and well. In her memories, Quaid questioned her directly on the Oracle’s functionality, naming her its foremost authority. She affirmed its soundness and authorized Commencement for our Ledgerman block. 
 
 ## Major Appearances
-- [[Entry 01]] - joined us aboard the train to [[The Sanctiforge]], fought beside us against Father Hendricks and the pilgrims
-- [[Entry 02]] - assigned us to investigate the Sanctiforge’s irregularities
-- [[Entry 03]]- posted our bail, told us Calvers had vanished
-- [[Entry 07]] - 
+- [[Entry 01]]
+- [[Entry 02]]
+- [[Entry 03]]
+- [[Entry 07]]
 
 ## NOTE (Editorial Addenda)
 Records indicate Marrion Virelle has prior ties to intelligence operations concerning the Sixth House. She was overheard referencing the name _Samita_, an utterance that caused a visible reaction in Yedan, suggesting personal or operative significance.

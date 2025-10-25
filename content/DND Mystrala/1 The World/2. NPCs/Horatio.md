@@ -7,7 +7,7 @@ tags:
 
 > [!infobox]
 > # `Horatio` 
-> ![[Placeholder Image.png]]
+> ![[Horatio.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
@@ -26,14 +26,15 @@ tags:
  
 
 ## Impression
-Luminora's subjective take on who the person is to her, what they represent, how they carry themselves, and her gut read on them. How the person fits into the structure of the world, the mission, or her life.
+Pragmatic to a fault. I find his candor refreshing, if blunt. In the calculus of the Ledgermen, I am certain such realism is an asset.
 
 ## Known Record
+Former handler of Block 233 before their disappearance, currently assigned as handler to Block 252.
 
 ## Major Appearances
+- [[Entry 08]]
 
 ## NOTE (Editorial Addenda)
-This is where omniscient or retrospective information is added. Use this for lore, stats, theories, or contradictions.
 
 
-![[Horatio.png]]
+

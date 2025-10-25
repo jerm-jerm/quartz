@@ -32,4 +32,4 @@ Sal has taken it upon himself to support Lessa’s two children. Tomas was enrol
 Back home, he operated a business, _Sal’s Salves_, which he insists was the finest alchemical storefront in existence. In truth, his storefront was unsanctioned and unlicensed, thus illegal. He nevertheless seems proud of it, and speaks of it often.
 
 ## NOTE (Editorial Addenda)
-Records indicate Sal Brentwood was expelled from Arc Light University, likely due to an intentional alchemical incident, though the details remain unclear. Additionally, he has a history of delinquency in taxes, and his business was flagged for multiple other violations prior to its closure.
+Records indicate Sal Brentwood was expelled from Arc Light University, likely due to an intentional alchemical incident, though the details remain unclear. Additionally, he has a history of delinquency in taxes and his business was flagged for multiple other violations prior to its closure.

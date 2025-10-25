@@ -35,9 +35,9 @@ Assigned to chaperone our investigation in the Sanctiforge, but our presence dra
 He conducted the burial rites for [[Yedan-Neric]] and commented on how Yedan was the first face he saw during his rescue.
 
 ## Major Appearances
-- [[Entry 02]] - first meeting, assigned to direct the group around The Sanctiforge during our investigation
-- [[Entry 04]] - rescued from a prison cell before being turned into a mindflayer
-- [[Entry 07]] - chaplain for [[Yedan-Neric|Yedan's]] funeral
+- [[Entry 02]]
+- [[Entry 04]]
+- [[Entry 07]]
 
 ## NOTE (Editorial Addenda)
 Local records and casual gossip suggest Calvers may harbor romantic feelings for [[Marrion Virelle]].

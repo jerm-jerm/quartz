@@ -35,8 +35,10 @@ He does not know though. Pruning was not safety. It showed me where I end, and w
 	- Bastion of [[Fischer Valantis]]
 
 ### Recap Video
-Insert Link Here
+https://youtu.be/nbRe6QqNK64?si=GHZ2iW_EZYcMLeAm
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nbRe6QqNK64?si=GHZ2iW_EZYcMLeAm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Entry 11|← Previous Entry]] <span style="float: right;">[[Entry 13|Next Entry →]]</span>

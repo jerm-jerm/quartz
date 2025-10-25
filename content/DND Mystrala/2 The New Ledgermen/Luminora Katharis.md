@@ -28,8 +28,8 @@ As with all journal entries attributed to Luminora Katharis, her perspective sho
 This record concerning Katharis herself has been reconstructed from her daily entries and mission annotations, supplemented where necessary with second- and third-hand sources. Notably, in [[Entry 10]] she allowed an unusual degree of emotion to surface, grieving the loss of her bond with her Swornblade, Vaelin Katharis. The Swornblade system, practiced among the Houses of Xalithea, binds a female heir to a male protector, often a close relative, tasked with shielding her as she leads the house.
 
 ## Known Record
-- She was a top prospect in her cohort during the Conscriptus War Games and was earmarked for high placement within the Black Armada prior to reassignment.
-- Deployed under classified orders related to [[The Oracle]] Initiative and the Ledgermen directive.
-- While battling [[Mindflayer Abberations|mindflayers]] in [[The Sanctiforge]], underwent a partial transformation into a celestial form, likely secondary to her lineage from Xalithea. In her notes she described the event briefly, framing it less as revelation than as a lapse in discipline.
-- Assigned by [[Horatio]] to the Embermaw to assess the fate of Block 233 and recover their remains if possible.
-- Overall her performance to this point is characterized as reliable.
+She was a top prospect in her cohort during the Conscriptus War Games and was earmarked for high placement within the Black Armada prior to reassignment. Was subsequently deployed under classified orders related to [[The Oracle]] Initiative and the Ledgermen directive.
+
+While battling [[Mindflayer Abberations|mindflayers]] in [[The Sanctiforge]], underwent a partial transformation into a celestial form, likely secondary to her lineage from Xalithea. In her notes she described the event briefly, framing it less as revelation than as a lapse in discipline.
+
+Assigned by [[Horatio]] to the Embermaw to assess the fate of Block 233 and recover their remains if possible.
