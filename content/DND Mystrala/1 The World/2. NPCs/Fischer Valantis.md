@@ -8,14 +8,14 @@ tags:
 
 > [!infobox]
 > # `Fischer Valantis` 
-> ![[Placeholder Image.png]]
+> ![[Fischer Valantis.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
 > Race | Xalithean | 
 > Sex | Male | 
 > Age | |
-> Condition |  |
+> Condition | Deceased |
 > ######  Information
 > Type |  Stat |
 > ---|---|
@@ -35,5 +35,6 @@ Son of House Valantis, the foremost militaristic House of Conscriptus. He was ho
 ## Major Appearances
 - [[Entry 12]]
 - [[Entry 13]]
+- [[Entry 14]]
 
 ## NOTE (Editorial Addenda)

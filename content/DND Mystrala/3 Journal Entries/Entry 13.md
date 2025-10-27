@@ -25,9 +25,11 @@ Whether this gate leads to escape or an arrival, I can only assume my mother wou
 	- Bastion of [[Fischer Valantis]]
 
 ### Recap Video
-Insert Link Here
+https://youtu.be/ksi-jA-EuXw?si=BhJFbrPayM6e8t9C
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ksi-jA-EuXw?si=BhJFbrPayM6e8t9C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Entry 12|← Previous Entry]] <span style="float: right;">[[Entry 14|Next Entry →]]</span>
 
