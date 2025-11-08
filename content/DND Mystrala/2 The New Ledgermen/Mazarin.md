@@ -28,7 +28,8 @@ Despite this, she largely maintains a calm, composed presence. Her past is occlu
 
 ## Known Record
 Previously affiliated with the [[The Sixth House]], though her exact role is unstated. She wields a psionic variant of arcana. The energy profile resembles those of [[Thassen Elvire]] and the [[Mindflayer Abberations]]. She demonstrates stable control and a strong innate talent for mental manipulation and perception.
+
 Mazarin has explained to me that she was trained from birth for something, she would only note that it was highly classified. She expressed that her selection to the Ledgermen may have rendered that training obsolete.
 
 ## NOTE (Editorial Addenda)
-Clearance for this information restricted to the highest command levels and archivist under oath of silence. Mazarin was trained from birth within the classified Sixth House. There she was indoctrinated in the belief that their loyalty lies not with the Founder or the FETC. Their task, to be the hand that selects the next god. 
+Clearance for this information restricted to the highest command levels and archivist under oath of silence. Mazarin was trained from birth within the classified Sixth House. There she was indoctrinated in the belief that their loyalty lies not with the Founder or the FETC. Their task, to be the hand that selects the next god. Their training is the pinnacle of psionic class magic and weaponry.
