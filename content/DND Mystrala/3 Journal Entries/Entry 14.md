@@ -3,7 +3,7 @@ date: 2025-10-26
 tags: 
 - summary
 ---
-[[Entry 13||← Previous Entry]] <span style="float: right;">[[Entry15|Next Entry →]]</span>
+[[Entry 13|← Previous Entry]] <span style="float: right;">[[Entry15|Next Entry →]]</span>
 <div style="text-align: left; font-size: 1.25em;"><em>314Fi.2Q.78</em></div>
 
 The enemy came in waves. Even as the tent was riddled with bullets and flooded with advancing troops, we found a rhythm.
