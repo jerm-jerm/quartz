@@ -1,8 +1,7 @@
 ---
 aliases: 
 tags:
-  - Player
-  - Character
+  - Player Character
   - Deceased
 ---
 > [!infobox]

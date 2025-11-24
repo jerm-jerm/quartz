@@ -1,7 +1,6 @@
 ---
 aliases: 
-- The Forever Blade
-- Prophet Xalithea
+- Freya
 tags: 
 - NPC
 ---
@@ -9,19 +8,19 @@ tags:
 
 
 > [!infobox]
-> # `Xalithea` 
-> ![[Screenshot 2025-11-16 060431.png]]
+> # `Freya Maelthrumm` 
+> ![[Placeholder Image.png]]
 > ###### Bio
 > Type |  Stat |
 > ---|---|
-> Race | [[The Scourge\|Scourge Angel]] | 
-> Sex | Female | 
-> Age | Unknown, Ancient |
-> Condition | Healthy |
+> Race |  | 
+> Sex |  | 
+> Age | |
+> Condition |  |
 > ######  Information
 > Type |  Stat |
 > ---|---|
-> Current Location | [[Conscriptus]] |
+> Current Location |  |
 > Class |  |
 > Alias(es) |  |
 > Known Family | |
@@ -34,6 +33,7 @@ Luminora's subjective take on who the person is to her, what they represent, how
 ## Known Record
 
 ## Major Appearances
+- [[Entry 17]]
 
 ## NOTE (Editorial Addenda)
 This is where omniscient or retrospective information is added. Use this for lore, stats, theories, or contradictions.

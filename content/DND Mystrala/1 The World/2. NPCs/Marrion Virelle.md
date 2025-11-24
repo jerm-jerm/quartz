@@ -50,6 +50,8 @@ In sharing a bottle, I accessed fragments of Marrion’s memories. She spoke to 
 - [[Entry 02]]
 - [[Entry 03]]
 - [[Entry 07]]
+- [[Entry 16]]
+- [[Entry 17]]
 
 ## NOTE (Editorial Addenda)
 Records indicate Marrion Virelle has prior ties to intelligence operations concerning the Sixth House. She was overheard referencing the name _Samita_, an utterance that caused a visible reaction in Yedan, suggesting personal or operative significance.

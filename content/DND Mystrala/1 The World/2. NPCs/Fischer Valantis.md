@@ -23,7 +23,7 @@ tags:
 > Current Location | The Embermaw |
 > Class |  |
 > Alias(es) |  |
-> Known Family | [[Cindralis Characters\|Coven Valantis]], Marceline Valantis |
+> Known Family | Marceline Valantis, [[Cindralis Characters\|Coven Valantis]] |
 > Known Groups | House Valantis; Ledgermen Block 233 |
  
 

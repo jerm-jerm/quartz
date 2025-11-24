@@ -8,7 +8,7 @@ tags:
 
 
 > [!infobox]
-> # `Admiral and Lord Katharis` 
+> # `Admiral Thessa Katharis` 
 > ![[Placeholder Image.png]]
 > ###### Bio
 > Type |  Stat |
@@ -23,7 +23,7 @@ tags:
 > Current Location | [[Conscriptus]] |
 > Class | Bladedancer |
 > Alias(es) |  |
-> Known Family | Dainric Katharis, [[Luminora Katharis]], Vaelin Katharis, [[Celeste Katharis]] |
+> Known Family | Dainric, [[Luminora Katharis\|Luminora]], Vaelin, [[Celeste Katharis\|Celeste]] |
 > Known Groups |  |
  
 

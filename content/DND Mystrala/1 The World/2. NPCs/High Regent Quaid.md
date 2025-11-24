@@ -33,6 +33,7 @@ My knowledge of High Regent Quaid remains significantly limited but significant.
 [[Marrion Virelle]] reports directly to him, a fact that aligns with the elevated expectations he places upon her. His demeanor toward Marrion is marked by a cold formality that borders on the ominous. I sense in him a predilection for control beyond the visible: I suspect he possesses the means to contact Marrion mentally and to monitor the activities of the Block 252 Ledgermen. Such capabilities would align with his role as master of secrets and shadows.
 
 ## Known Record
+Information through written means or verbal inquiry into the spymaster is entirely unavailable. I may have glimpsed his face in Marrion's memories, although even that is an uncertainty.
 
 ## Major Appearances
 
