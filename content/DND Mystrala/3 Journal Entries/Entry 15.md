@@ -6,19 +6,19 @@ tags:
 [[Entry 14|← Previous Entry]] <span style="float: right;">[[Entry16|Next Entry →]]</span>
 <div style="text-align: left; font-size: 1.25em;"><em>314Fi.2Q.78-79</em></div>
 
-I retrieved Serroux's Chime of the Last Song from Fischer's body, anticipating the need for a clear record should my actions be questioned. I delivered my report directly to Admiral Katharis. Admiral Marceline Valantis met the news with evident distress. Mother stated that, as a daughter of Katharis my actions required no justification. She opened a gate to Conscriptus and promptly departed. 
+I retrieved Serroux's Chime of the Last Song from Fischer's body, anticipating the need for a clear record should my actions be questioned. I delivered my report directly to Admiral Katharis. Admiral Marceline Valantis met the news with evident distress. Mother stated that, as a daughter of Katharis my actions required no justification. She opened a gate to [[Conscriptus]] and promptly departed. 
 
 Upon our arrival, that household staff settled the others with predictable efficiency. I departed to my room to clean up and prepare for the inevitable discussion. 
 
-Mother reports that Fischer could not have arranged the ambush alone; a Ledgermen collaborator is almost certain. She commended my handling of the engagement and spoke about the expectations of leadership within our House. Most surprising was her admission: “I have been demanding of you because I see you taking this seat one day.”
+Mother reports that [[Fischer Valantis|Fischer]] could not have arranged the ambush alone; a Ledgermen collaborator is almost certain. She commended my handling of the engagement and spoke about the expectations of leadership within our House. Most surprising was her admission: “I have been demanding of you because I see you taking this seat one day.”
 
-My reunion with Celeste was sharper than anticipated. Training has honed her in my absence; I recognize the early coldness of my own formation in her. Some of her warmth remains. I had not realized how sharply I felt the absence of my family until standing beside her again.
+My reunion with [[Celeste Katharis|Celeste]] was sharper than anticipated. Training has honed her in my absence; I recognize the early coldness of my own formation in her. Some of her warmth remains. I had not realized how sharply I felt the absence of my family until standing beside her again.
 
-NOTE: House staff report Mazarin spent considerable time in the library. While no disturbance was not noted, she is suspected to have accessed Celeste’s journal. 
+NOTE: House staff report [[Mazarin]] spent considerable time in the library. While no disturbance was not noted, she is suspected to have accessed Celeste’s journal. 
 
-NOTE: Kitchen staff overseeing the dinner service observed Varrick arrive approximately forty minutes early, sharing whiskey with Lord Dainric Katharis.
+NOTE: Kitchen staff overseeing the dinner service observed [[Charles Brand|Charles]] arrive approximately forty minutes early, sharing whiskey with Lord Dainric Katharis.
 
-After dinner, four of us, Celeste, Mazarin, Enoch, and myself, moved to the training hall.
+After dinner, four of us, Celeste, Mazarin, [[Enoch]], and myself, moved to the training hall.
 
 Mazarin used her telekinetic craft to sharpen my evasive footwork and refine my parries; her precision makes for an efficient drill. Enoch defeated Celeste in their duel. She has grown markedly since my departure. 
 
@@ -26,7 +26,7 @@ NOTE: Staff journals indicate Charles spent much of the evening sharing drinks a
 
 On the day of the funeral, I confirmed everyone’s attire beforehand, except for Mazarin, whose choices are reliably predictable. House Katharis and our Ledgermen cohort arrived mid-eulogy, entering as one, uniform and immaculate.
 
-Multiple members of the Valantis household spoke well of Fischer, his manipulative actions glossed over. Corven approached with tension in his posture, bordering on hostility. He expressed disappointment in his brother's actions and his resulting the death, yet voiced hope that it might still serve a purpose.
+Multiple members of the Valantis household spoke well of Fischer, his manipulative actions glossed over. [[Cindralis Characters|Corven]] approached with tension in his posture, bordering on hostility. He expressed disappointment in his brother's actions and his resulting the death, yet voiced hope that it might still serve a purpose.
 
 I reconnected briefly with Belladona Vorynth; she and her sisters stood in place of their ever-absent matriarch. Her interest in Charles was notable and suspicious given Vorynth's mysterious dealings. Freya Maelthrumm greeted me as well and extended an invitation for a hunt. Before our departure, Mother informed me that I have been summoned by Prophet Xalithea.
 

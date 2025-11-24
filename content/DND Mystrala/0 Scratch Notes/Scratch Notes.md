@@ -18,10 +18,3 @@ Random Notes without a home:
 
 
 ![[New Ledgermen 3.png]]
-
-
-
-solidify alligance to the far empire, bring conscripptus back into the fold
-abandoning our post as FETC
-sabotage the beast from within
-

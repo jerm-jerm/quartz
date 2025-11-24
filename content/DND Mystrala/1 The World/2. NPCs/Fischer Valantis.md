@@ -1,5 +1,6 @@
 ---
 aliases: 
+- Fischer
 tags: 
 - NPC
 ---
@@ -22,7 +23,7 @@ tags:
 > Current Location | The Embermaw |
 > Class |  |
 > Alias(es) |  |
-> Known Family | [[Cindralis Characters\|Coven Valantis]] |
+> Known Family | [[Cindralis Characters\|Coven Valantis]], Marceline Valantis |
 > Known Groups | House Valantis; Ledgermen Block 233 |
  
 
