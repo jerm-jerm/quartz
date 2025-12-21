@@ -23,3 +23,9 @@ Primal charm
 charm of tether - gain the ability to cast warding bond once daily and can burn spell slots to cast it 
 
 tailsman that can hold 2 of any charm to each party member. 
+
+
+left wrist is 
+- mylium charm: carries three charges that you can use to upcast spells, gain 1 charge ever dawn, can also cast spells into it to recharge
+- charm of authority: you spells count as one level higher when an attempt is made to counterspell and dispell
+
