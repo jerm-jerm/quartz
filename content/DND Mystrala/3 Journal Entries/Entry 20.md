@@ -4,39 +4,31 @@ tags:
 - summary
 ---
 [[Entry 19|← Previous Entry]] <span style="float: right;">[[Entry 21|Next Entry →]]</span>
-<div style="text-align: left; font-size: 1.25em;"><em>314Fi.2Q.66</em></div>
+<div style="text-align: left; font-size: 1.25em;"><em>314Fi.2Q.82</em></div>
 
-we are on the train again on an escort mission to verdania. passing by the divinorum, see a massive statue. enter the lush green veil.
+The route on The Holy Rail carried us past The Divinorum towards Verdania. The landscape transitions to the lush green veil before an abnormal darkness fell upon us. 
 
-train car goes dark. can hear and attack on the car that ainsley is in. doors between the cars are locked. Charles and mazarin go out the back and over the top. I dispel magic to get rid of the darkness. Mazarin drops into the space between the train and teleports an injured professor Alderdice into our train car. Charles goes around and gets into the train car that is being attacked. Mazarin teleports us into the car and we watch as the Revent kills charles. Ainsely and her mercinaries are dead on the group. The shadow of the reventant disappears. 
+A disturbance followed from the forward carriage, the one containing Ainsley and Professor Alderdice. Sounds of chaotic violence could be heard through the sealed train doors. Charles and Mazarin exited through the rear and traversed the roofline. I dispelled the ambient darkness affecting our car. Moments later, Mazarin dropped between the cars and teleported an injured Alderdice into our compartment. Charles breached the attacked car from the opposite side. Mazarin then repositioned us into that carriage.
 
-I stabilize charles but he remained in critical condition as my healing isnt comprehensive. 
+A revenant was present. Charles was struck with a force that left him unconscious and near death. Ainsley and her mercenaries were already dead. The revenant’s shadow withdrew and vanished.
 
-There are approx 8 passengers/staff members on the train. we try and find who might be the revenant. 
+I stabilized Charles with little healing I had avaliable. 
 
-Enoch questions a tiefling Kessaria who thinks he is being racist (spieces-ist?). Mazarin questions Father Rillik and Sister Olyss Thorne. Sal, delayed in relaizing the fight was over, throws a bomb into the train car which mazarin deftly defuses. Charles, still apparently a bit out of it, or reckless, one would hope the former, shoots in Sal's direction which panics the passengers.
+There were eight remaining passengers and staff. We proceeded under the assumption that the revenant's tether was aboard, concealed. Enoch questioned a tiefling woman, Kessaria, who responded with hostility and accused him of prejudice. Mazarin questioned Father Rillik and Sister Olyss Thorne. Sal, delayed in registering that hostilities had ceased, deployed an explosive into the carriage; Mazarin neutralized it before detonation. Charles, impaired by injury or judgment, discharged his weapon in Sal’s direction, causing further panic.
 
-I move to question Capitain Halden Marrick and Loren Vey. I ask for his documentation of prisoner transport, and on review it appears the prisoner was said to be delivered from the divinorum to the aetherforge. but the path of our train would be redundant for such travel. Mazarin speaks mentally with the prisoner who states the guards suspicious stood up before the attack. my supicions begin to lie with the guard and I mentally communicate this to the others. enoch continues to interogate others in the train
+I questioned Captain Halden Marrick and the prisoner he was escorting, Loren Vey. I requested documentation regarding prisoner transport. The records stated the prisoner had been transferred from the Divinorum to the Aetherforge with a plan to dispatch him in Verdania. The route taken by the Holy Rail made the itinerary redundant and illogical. Mazarin established mental contact with the prisoner, who reported that the guard had oddly stood up just prior to the attack. This detail shifted my suspicion toward the escort which I communicated to the others.
 
-we convince him to go to another car and the capitain moves to attack. i defend against a barrage of blows and then he moves to run away. mazarin pulls him back in, enoch deals some damage. something on his face looks stunned and disoriented. Instead of moving to attack again I paralyze him with a spell and ask the others to disarm him then charles comes in and shoots him in the head.
+We isolated Captain Marrick under the pretense of further questioning. He attempted an immediate assault. I held against the initial barrage. When he attempted to flee, Mazarin restrained him and Enoch inflicted injury. Marrick’s expression was briefly vacant, disoriented, as if something behind the face had been interrupted. I paralyzed him and ordered him disarmed.
 
-I admonished charles for his actions, weve lost our source of information, and his excuse was not sufficient. the prisoner he was escorting moved to release himself. and I was almosted convinced to let him go. but i remembered the look on the guards face, and realized that the documentation could have been forged to get the prisoner on the train, not the guard. i moved to injure him, assuming if he was a revenant his shadow would be forced to come out to protect him. he pled for his life, but i knew in his eyes that he held no fear. the shadow was immediately released
+Charles entered and executed him with a shot to the head.
 
+I reprimanded Charles. We had lost our primary source of information, and his justification did not meet any operational standard. The prisoner then attempted to free himself. For a moment, I considered allowing it. That inclination passed when I recalled the guard’s expression and re-evaluated the transport records. The documentation could have been forged to place the prisoner on the train, not the guard.
 
+I injured the prisoner deliberately. If he were the host, the revenant’s shadow would be forced to surface to preserve him. He pleaded for his life. There was no fear in his eyes.
 
-The Holy Rail - one of the founders creations, revered by some
-
+The shadow emerged immediately.
 
 ![[Pasted image 20251221204643.png]]
-- CV ex steel covenent honorably discharge association wwith charter merchant consortium out of aetherforge, artificer by trade, IRD watchful 
-- SOT half elf associated with church of the emberfront out of santiforge cleric light domain IRD loyal
-- FR emberfront district loyal IRD
-- Gratch railwarden IRD fractured due to proximity to verdania workers unions alias: one shoe
-- kessaria: translator but fired, spellcaster, IRD volatile, warrant issued in 3 city states for suspected occult stuff, active member of greenpatch guild, verdania native
-- Morris railwarden enginneer does work out of logistica as efficiency coordinator, stable IRD
-- Loren IRD ruinous, convicted insurrectionist from aetherforge plan for life of labor in verdania, memory realignment and remediation, crimes: shared propiretoary tech with insurrectionist.
-- CHM: steel covenent in the logistics division, transporation and conservation of domestic terrorist IRD loyal
-
 
 ### Current Places 
 

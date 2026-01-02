@@ -29,3 +29,25 @@ left wrist is
 - mylium charm: carries three charges that you can use to upcast spells, gain 1 charge ever dawn, can also cast spells into it to recharge
 - charm of authority: you spells count as one level higher when an attempt is made to counterspell and dispell
 
+- CV ex steel covenent honorably discharge association wwith charter merchant consortium out of aetherforge, artificer by trade, IRD watchful 
+- SOT half elf associated with church of the emberfront out of santiforge cleric light domain IRD loyal
+- FR emberfront district loyal IRD
+- Gratch railwarden IRD fractured due to proximity to verdania workers unions alias: one shoe
+- kessaria: translator but fired, spellcaster, IRD volatile, warrant issued in 3 city states for suspected occult stuff, active member of greenpatch guild, verdania native
+- Morris railwarden enginneer does work out of logistica as efficiency coordinator, stable IRD
+- Loren IRD ruinous, convicted insurrectionist from aetherforge plan for life of labor in verdania, memory realignment and remediation, crimes: shared propiretoary tech with insurrectionist.
+- CHM: steel covenent in the logistics division, transporation and conservation of domestic terrorist IRD loyal
+
+
+Ainsley's body: sending stone, 1500 gold, superior healing potion, charm unsure about (need to identify)
+
+kessaria creates a thank you gift 1250 gold, array of belongings 
+- potion of heroism
+- scroll of protection against aberrations
+- folding boat 
+- guitar case, guitar (masterfully crafted and probably worth a lot of money). vicenzo restore on the head, the meridian. (once per day you can while playing this instrument can cast prayer of healing and once per day a 10 minute performance can be used as a bolstering performance for anyone has the feat)
+550 each
+
+charm of spite: allows one to concentrate on hex and something else
+
+kassaria says if you need odd collectible, Root and Rind collective.
