@@ -14,6 +14,7 @@ Notes To Do:
 - Kessaria
 - [[Cassius]]
 	- He noted, almost casually, that he had recently married.
+Gibby:  after learning the gnome’s father is allegedly a mid-ranking chain devil
 
 
 Random Notes without a home:
