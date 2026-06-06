@@ -12,6 +12,8 @@ Notes To Do:
 - Orkus
 - Unnamed Demon Prince that give devil vibes
 - Kessaria
+- [[Cassius]]
+	- He noted, almost casually, that he had recently married.
 
 
 Random Notes without a home:
