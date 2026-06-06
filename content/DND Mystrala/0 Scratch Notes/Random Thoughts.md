@@ -62,3 +62,32 @@ kassaria says if you need odd collectible, Root and Rind collective.
 
 Kessaria drops some stuff off and we all leave the room with her and enoch together
 - potion of storm giant strength 1hr
+
+
+freeing people from prison. grabbing stuff as we go:
+- keys
+- 100 gold
+- ledger with betting sheet (seems to be variety of demons and xalithea)
+- beautiful ornate jacket with magical energy (sigil is a flaming circle with a slash) which enoc puts on
+	- base ac goes up
+chest:
+1 mimic
+2 handy haversack
+3 weird glove
+4 ring of swimming
+5 potion of heroism
+6 single arrow ammunition of beast slaying
+7 vicious dagger
+8 platinum coin mimic vomit 
+9 musical instrument, small guitar
+
+- knights weapons x9
+- 3 lesser healing potions
+
+Gorzul the flame of the tinari
+
+weird glove - gloves of thievery +5 to lockpicking, tak eany appearance including 
+vicious dagger - 
+Gorzul cloak - graceful cloak (thing we can look up) black tattered, fire edges, attunement, weight reduced by 50%, advantage on dexterity saving throws, half damage from falling
+Gorzul's weapon - collosssal weapon infused with soul of a champion, qualities you dont completely understand, cursed vibe 4d10 force damage when doing a pulnging attack more than 10 ft, +3 sword, 2d8 is the attack
+MDoAF - can cast animal friendship

@@ -1,5 +1,5 @@
 ---
-date: 2026-MM-DD
+date: 2026-05-17
 tags: 
 - summary
 ---
