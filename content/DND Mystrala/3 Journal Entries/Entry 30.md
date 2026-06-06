@@ -8,6 +8,9 @@ tags:
 
 need to rewatch video (missed session)
 
+running around the arena doing stuff
+	Celeste learns from enoch that luminora is there
+	charles eats the bow for his gun
 ### New People
 
 
