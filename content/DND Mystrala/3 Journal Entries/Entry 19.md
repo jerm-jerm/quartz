@@ -38,7 +38,7 @@ We delivered him to Ainsley alive, as ordered. She appeared pleased and requeste
 
 Our next assignment was issued without pause: an escort mission north of Verdania.
 
-### Current Places 
+### Current Location 
 - The Aetherforge
 	- Vaelin's University of Arcane Enchantment
 	- Rail Station

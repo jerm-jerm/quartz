@@ -30,12 +30,14 @@ The shadow emerged immediately.
 
 ![[Pasted image 20251221204643.png]]
 
-### Current Places 
+### Current Location 
 
 
 ### Recap Video
-Insert Link Here
+https://www.youtube.com/watch?v=Al7PX-xSpB4
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Al7PX-xSpB4?si=A_GnpztENGsP-QDB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Entry 19|← Previous Entry]] <span style="float: right;">[[Entry 21|Next Entry →]]</span>

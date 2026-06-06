@@ -26,14 +26,6 @@ Sal and Yedan seemed concerned for my state of mind. Unnecessarily. Mazarin was 
 
 We will rest as we continue now to the Sanctiforge.
 
-### People
-- Horus - Ledgerman operative. Oversees our assignments
-- Marrion - Magical and combat capabilities
-- Stevan Logerath - Poet from The Sanctiforge
-- Father Hendricks - Hostile. Led attack on train. Magical capacity unknown. May still live. 
-
-- *Kallow - Halfling acting abnormally. Travelling to healer.*
-
 ### Current  Location 
 - The Pale Waste
 

@@ -30,7 +30,7 @@ Freya led us to a nesting field where a necromancer has been reanimating feral b
 
 Before engaging the nest and its undead creatures, Freya offered us an opportunity to turn back. We declined. We do not withdraw from necessary engagements.
 
-### Current Places 
+### Current Location 
 - [[Conscriptus]]
 	- Vorynth Manor
 	- Katharis Manor

@@ -29,7 +29,7 @@ Prior to departure, Ainsley ordered us marked with arcane tattoos that would all
 
 Upon reflection, her conduct suggests authority asserted rather than possessed. Performance and threat are poor substitutes for true power.
 
-### Current Places 
+### Current Location 
 - [[Conscriptus]]
 	- Katharis Manor
 	- Rail Station

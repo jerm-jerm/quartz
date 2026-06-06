@@ -34,7 +34,7 @@ I left after saying little more, only that many seemed invested in my success, a
 
 I like her, and I believe she feels something in return. But her position requires caution, and I am shaped as I am. Understanding the reasons does little to soften the ache.
 
-### Current Places 
+### Current Location 
 - [[Conscriptus]]
 	- The Clay Warrens
 	- Katharis Manor

@@ -22,13 +22,15 @@ Kessaria, one of the passengers, gathered items from the survivors as offerings 
 
 We paused only long enough to regain functional order before the train entered Verdania. On the platform, visible through the settling steam and crowd movement, Marrion was waiting.
 
-### Current Places 
+### Current Location 
 
 
 ### Recap Video
-Insert Link Here
+https://www.youtube.com/watch?v=-lpr87O-CbU
 
 If video is not available below, click link above to watch on YouTube directly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-lpr87O-CbU?si=d_ToDegJ3CdYih6v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [[Entry 20|← Previous Entry]] <span style="float: right;">[[Entry 22|Next Entry →]]</span>
 

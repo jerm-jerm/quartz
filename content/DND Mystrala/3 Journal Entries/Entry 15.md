@@ -32,7 +32,7 @@ I reconnected briefly with Belladona Vorynth; she and her sisters stood in place
 
 Home has changed, and so have I. The honor of standing before Xalithea is tempered only by the question of my purpose going forward.
 
-### Current Places 
+### Current Location 
 - [[Conscriptus]]
 	- Katharis Manor
 	- Valantis Manor

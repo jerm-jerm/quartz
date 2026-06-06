@@ -1,13 +1,17 @@
-In Character To Do:
-- Use detect magic to see if Marrion has magic similar to Mazarin or if mental changes similar to Charles (not from the empire but maybe from something else)
-- WHO? is behind all of this. The Oracle? Quaid? Someone else?
-
-
 Notes To Do:
 - Steel Covenant
 - Sixth House (Mysterious organization referenced in relation to Yedan and Mazarin)
 - Syreal and the Southern Agati 
 	- Battling against the northern Agati. dragons?
+- Otiluke - part of the Suremi Cabal
+- Clockwork Consortium 
+- Charles 
+	- Orkus Curse and the Shadow That Was
+- Verdania
+	- demigod being known as the green warden
+- Orkus
+- Unnamed Demon Prince that give devil vibes
+- Kessaria
 
 
 Random Notes without a home:

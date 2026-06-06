@@ -51,3 +51,14 @@ kessaria creates a thank you gift 1250 gold, array of belongings
 charm of spite: allows one to concentrate on hex and something else
 
 kassaria says if you need odd collectible, Root and Rind collective.
+
+- dawnbreaker bow
+- 3 potions
+- black bag of powder
+- pieces of armor
+- 3 potions of superior healing
+- dust of sneezing and choking 8d4 + 8
+- 2000 dark iron coins (currency in conscriptus but also a precision metal)
+
+Kessaria drops some stuff off and we all leave the room with her and enoch together
+- potion of storm giant strength 1hr
