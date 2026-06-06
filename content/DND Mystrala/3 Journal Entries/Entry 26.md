@@ -6,39 +6,22 @@ tags:
 [[Entry 25|← Previous Entry]] <span style="float: right;">[[Entry 27|Next Entry →]]</span>
 <div style="text-align: left; font-size: 1.25em;"><em>314Fi.2Q.66</em></div>
 
-**
+The proposal, to enter the War Games, was framed as both strategic necessity and opportunity. To do so, we boarded the Velvet Knife under the command of Yuna Lysandra, and her "New Remnants". The vessel itself is quick and streamlined if not overly decadent, which reflects its commander.
 
-Preliminary discussions coalesced into a secession maneuver centered on Conscriptus. The proposal, influenced in part by Marrion and supported by others, was framed as both strategic necessity and opportunity. I find the distinction increasingly irrelevant. We prepare for outcomes; justification is often constructed after the fact.
+**NOTE**: Records indicate that Charles withdrew during transit to review his magical communication journal. Accounts and his own report suggest an anomalous interaction: a cold presence carried on the wind, followed by written responses appearing within the text itself. The message, “Why would I be watching you?” is attributed to his connections to House Vorynth, though this remains unconfirmed.
 
-We boarded the Velvet Knife under the command of Yuna Lysandra, and her New Remnants. The vessel itself is quick and streamlined if not overly decadent, it reflects its commander.
+Mid-journey, we were intercepted. Three knights, clad in white-paint coated armor alongside a dragon. My name was spoken directly. The charge: destabilization. The demand: surrender, or execution. I remain unsure of the actions I had taken to cause the unreasonable charge. Still, there was no deliberation.
 
-NOTE: Records indicate that Charles withdrew during transit to review his journal. Bystander accounts and his own report suggest an anomalous interaction: a cold presence carried on the wind, followed by written responses appearing within the text itself. The message—“Why would I be watching you?”—is attributed to his connections to House Vorynth, though this remains unconfirmed. The phenomenon warrants continued observation.
+The crew and party moved to defensive positions with acceptable speed. The sequence that followed was not clean, but it was effective enough. Enoch utilized his staff for rapid repositioning that disrupted enemy formation. Mazarin executed a wide-reaching psychic assault. Sal maintained a semblance of a defensive line with surprising consistency under pressure.
 
-Mid-journey, we were intercepted.
+I engaged at close range. My movements were precise. The dragon forced irregular spacing; the knights compensated with coordinated pressure.
 
-Three knights, clad in white-paint coated armor alongside a dragon. My name was spoken directly. The charge: destabilization. The demand: surrender, or execution. (idk why)
+At some point, the engagement fractured vertically, moving the battle to the air. The decision was tactically unsound in isolation, but within the chaos, it created openings.
 
-There was no deliberation.
+A spell compromised my mental state leading to a failure of targeting discrimination. I registered proximity, threat, and motion, and acted. The blade connected before correction could occur. It was Charles. The error was not in execution, but in allowance. I permitted external influence to override internal discipline, which is unacceptable.
 
-The crew and party moved to defensive positions with acceptable speed. I entered blade-trance without delay. The sequence that followed was not clean, but it was effective enough. Enoch utilized his staff for rapid repositioning that disrupted enemy formation. Mazarin executed a wide-reaching psychic assault. Sal maintained a semblance of a defensive line with notable consistency under pressure.
+The engagement concluded in our favor, though “control” would be an inaccurate descriptor. The attackers were repelled; their objective incomplete. The commander did not reveal themselves. The accusation from an unknown source remains.
 
-I engaged at close range. My movements were precise, though not without deviation. The dragon forced irregular spacing; the knights compensated with coordinated pressure. I adjusted accordingly.
-
-At some point, the engagement fractured vertically. Multiple combatants abandoned the deck entirely, moving the battle to the air. The decision was tactically unsound in isolation, but within the chaos, it created openings.
-
-There was an interruption.
-
-A spell compromised my mental state leading to a failure of targeting discrimination. I registered proximity, threat, and motion, and acted. The blade connected before correction could occur.
-
-Charles.
-
-I have reviewed the sequence repeatedly. The error was not in execution, but in allowance. I permitted external influence to override internal discipline. That is unacceptable.
-
-The engagement concluded in our favor, though “control” would be an inaccurate descriptor. The attackers were repelled; their objective incomplete. The commander did not reveal themselves. The accusation remains.
-
-Some better ending line.
-
-**
 ### Current Location 
 
 
