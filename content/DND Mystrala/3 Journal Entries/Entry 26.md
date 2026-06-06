@@ -10,7 +10,7 @@ The proposal, to enter the War Games, was framed as both strategic necessity and
 
 **NOTE**: Records indicate that Charles withdrew during transit to review his magical communication journal. Accounts and his own report suggest an anomalous interaction: a cold presence carried on the wind, followed by written responses appearing within the text itself. The message, “Why would I be watching you?” is attributed to his connections to House Vorynth, though this remains unconfirmed.
 
-Mid-journey, we were intercepted. Three knights, clad in white-paint coated armor alongside a dragon. My name was spoken directly. The charge: destabilization. The demand: surrender, or execution. I remain unsure of the actions I had taken to cause the unreasonable charge. Still, there was no deliberation.
+We were intercepted at the Blackwater Strait. The attackers, three knights, clad in white-paint coated obscured armor, descended from dragonback, and claimed authority beyond that of the Empire. My name was spoken directly. The charge: destabilization. The demand: surrender, or execution. I remain unsure of the actions I had taken to cause the unreasonable charge. Still, there was no deliberation.
 
 The crew and party moved to defensive positions with acceptable speed. The sequence that followed was not clean, but it was effective enough. Enoch utilized his staff for rapid repositioning that disrupted enemy formation. Mazarin executed a wide-reaching psychic assault. Sal maintained a semblance of a defensive line with surprising consistency under pressure.
 
