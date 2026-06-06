@@ -16,17 +16,11 @@ From there, we were brought to a northern hall where a council had already conve
 
 The remainder of the interval was allocated to recovery and integration. Supplies were acquired through a figure identifying himself as Otiluke, whose tendency toward self-aggrandizing narrative does not fully obscure his utility. A baker operating under the name Knuckle Bones provides sustenance.
 
-Mazarin pursued alterations to her attire under MB’s guidance, citing a desire to abandon the visual markers of imperial affiliation. This is not a trivial choice. Identity, once made visible, is difficult to retract. I will assess the implications of this shift over time.
+Mazarin pursued alterations to her attire under MB’s guidance, citing a desire to abandon the visual markers of imperial affiliation. 
 
-The sanctuary operates as a contained model of the broader objective: decentralized coordination, selective intervention, and the cultivation of independent actors. Talon oversees recruitment, though the term is presented with restraint. Participation is framed as alignment, not obligation.
-
-There is, however, a fracture within this structure.
-
-Information—unverified, but corroborated across multiple low-confidence sources—suggests the presence of a mole within the sanctuary. If accurate, this undermines the very principle upon which the network depends: controlled dissemination of information. A system built on selective trust cannot tolerate internal compromise without consequence.
+There is, however, a fracture within the structure of The Shattered Covenant. Information suggests the presence of a mole within the sanctuary. If accurate, this undermines the very principle upon which the network depends. A system built on selective trust cannot tolerate internal compromise without consequence.
 
 I will proceed under the assumption that observation extends in both directions.
-
-Trust, here, is not given. It is tested.
 
 ### Current Location 
 
